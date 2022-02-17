@@ -1,6 +1,6 @@
 # Liste di parole italiane
 
-In questo repo si trova un fork di una raccolta di parole italiane e dizionari, da utilizzare esclusivamente per test e laboratori di programmazione dei vari linguaggi.
+In questo repo si trova un fork (di Copyright (c) 2016 Francesco Napoletano) di una raccolta di parole italiane e dizionari, da utilizzare esclusivamente per test e laboratori di programmazione dei vari linguaggi.
 
 Utilizzatele liberamente solo per scopi autorizzati e legali.
 
