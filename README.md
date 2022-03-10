@@ -1,4 +1,22 @@
-# Liste di parole italiane
+# Risorse per testare software e costruire applicazioni
+
+Questo repo contiene una raccolta di risorse per sviluppare applicazioni.
+
+## Immagini di utilità
+
+* /images
+
+## Tabelle
+
+* database e tabelle sql
+* dati fake per inizializzare
+
+## Text files
+
+* file di testo
+* file json
+
+## Liste di parole italiane
 
 In questo repo si trova un fork (di Copyright (c) 2016 Francesco Napoletano) di una raccolta di parole italiane e dizionari, da utilizzare esclusivamente per test e laboratori di programmazione dei vari linguaggi.
 
