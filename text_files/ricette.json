@@ -1,0 +1,245 @@
+{
+    "ricette": [
+        {
+                "id": "001",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        },        
+        {
+                "id": "002",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "003",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "004",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "005",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "006",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "007",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "008",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "009",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "010",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "011",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "012",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "013",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "014",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "015",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "016",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "017",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "018",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "019",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "020",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "021",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "022",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "023",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "024",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "025",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "026",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "027",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "028",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "029",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "030",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "031",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "032",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "033",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "034",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "035",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "036",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "037",
+                "titolo": "Cappelletti in brodo",
+                "ingredienti": "200 g filetto di maiale, 200 g di polpa di vitello, 1/4 di cappone, 200 g di Parmigiano Reggiano, sale, pepe",
+                "preparazione": "Per preparare i cappelletti in brodo, partite dal ripieno. Con un coltello affilato ricavate la carne dal cappone eliminando la carcassa e la pelle (potrete conservarli per il brodo). Tagliate la polpa ottenuta a cubetti e procedete nella stessa maniera anche con il vitello e il maiale. Fateli rosolare in una padella ben calda insieme al burro, girandoli spesso con una paletta fino a quando avranno preso leggermente colore.",
+        
+        {
+                "id": "038",
+                "titolo": "Pizza",
+                "ingredienti": "Pomodoro, farina, olio, sale, lievito",
+                "preparazione": "Impastare, far lievitare, infornare, guarnire, cuocere",
+        },
+        {
+                "id": "039",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+        {
+                "id": "040",
+                "titolo": "Cappelletti al sugo",
+                "ingredienti": "Cappelletti, pomodoro, sale, olio, pepe",
+                "preparazione": "Far bollire l'acqua, salare, buttare i cappelletti, lasciarli 4 minuti e scolarli. Nel frattempo scottare il pomodoro con l'olio, il sale e il pepe",
+        },
+    ]
+}
+
