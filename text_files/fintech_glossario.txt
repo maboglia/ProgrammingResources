@@ -1,0 +1,443 @@
+
+
+Acquisizione|parla di acquisizione quando una società decide di rilevarne un’altra. Le acquisizioni sono strategie di crescita e possono essere ostili o consensuali.|https://www.ig.com/it/glossario-trading/definizione-di-acquisizione
+
+ADR|L’ADR (acronimo di American Depositary Receipt) è un certificato che consente di operare su azioni di aziende non-US quotate sulle borse statunitensi.|https://www.ig.com/it/glossario-trading/definizione-di-adr
+
+Alert|Gli alert di IG (dati economici, prezzo, indicatori tecnici), anche chiamati "trading alert", consentono di specificare una condizione e ricevere una notifica non appena questa si verifica.|https://www.ig.com/it/glossario-trading/definizione-di-avvisi-di-trading
+
+Alfa di Jensen|Jensen misura il rendimento di un portafoglio di investimento rispetto a un determinato indice di riferimento, di solito un indice azionario. In altre parole, denota un rendimento superiore a quello che ci si attenderebbe dal mercato in un dato periodo di tempo. L’alfa di Jensen può essere positivo o negativo, a seconda della sua vicinanza o lontananza dai livelli di mercato.|https://www.ig.com/it/glossario-trading/definizione-di-alfa
+
+Ammortamento|è il processo contabile per il rimborso di un debito o del costo di un asset non tangibile, ripartito in un determinato periodo di tempo.|https://www.ig.com/it/glossario-trading/definizione-di-ammortamento
+
+Analisi azionaria|è lo studio e la valutazione del mercato azionario. Può assumere la forma di analisi su un singolo titolo, un settore o un’area più ampia.|https://www.ig.com/it/glossario-trading/definizione-di-analisi-azionaria
+
+Analisi fondamentale|fondamentale è un metodo di valutazione delle asset, sulla base di influenze esterne e delle comunicazioni finanziarie. Misura le condizioni economiche, finanziarie e di mercato.|https://www.ig.com/it/glossario-trading/definizione-di-analisi-fondamentale
+
+Analisi tecnica|è un mezzo per esaminare e prevedere i movimenti di prezzo nei mercati finanziari, sulla base dello studio dei grafici dei prezzi.|https://www.ig.com/it/glossario-trading/definizione-di-analisi-tecnica
+
+Apertura|Il termine apertura ha diversi significati nella finanza. Può far riferimento all'apertura degli scambi quotidiani in borsa o a un ordine o posizione non ancora eseguiti.|https://www.ig.com/it/glossario-trading/definizione-di-apertura
+
+Apertura forzata|è una funzione della piattaforma di trading IG che consente di aprire una posizione in direzione opposta a una scommessa esistente sullo stesso mercato.|https://www.ig.com/it/glossario-trading/definizione-di-apertura-forzata
+
+Apprezzamento della valuta|della valuta è l'aumento di valore di una valuta di una coppia forex rispetto all'altra valuta della coppia. I trader forex, parlano spesso del rafforzamento di una valuta in relazione a un'altra per indicare l'acquisto più oneroso di una valuta rispetto all’altra, o che tale valuta può comprare più unita dell'altra valuta quando viene venduta.|https://www.ig.com/it/glossario-trading/definizione-di-apprezzamento-della-valuta
+
+Arbitraggio|Il termine arbitraggio si riferisce alla pratica di acquistare un asset e venderlo immediatamente per trarre vantaggio dalla differenza di prezzo. L’asset viene solitamente venduto su un altro mercato, in una forma differente o con un diverso strumento finanziario, a seconda della modalità in cui si verifica la differenza di prezzo.|https://www.ig.com/it/glossario-trading/definizione-di-arbitraggio
+
+Ask|L’Ask (lettera) si riferisce al prezzo al quale è possibile acquistare un bene da un venditore. Può essere definito come la domanda o il prezzo richiesto.|https://www.ig.com/it/glossario-trading/definizione-di-prezzo-ask
+
+Assemblea generale degli azionisti|degli azionisti è una riunione annuale tra gli azionisti di un’azienda e il consiglio di amministrazione. Di solito rappresenta l’unico momento di incontro tra membri del consiglio e azionisti nell'arco di un anno, ed è per questo un’occasione per il consiglio di presentare il rapporto annuale dell’azienda.|https://www.ig.com/it/glossario-trading/definizione-di-assemblea-generale-degli-azionisti
+
+Asset|Il termine asset può fare riferimento sia a un'azienda (asset aziendale) sia a uno strumento finanziario (asset sottostante).|https://www.ig.com/it/glossario-trading/definizione-di-asset-finanziario
+
+Asta|Nel trading si intende per asta il processo durante il quale i prezzi delle azioni vengono determinati prima, dopo o durante l'asta per stabilizzare il book.|https://www.ig.com/it/glossario-trading/definizione-di-asta
+
+At the money|the money è un termine utilizzato nel trading con le opzioni e indica che il prezzo del mercato sottostante sta per raggiungere lo strike price.|https://www.ig.com/it/glossario-trading/definizione-di-at-the-money
+
+Aumento di capitale|di capitale è un’offerta di azioni, da parte di una compagnia agli azionisti esistenti, con l’obiettivo di raccogliere capitale aggiuntivo. |https://www.ig.com/it/glossario-trading/definizione-di-aumento-di-capitale
+
+Azione non vendibile allo scoperto|vendibile allo scoperto è il termine dato a una o più azioni sulle quali non è possibile applicare la strategia di vendita allo scoperto.|https://www.ig.com/it/glossario-trading/definizione-di-azione-non-vendibile-allo-scoperto
+
+Azioni|Le azioni sono singole porzioni di proprietà di un’azienda, normalmente negoziate nel mercato azionario. Sono note anche come titoli azionari.|https://www.ig.com/it/glossario-trading/definizione-di-azioni
+
+Azioni blue chip|azioni blue chip sono azioni di società affidabili, finanziariamente stabili e consolidate: sono al vertice nel proprio settore o quotate su un indice noto.|https://www.ig.com/it/glossario-trading/definizione-di-azioni-blue-chips
+
+Azioni proprie|proprie sono parte dello stock azionario conservato nella tesoreria di una compagnia. Questo tipo di azioni non sono incluse e non vengono calcolate nel numero totale delle azioni quotate in borsa.|https://www.ig.com/it/glossario-trading/definizione-di-titoli-del-tesoro
+
+Bande di Bollinger|bande di Bollinger sono un noto indicatore di analisi tecnica, sviluppato dal pionieristico trader John Bollinger negli anni ‘80.|https://www.ig.com/it/glossario-trading/definizione-di-bande-di-bollinger
+
+BCE|Acronimo di Banca Centrale Europea, la banca centrale per la Zona Euro, che ha il compito di definire la politica monetaria dell'area di competenza.|https://www.ig.com/it/glossario-trading/definizione-di-bce-banca-centrale-europea
+
+Bearish|Adottare una strategia bearish in finanza significa credere che un mercato, un asset o uno strumento finanziario stia per attraversare una fase discendente.|https://www.ig.com/it/glossario-trading/definizione-di-bearish
+
+Beni Tangibili|tangibili, o immobilizzazioni materiali, sono gli asset sul bilancio di un’azienda che hanno una forma fisica. Comprendono le macchine, le attrezzature per ufficio e gli immobili, nonché i materiali utilizzati nella produzione.|https://www.ig.com/it/glossario-trading/definizione-di-beni-tangibili
+
+Beta|Il beta di uno strumento finanziario è una misura del suo rischio o della sua volatilità rispetto al mercato.|https://www.ig.com/it/glossario-trading/definizione-di-coefficiente-beta
+
+Bid|Nel trading, la bid (offerta) è la somma che un acquirente è disposto a pagare per l'acquisto di uno strumento finanziario. È l'opposto di ask (domanda).|https://www.ig.com/it/glossario-trading/definizione-di-prezzo-bid
+
+BoE|La BoE (acronimo inglese di Bank of England) è la banca centrale del Regno Unito, fondata nel 1694. Ha grande importanza nelle decisioni di politica monetaria.|https://www.ig.com/it/glossario-trading/definizione-di-boe-bank-of-england
+
+Book|Il book (o libro degli ordini) è un elenco di operazioni elettronico o manuale, che una borsa usa per registrare l’interesse del mercato per uno specifico titolo o strumento finanziario.|https://www.ig.com/it/glossario-trading/definizione-di-book
+
+Book value|Il book value, o valore contabile del patrimonio netto, definisce la quotazione netta di una società o di un asset secondo lo status finanziario.|https://www.ig.com/it/glossario-trading/definizione-di-book-value
+
+Borsa|La borsa è il luogo dove avviene la compravendita delle azioni. Differisce da altri tipi di piazze di scambio in quanto è possibile negoziare solo le azioni.|https://www.ig.com/it/glossario-trading/definizione-di-piazza-azionaria
+
+Borsa valori|Borsa è un mercato in cui vengono negoziati gli strumenti finanziari (come materie prime, azioni o derivati). Possono essere sia fisiche o puramente digitali.|https://www.ig.com/it/glossario-trading/definizione-di-borsa-valori
+
+Brent crude|Il Brent Crude è uno dei tre benchmark sul petrolio utilizzati dai trader che operano sui future e altri derivati sul petrolio. Gli altri due benchmark sono il West Texas Intermediate (meglio noto come WTI) e Dubai/Oman.|https://www.ig.com/it/glossario-trading/definizione-di-bande-brent-crude
+
+Broker|Un broker è un professionista indipendente o una società che organizza ed esegue transazioni finanziarie per conto di terzi. Il broker agisce su una serie di classi di asset diverse, tra cui azioni, forex, beni immobili e assicurazioni, spesso addebitando una commissione per l’ordine da eseguire.|https://www.ig.com/it/glossario-trading/definizione-di-broker
+
+Bullish|Il termine 'bullish' si riferisce a quei trader che prevedono tendenze in salita per un mercato o qualsiasi altro strumento finanziario. Hanno una visione opposta ai 'bearish' trader.|https://www.ig.com/it/glossario-trading/definizione-di-bullish
+
+Buy|L'acquisto di uno strumento finanziario significa acquisirne la proprietà. Spesso nel trading l'acquisto di un bene non comporta il possesso del bene fisico.|https://www.ig.com/it/glossario-trading/definizione-di-buy
+
+Buy-back di azioni| o riacquisto di azioni proprie, è l’operazione di acquisto di azioni proprie da parte di un’azienda.|https://www.ig.com/it/glossario-trading/definizione-di-buy-back-di-azioni
+
+Cable|Cable è un termine utilizzato nel gergo del forex, che indica la coppia valutaria GBP/USD. Indica il cambio tra la sterlina inglese e il dollaro statunitense, una delle coppie valutarie più scambiate nel mercato forex.|https://www.ig.com/it/glossario-trading/definizione-di-cable
+
+Cambi flessibili|flessibile si riferisce a una valuta il cui prezzo è determinato da fattori di domanda e offerta rispetto ad altre monete.|https://www.ig.com/it/glossario-trading/definizione-di-cambi-flessibili
+
+Capital expenditure|capital expenditure ("CAPEX") sono gli investimenti in capitali, ovvero le spese che le imprese sostengono per l’acquisto di beni materiali. |https://www.ig.com/it/glossario-trading/definizione-di-capital-expenditure
+
+Capital gain|capital gain (o "plusvalenza") è il profitto realizzato nella compravendita di asset. Si realizza quando i trader vendono uno strumento finanziario, come azioni o materie prime, ad un prezzo maggiore rispetto a quello pagato per acquistarlo.|https://www.ig.com/it/glossario-trading/definizione-di-capital-gain
+
+Capitale di investimento|d'investimento del trader è la parte di risorse finanziarie disponibile per il trading. Può assumere forma monetaria o di un qualsiasi altro asset.|https://www.ig.com/it/glossario-trading/definizione-di-capitale-d-investimento
+
+Capitalizzazione di mercato|di mercato di un’azienda è dato dal valore totale delle sue azioni in circolazione sul mercato. Viene spesso indicato come market cap.|https://www.ig.com/it/glossario-trading/definizione-di-capitalizzazione-di-mercato
+
+Classi di asset|di asset è una categoria di strumenti finanziari: asset fisici o finanziari. Vengono raggruppati in base alle caratteristiche comuni, al loro comportamento sul mercato e alle stesse leggi e regolamenti che le disciplinano.|https://www.ig.com/it/glossario-trading/definizione-classe-di-asset
+
+Conto economico|economico è una relazione finanziaria che fornisce una sintesi dei ricavi, delle spese e dei profitti di un’azienda. Offre agli investitori e alle altre parti interessate una panoramica sul funzionamento di un’azienda e sulla sua capacità di generare profitti.|https://www.ig.com/it/glossario-trading/definizione-di-conto-economico
+
+Conto protetto|conto protetto, i clienti al dettaglio non perderanno più del saldo disponibile sul loro conto, anche in caso di movimenti imprevedibili del mercato.*|https://www.ig.com/it/glossario-trading/negative-balance-protection
+
+Contratti forward|forward (o contratto a termine) consiste in un accordo tra due parti per comprare o vendere un asset a un prezzo ed entro una data predefiniti. Entrambe le controparti hanno l’obbligo di adempiere alla propria parte dell’accordo.|https://www.ig.com/it/glossario-trading/definizione-di-contratti-forward
+
+Contratti future|future è un accordo legale tra due parti per negoziare un asset a un prezzo predefinito, in una data futura specifica.|https://www.ig.com/it/glossario-trading/definizione-di-contratti-future
+
+Contratti per differenza|per differenza (o CFD) sono derivati finanziari. Rappresentano un accordo tra due parti per scambiare la differenza di prezzo di un bene dal momento dell’apertura della posizione sino alla sua chiusura.|https://www.ig.com/it/glossario-trading/cfds-definition
+
+Convessità|La convessità delle obbligazioni misura la relazione tra il prezzo di un’obbligazione e i tassi di interesse. Viene utilizzata per valutare l’impatto che un aumento o una diminuzione dei tassi di interesse può avere sul prezzo di un titolo obbligazionario, il che evidenzia l’esposizione al rischio del titolare di un’obbligazione.|https://www.ig.com/it/glossario-trading/definizione-di-convessita
+
+Cost of Carry|Cost of Carry o costo di mantenimento, viene anche indicato come costo di conduzione. Può assumere varie forme e dipende dallo strumento negoziato.|https://www.ig.com/it/glossario-trading/definizione-di-cost-of-carry
+
+Costi fissi|I costi fissi sono i costi sostenuti da una società che non variano con la quantità prodotta. I costi fissi solitamente includono l’affitto, accordi contrattuali oppure delle licenze necessarie a un’azienda per operare, che restano invariati anche nel caso in cui la produzione della società dovesse aumentare o diminuire.|https://www.ig.com/it/glossario-trading/definizione-di-costi-fissi
+
+Costi variabili|variabili sono le spese che cambiano in base al volume di produzione di un’azienda. Differiscono dai costi fissi, che restano costanti.|https://www.ig.com/it/glossario-trading/definizione-di-costi-variabili
+
+Covered call|parla di covered call quando un trader vende un’opzione call su un bene su cui ha una posizione long aperta.|https://www.ig.com/it/glossario-trading/definizione-di-covered-call
+
+CPI|Il CPI, ovvero l’indice dei prezzi al consumo, è una media dei prezzi dei diversi beni di consumo e dei servizi che vengono utilizzati per il calcolo dell’inflazione.|https://www.ig.com/it/glossario-trading/definizione-di-cpi-indice-prezzi-al-consumo
+
+Cristallizzazione|vendere un asset in modo da ottenere una plusvalenza o una minusvalenza. Quando un investitore compra un asset sia le plusvalenze che le minusvalenze si realizzano solo quando i trader chiudono la posizione.|https://www.ig.com/it/glossario-trading/definizione-di-cristallizzazione
+
+Currency peg|una banca centrale sceglie di stabilizzare la valuta di un paese fissando il tasso di cambio di questa a quello di un'altra valuta, o altrimenti al prezzo dell'oro, si parla di currency peg (o anche “tasso di cambio fisso” o floor).|https://www.ig.com/it/glossario-trading/definizione-di-currency-peg
+
+Current Ratio|current ratio, o rapporto di liquidità a breve, è una misura utilizzata per stabilire la capacità di un’impresa di vendere i propri beni tangibili per estinguere il proprio debito a breve termine. Le aziende dispongono normalmente di un tempo limitato per estinguere i debiti a breve termine, quindi il current ratio è utile per stabilire la posizione di liquidità di un’azienda.|https://www.ig.com/it/glossario-trading/definizione-di-current-ratio
+
+Dark pool|Le Dark Pool sono mercati (borse elettroniche o private) che consentono agli investitori istituzionali di acquistare o vendere senza comunicare dettagli al mercato.|https://www.ig.com/it/glossario-trading/definizione-di-dark-pool
+
+Dati di mercato| i dati di mercato sono dati riguardanti vari asset e strumenti finanziari, comunicati da agenzie di trading e di cambio. |https://www.ig.com/it/glossario-trading/definizione-di-dati-di-mercato
+
+Day trading|Il day trading è una strategia d'investimento a breve termine che consiste nel chiudere tutte le posizioni aperte prima della chiusura del mercato.|https://www.ig.com/it/glossario-trading/definizione-di-day-trading
+
+Debentures|Nel Regno Unito, una debenture è uno strumento utilizzato da un finanziatore, come una banca, quando fornisce capitale a società e privati. Questo strumento consente al finanziatore di assicurare il rimborso del prestito a fronte degli asset dell’emittente, anche in caso di inadempienza del pagamento.|https://www.ig.com/it/glossario-trading/definizione-di-debentures
+
+Delta|Il delta è una misura utilizzata nel trading per valutare la variazione di prezzo di un’opzione rispetto alle variazioni dell'asset sottostante.|https://www.ig.com/it/glossario-trading/definizione-di-delta
+
+Derivato|Un derivato è un prodotto finanziario che consente agli operatori di sfruttare i movimenti dei prezzi di alcune attività senza effettivamente acquistarle e pertanto ha puramente forma di contratto tra due parti.|https://www.ig.com/it/glossario-trading/definizione-di-derivato
+
+Diritto di opzione|di opzione si ha quando una società offre agli attuali azionisti la possibilità di acquistare ulteriori azioni a un prezzo ridotto. Normalmente, il prezzo scontato è disponibile per un periodo di tempo limitato, al termine del quale torna al valore normale.|https://www.ig.com/it/glossario-trading/definizione-di-diritto-di-opzione
+
+Dividendo|Il dividendo è una porzione di utile che una società sceglie di restituire agli azionisti. Quando una società consegue un profitto, può reinvestirlo o distribuirlo agli azionisti.|https://www.ig.com/it/glossario-trading/definizione-di-dividendo
+
+DMA|Nel trading, DMA è l’acronimo inglese di "accesso diretto al mercato" (Direct Market Access). È un metodo che offre maggiore flessibilità e trasparenza, adatto solo a trader esperti.|https://www.ig.com/it/glossario-trading/definizione-di-dma-accesso-diretto-al-mercato
+
+EBITDA|EBITDA è l'acronimo inglese di utili prima di interessi, imposte, svalutazioni e ammortamenti. Offre un'idea del profitto realizzato prima che imposte e altro siano considerati.|https://www.ig.com/it/glossario-trading/definizione-di-ebitda
+
+EBITDAR|EBITDAR è l’acronimo inglese inglese di "utili prima di interessi, imposte, svalutazioni, ammortamenti e costi di leasing" (earnings before interest, tax, depreciation and amortization).|https://www.ig.com/it/glossario-trading/definizione-di-EBITDAR
+
+EDSP|EDSP, acronimo per Exchange Delivery Settlement Price, indica il prezzo di riferimento in base al quale sono regolati i contratti derivati nella borsa di riferimento.|https://www.ig.com/it/glossario-trading/definizione-di-edsp
+
+Effetto moltiplicatore|è il fenomeno che descrive gli effetti dei movimenti della massa monetaria sulle attività economiche. |https://www.ig.com/it/glossario-trading/definizione-di-effetto-moltiplicatore
+
+Equity|Nel trading, il termine viene utilizzato per indicare la proprietà di un'attività. L’equity può riferirsi alle azioni di una società e ad altri strumenti finanziari.|https://www.ig.com/it/glossario-trading/definizione-di-azione-o-equity
+
+Esecuzione|L'esecuzione (o Fill) è un termine di trading che indica il completamento di un ordine di compravendita.|https://www.ig.com/it/glossario-trading/definizione-di-esecuzione-o-fill
+
+Esposizione|L’esposizione è un termine generico che può riferirsi al valore totale di mercato di una posizione, all’ammontare totale del rischio possibile in un dato momento, o alla quota di un fondo investita in un particolare mercato o asset.|https://www.ig.com/it/glossario-trading/definizione-di-esposizione-finanziaria
+
+ESTR|L‘Euro Short-Term Rate (ESTR), è un tasso di interesse che rappresenta gli oneri finanziari sui prestiti di denaro notturni all‘interno dell‘eurozona.|https://www.ig.com/it/glossario-trading/definizione-di-estr
+
+ETF|ETF è l’acronimo di Exchange Traded Fund, un tipo di fondo di investimento. Fa parte della grande famiglia degli Exchange Traded Products (o ETP).|https://www.ig.com/it/glossario-trading/definizione-di-etf
+
+ETP|ETP è l’acronimo di Exchange Traded Products, una macro famiglia di prodotti finanziari scambiati in Borsa. L’andamento del prezzo deriva da altri strumenti finanziari.|https://www.ig.com/it/glossario-trading/definizione-di-etp
+
+Fair value|Fair value ha due significati per gli investitori. In generale, è usato per indicare il valore attribuito ad un'azione da parte di un investitore o un broker.|https://www.ig.com/it/glossario-trading/definizione-di-fair-value
+
+Falchi e colombe|colombe sono i termini utilizzati per classificare i responsabili politici e i consulenti all’interno di un comitato di una banca centrale in base alla loro probabile decisione di voto.|https://www.ig.com/it/glossario-trading/definizione-di-falchi-e-colombe
+
+FCA|La FCA (Financial Conduct Authority) è l'organo regolatore dei mercati finanziari del Regno Unito.|https://www.ig.com/it/glossario-trading/definizione-di-fca
+
+Federal Reserve|Reserve Bank (o Fed), è la banca centrale responsabile della stabilità monetaria e finanziaria negli Stati Uniti. Fa parte di un sistema di 12 banche centrali regionali.|https://www.ig.com/it/glossario-trading/definizione-di-federal-reserve
+
+Finanza sostenibile|sostenibile consiste nello scegliere su quali asset operare non solo in base ai possibili profitti, ma anche considerandone il possibile l'impatto sociale.|https://www.ig.com/it/glossario-trading/definizione-di-finanza-sostenibile
+
+Flusso di cassa|di cassa (o cash flow) è la quantità di moneta in uscita e in entrata da una società ed è un dato che viene riportato nelle trimestrali. Può riferirsi a un singolo progetto o all'intera azienda.|https://www.ig.com/it/glossario-trading/definizione-di-cash-flow
+
+FOMC|Il FOMC (Federal Open Market Committee) è il comitato monetario della Federal Reserve che si occupa di decisioni di politica monetaria a breve e lungo termine.|https://www.ig.com/it/glossario-trading/definizione-di-fomc
+
+Forex|Il Forex è il mercato dove i partecipanti convertono una valuta con un'altra. Può essere indicato come cambi, FX o valute.|https://www.ig.com/it/glossario-trading/forex-definition
+
+Fusione|Quando due o più aziende decidono di diventare un'unica entità, si parla di fusione. L'operazione assume la forma di uno scambio di azioni tra gli azionisti.|https://www.ig.com/it/glossario-trading/definizione-di-fusione-aziendale
+
+Gamma|Il gamma è una derivata del delta (il rapporto tra prezzo di un derivato e prezzo del sottostante). Indica la sensibilità del delta rispetto al prezzo del sottostante.|https://www.ig.com/it/glossario-trading/definizione-di-gamma
+
+Gestione del rischio|del rischio è il processo che permette di ridurre il rischio del portafogli d’investimento attraverso delle contromisure specifiche.|https://www.ig.com/it/glossario-trading/definizione-di-gestione-del-rischio
+
+Grey market|Operare sul grey market (o mercato grigio) significa aprire una posizione sulla capitalizzazione di borsa di una società, prima del lancio dell’offerta pubblica iniziale (IPO).|https://www.ig.com/it/glossario-trading/definizione-di-grey-market
+
+Handle|Nel trading, handle ha due significati. Tuttavia, nella maggior parte dei mercati, rappresenta i numeri interi coinvolti nelle quotazione, ovvero senza comprendere i decimali.|https://www.ig.com/it/glossario-trading/definizione-di-handle
+
+Hedge|Un hedge (copertura) è un investimento o un trade fatto con l’obiettivo di ridurre l'esposizione al rischio. Il processo di riduzione del rischio si chiama hedging.|https://www.ig.com/it/glossario-trading/definizione-di-hedge
+
+Helicopter money|è il termine usato per indicare una grande immissione e distribuzione di denaro per stimolare l’economia durante un periodo di recessione o con tassi di interesse vicini allo zero. Si parla anche di helicopter drop, che richiama l’immagine di un elicottero che lancia denaro dall’alto.|https://www.ig.com/it/glossario-trading/definizione-di-helicopter-money
+
+In the money|the money è un termine che descrive lo stato di un’opzione e si riferisce ad un mercato sottostante in relazione al prezzo a cui potrà essere comprato o venduto (detto "strike price").|https://www.ig.com/it/glossario-trading/definizione-di-in-the-money
+
+Indicatore RSI|l’acronimo di Relative Strength Index. Si tratta di uno strumento chiave nell’analisi tecnica, che definisce la forza di un asset finanziario rispetto al mercato.|https://www.ig.com/it/glossario-trading/definizione-di-indicatore-rsi
+
+Indice|Nel trading, l'indice è un gruppo di asset finanziari che vengono utilizzati per costruire un indicatore di performance di un settore. Gli indici sono solo indicatori dei movimenti collettivi di un gruppo di attività e non hanno alcun valore fisico.|https://www.ig.com/it/glossario-trading/definizione-di-indice
+
+Indice azionario|azionario è l’insieme di titoli usato per misurare l’andamento di un settore, piazza di scambio o economia, composto dalle migliori azioni di una piazza.|https://www.ig.com/it/glossario-trading/definizione-di-indice-azionario
+
+Indice di concentrazione|di concentrazione di un settore è rappresentato dalle dimensioni delle imprese presenti nel settore rispetto alla sua dimensione totale. È utilizzato per calcolare il posizionamento di una o più aziende nel settore d’appartenenza.|https://www.ig.com/it/glossario-trading/definizione-di-indice-di-concentrazione
+
+Indice PMI|Il purchasing managers index (o PMI), è un indicatore economico costituito da rapporti e sondaggi mensili, raccolti dalle aziende private del settore manifatturiero.|https://www.ig.com/it/glossario-trading/definizione-indice-pmi
+
+Inflazione|L’inflazione è l'aumento del costo di beni e servizi in un'economia. Con l’inflazione un'unità di moneta perde potere d'acquisto, cosa che rende l’inflazione un fattore di svalutazione della valuta.|https://www.ig.com/it/glossario-trading/definizione-di-inflazione
+
+Interesse|In finanza, l'interesse può avere più di una definizione ma principalmente si riferisce alla commissione riscossa da una persona per il prestito di denaro.|https://www.ig.com/it/glossario-trading/definizione-di-interesse
+
+Investitore|Un investitore è una persona che decide di investire una parte del capitale per ricavarne un profitto. Differisce dal trader per durata e natura degli investimenti.|https://www.ig.com/it/glossario-trading/definizione-di-investitore
+
+IPO|Quando una società si imbarca in una IPO (Initial Pubblic Offer, "offerta pubblica iniziale") decide di diventare pubblica, quotandosi in una borsa valori.|https://www.ig.com/it/glossario-trading/definizione-di-ipo
+
+Leva|La leva è uno strumento che permette di moltiplicare l'esposizione sul mercato senza impegnare ulteriore capitale. Il trading a leva è detto "trading a margine".|https://www.ig.com/it/glossario-trading/definizione-di-leva-finanziaria
+
+LIBOR|Il libor (acronimo di London Interbank Offered Rate) è il tasso di riferimento degli interessi giornalieri su prestiti e altri strumenti finanziari nel mondo.|https://www.ig.com/it/glossario-trading/definizione-di-libor
+
+Limit up/Limit down|up e limit down sono i valori massimi entro i quali un future può salire o scendere in una sola seduta. Proteggono le posizioni sui future da eventi inattesi.|https://www.ig.com/it/glossario-trading/definizione-di-limitup-limitdown
+
+Liquidità|La liquidità è la possibilità di comprare o vendere un asset particolare sul mercato senza che influenzi il prezzo. Può anche riferirsi alla facilità e rapidità con cui un asset può essere convertito in cash.|https://www.ig.com/it/glossario-trading/definizione-di-liquidita
+
+Livello di resistenza|di resistenza è uno strumento chiave dell’analisi tecnica, indica il livello massimo di prezzo che gli operatori non sono disposti a superare. |https://www.ig.com/it/glossario-trading/definizione-di-livello-di-resistenza
+
+Long|Nel trading, la parola long si riferisce a una posizione che realizza un profitto, se il prezzo dell’asset sale. Il trader quindi può 'andare long' su una posizione.|https://www.ig.com/it/glossario-trading/definizione-di-long
+
+Lotto|Un lotto è la grandezza minima negoziabile del mercato forex ovvero una quantità prefissata di un particolare asset che si può comprare o vendere.|https://www.ig.com/it/glossario-trading/definizione-di-lotto
+
+M2|L'M2, conosciuto anche come liquidazione secondaria, è una misura della massa monetaria, ovvero una parte del denaro in circolazione nell’economia. La M seguita da un numero indica le diverse parti della massa monetaria.|https://www.ig.com/it/glossario-trading/definizione-di-m2
+
+Margine|Nel trading, il margine è la parte dei fondi necessaria per aprire una posizione a leva. Il margine è espresso in percentuale sul valore totale del trade.|https://www.ig.com/it/glossario-trading/definizione-di-margine
+
+Margine di mantenimento|di mantenimento, o margine di variazione, è il capitale minimo disponibile sul tuo conto di trading per mantenere una posizione aperta.|https://www.ig.com/it/glossario-trading/definizione-di-margine-di-mantenimento
+
+Margine Operativo Lordo|operativo lordo è un modo per calcolare i profitti che restano a un’azienda dopo aver sottratto i costi della vendita dei suoi beni e servizi.|https://www.ig.com/it/glossario-trading/definizione-di-margine-lordo
+
+Market maker|market maker è un intermediario che compra e vende un numero alto di asset per facilitare la liquidità e assicurare la fluidità dei mercati finanziari.|https://www.ig.com/it/glossario-trading/definizione-di-market-maker
+
+Market Mapping|mapping è una modalità tramite la quale i trader e gli investitori valutano la redditività di una specifica operazione di trading o di investimento. Il market mapping può anche essere utile ai fini dell’analisi di diversi livelli di volatilità e diversi prezzi relativi a singoli asset. Inoltre, è utile ai fini delle analisi di società e aziende.|https://www.ig.com/it/glossario-trading/definizione-di-market-mapping
+
+Materie prime|materie prime (commodities, in inglese) sono un bene fisico, spesso usato appunto come materie prime nella produzione di beni e servizi.|https://www.ig.com/it/glossario-trading/definizione-di-commodity
+
+Media al ribasso|al ribasso, si realizza quando il prezzo scende dopo l'acquisto e quindi il trader decide di acquistare di nuovo.|https://www.ig.com/it/glossario-trading/definizione-di-averaging-down
+
+Media mobile|media mobile è un indicatore di analisi tecnica di base, utile per studiare i movimenti dei prezzi, riducendone l'effetto derivante da picchi casuali.|https://www.ig.com/it/glossario-trading/definizione-di-media-mobile
+
+Media mobile di convergenza/divergenza|mobile di convergenza/divergenza (sigla inglese MACD) è un indicatore di analisi tecnica che ha l’obiettivo di indicare i cambiamenti del momentum del prezzo di un’azione. La MACD raccoglie i dati di diverse medie mobili per aiutare i trader a delineare possibili opportunità legate ai livelli di supporto e resistenza.|https://www.ig.com/it/glossario-trading/definizione-di-media-mobile-di-convergenza-divergenza
+
+Mercato azionario|mercati finanziari da parte dei broker è un servizio che consente a privati e istituzioni di investire sui titoli azionari.|https://www.ig.com/it/glossario-trading/definizione-di-negoziaizione-azioni
+
+Mercato finanziario|finanziario è definito come un mezzo attraverso il quale vengono scambiati asset, incrociando tra loro domanda e offerta.|https://www.ig.com/it/glossario-trading/definizione-di-mercato
+
+Mercato regolamentato|(o "Accesso diretto al mercato", in inglese DMA) è un termine usato per indicare un’operazione che avviene direttamente nel book degli ordini.|https://www.ig.com/it/glossario-trading/definizione-di-mercato-regolamentato
+
+Mercato toro|un mercato è in un trend rialzista è definito mercato toro. È caratterizzato da forte ottimismo e maggiore fiducia. |https://www.ig.com/it/glossario-trading/definizione-di-mercato-toro
+
+MetaTrader|MetaTrader (MT4) è una piattaforma di trading molto popolare, utilizzata per l’operatività sul mercato forex, sugli indici e sulle materie prime.|https://www.ig.com/it/glossario-trading/definizione-di-metatrader
+
+MIFID|La direttiva MiFID (Markets in Financial Instruments Directive) ha disciplinato i mercati finanziari dell'Unione Europea dal 1 novembre 2007 al 2 gennaio 2018. Il 3 gennaio 2018 è stata sostituita dalla direttiva MiFID II.|https://www.ig.com/it/glossario-trading/definizione-di-mifid
+
+Minusvalenza|un trader vende un bene ad un prezzo inferiore rispetto a quello di acquisto, realizza una minusvalenza. La minusvalenza è l'opposto della plusvalenza.|https://www.ig.com/it/glossario-trading/definizione-di-minusvalenza
+
+Moneta fiat|La moneta fiat è una valuta nazionale non ancorata al prezzo di una materia prima come oro o argento. Il valore di una moneta fiat è legato in larga parte alla fiducia nei confronti dell’autorità che la emette, di norma uno Stato o una banca centrale.|https://www.ig.com/it/glossario-trading/definizione-di-moneta-fiat
+
+MTF|I circuiti alternativi di negoziazione (o Multilateral trading facilities, MTF) offrono a trader e intermediari un'alternativa alle borse tradizionali.|https://www.ig.com/it/glossario-trading/definizione-di-mtf
+
+Non current assets|current assets (in italiano 'attivo non circolante') rappresentano gli investimenti a lungo termine di una società, il cui valore totale non verrà consumato durante l’anno finanziario.|https://www.ig.com/it/glossario-trading/definizione-di-non-current-asset
+
+Nuvole di Ichimoku|di Ichimoku sono un indicatore di analisi tecnica per definire i livelli di supporto e resistenza, misurare il momentum e fornire segnali di trading. In giapponese sono chiamate Ichimoku Kinko Hyo, tradotto in italiano “equilibrio grafico a colpo d'occhio”. Kinko perché, con un solo sguardo, permette di cogliere diverse informazioni sul mercato|https://www.ig.com/it/glossario-trading/definizione-di-nuvole-di-ichimoku
+
+Obbligazioni|nbsp;obbligazioni (anche dette "bond") sono una forma di investimento finanziario che consiste nel prestito di denaro ad un istituto per un determinato periodo di tempo.|https://www.ig.com/it/glossario-trading/bonds-definition
+
+Off-book|Un’operazione “off-book”, o fuori borsa, si riferisce al processo di fare trading con azioni al di fuori di una borsa o di un organismo regolamentato.|https://www.ig.com/it/glossario-trading/definizione-di-off-book
+
+OPEC|L’acronimo OPEC sta per Organisation of Petroleum Exporting Countries (Organizzazione Paesi Esportatori Petrolio), fondata nel 1960 ed è composta da 12 membri.|https://www.ig.com/it/glossario-trading/definizione-di-opec
+
+Option spread|strategia option spread si applica al trading sulle opzioni. Prevede acquisto e vendita di più opzioni con lo stesso asset sottostante. Le opzioni sono identiche, ma hanno strike price o scadenza diversi.|https://www.ig.com/it/glossario-trading/definizione-di-option-spread
+
+Opzione|Un'opzione è uno strumento finanziario che offre il diritto (ma non l'obbligo) di acquistare o vendere un bene a un prezzo prestabilito in un periodo di tempo predeterminato.|https://www.ig.com/it/glossario-trading/definizione-di-opzione
+
+Opzione call|opzioni call sono contratti che consentono agli operatori di trarre un profitto quando il prezzo del sottostante aumenta al di sopra di una certa soglia entro un determinato periodo di tempo.|https://www.ig.com/it/glossario-trading/definizione-di-opzione-call
+
+Opzione put|Sono una tipologia di opzioni che danno all'acquirente il diritto, ma non l'obbligo, di vendere un bene a un prezzo stabilito entro una scadenza predeterminata.|https://www.ig.com/it/glossario-trading/definizione-di-opzione-put
+
+Opzioni digitali|digitali, conosciute anche come digital 100, sono degli strumenti finanziari che permettono di fare previsioni riguardo un’asserzione con risposta affermativa o negativa.|https://www.ig.com/it/glossario-trading/definizione-di-opzione-digitale
+
+Opzioni su azioni|su azioni sono una forma di derivato che ha come sottostante il valore di un'azione. Offrono il diritto di acquistare (o vendere) le azioni ad un dato prezzo entro la scadenza.|https://www.ig.com/it/glossario-trading/definizione-di-opzioni-su-azioni
+
+Ordine|Nel trading, un ordine è l’istruzione, inviata al broker o immessa in piattaforma, di acquistare o vendere un determinato strumento finanziario.|https://www.ig.com/it/glossario-trading/definizione-di-ordine
+
+Ordine a limite|a limite è un’istruzione data ad un broker affinché l'ordine venga eseguito a un livello di prezzo migliorativo rispetto a quello corrente del mercato.|https://www.ig.com/it/glossario-trading/definizione-di-ordine-a-limite
+
+Ordine a mercato|a mercato è un'istruzione che viene data dal trader al broker per eseguire un ordine al miglior prezzo disponibile al momento. Di solito vengono eseguiti molto velocemente, purché vi sia sufficiente liquidità nel mercato.|https://www.ig.com/it/glossario-trading/definizione-di-ordine-a-mercato
+
+Ordine di chiusura|di chiusura sono utilizzati per indicare al proprio broker di eseguire un’operazione quando l'asset sottostante raggiunge un prezzo specifico. Questo significa che il broker sa in anticipo in che modo vorresti fare trading, in modo che possa prendere decisioni più rapide.|https://www.ig.com/it/glossario-trading/definizione-di-ordine-di-chiusura
+
+Ordine intraday|intraday consiste in istruzioni, da parte del trader al proprio broker, per l'acquisto o la vendita di un determinato asset.|https://www.ig.com/it/glossario-trading/day-order
+
+Ordine stop|Gli ordini stop sono istruzioni date al broker affinché esegua l’ordine al raggiungimento di un livello di prezzo che è meno favorevole rispetto a quello del mercato.|https://www.ig.com/it/glossario-trading/definizione-di-ordine-in-stop
+
+Orso|Nel gergo del trading, il termine "orso" si riferisce a quei trader che prevedono tendenze in discesa per un mercato o qualsiasi altro strumento finanziario.|https://www.ig.com/it/glossario-trading/definizione-di-orso
+
+Out of the money|the money è uno dei tre termini utilizzati nel trading sulle opzioni e si riferisce al prezzo del mercato sottostante a cui potrà essere comprato o venduto un asset (cioè il suo prezzo strike). |https://www.ig.com/it/glossario-trading/definizione-di-out-of-the-money
+
+Parent company|madre (o ‘parent company’ in inglese), è una società che possiede azioni o quote di maggioranza per esercitare il diritto di controllare le operazioni di un'altra società (detta ‘società controllata’).|https://www.ig.com/it/glossario-trading/definizione-di-parent-company
+
+Parità|Il termine parità può essere utilizzato in vari modi nel trading, ma sempre con il significato di uguaglianza. Di uso comune nel forex.|https://www.ig.com/it/glossario-trading/definizione-di-parita
+
+Piano di trading|di trading è la strategia per sistematizzare valutazione degli asset, gestione del rischio, tipo di trading da eseguire e definizione degli obiettivi.|https://www.ig.com/it/glossario-trading/definizione-di-piano-di-trading
+
+PIL|PIL è l’acronimo per "prodotto interno lordo", ovvero il valore totale dei beni e servizi prodotti in un paese in un determinato periodo.|https://www.ig.com/it/glossario-trading/definizione-di-pil
+
+Pip|A pip is a measurement of movement in forex trading, defined as the smallest move that a currency can make.|https://www.ig.com/it/glossario-trading/pip-definition
+
+Posizione|Il termine posizione indica un’operazione che è in grado di generare un profitto o una perdita (nel caso di una posizione aperta) o che è stata recentemente cancellata (nel caso di una posizione chiusa).|https://www.ig.com/it/glossario-trading/definizione-di-posizione
+
+Posizione aperta|aperte sono operazioni che possono ancora generare un profitto o una perdita perché ancora attive sui mercati.|https://www.ig.com/it/glossario-trading/definizione-di-posizione-aperta
+
+Prezzo di chiusura|prezzo di chiusura è l'ultimo livello a cui è stato scambiato uno strumento in una determinata gironata di negoziazione. Questo prezzo è spesso determinato da un'asta.|https://www.ig.com/it/glossario-trading/definizione-di-prezzo-di-chiusura
+
+Prezzo di un’azione|di un’azione indica quando potrebbe costare l’acquisto di un’azione di una società. Il prezzo non è fisso, ma fluttua in base alle condizioni di mercato: è probabile che aumenti se la società viene ritenuta affidabile o che scenda se la questa non soddisfa le aspettative.|https://www.ig.com/it/glossario-trading/definizione-di-prezzo-di-un-azione
+
+Procura|La procura dà a un'altra persona la capacità di agire per tuo conto. Nel trading, significa che terze persone possono operare sui conti di un trader.|https://www.ig.com/it/glossario-trading/definizione-di-procura
+
+Prodotti a leva|a leva sono strumenti finanziari che permettono ai trader di ottenere una maggiore esposizione sul mercato senza aumentare il capitale investito. |https://www.ig.com/it/glossario-trading/definizione-di-prodotti-a-leva
+
+Profitti e perdite|perdite sono due termini che indicano due elementi fondamentali nel trading. I profitti e le perdite sono calcolati sottraendo al totale delle entrate tutte le spese sostenute.|https://www.ig.com/it/glossario-trading/definizione-di-profitti-e-perdite
+
+Pullback|Un pullback è una pausa temporanea o un calo della tendenza generale di un asset. Il termine è talvolta utilizzato in modo intercambiabile con il termine "ripiegamento" o "consolidamento".|https://www.ig.com/it/glossario-trading/definizione-di-pullback
+
+Punto base|Un punto base è un'unità utilizzata nel trading per descrivere i movimenti dei tassi di interesse o altre variabili espresse in percentuale.|https://www.ig.com/it/glossario-trading/definizione-di-punto-base
+
+Quantitative Easing|Easing (spesso abbreviato in "QE") è una manovra di politica monetaria volta ad abbassare i tassi di interesse e ad aumentare l’offerta di moneta.|https://www.ig.com/it/glossario-trading/definizione-di-quantitative-easing
+
+Quotazione|Nel trading, la quotazione è il prezzo al quale un’attività può essere scambiata. Il prezzo attuale della maggior parte degli strumenti finanziari equivale al prezzo quotato.|https://www.ig.com/it/glossario-trading/definizione-di-quotazione
+
+Rally|Un rally è un periodo in cui il prezzo di un asset vede una spinta al rialzo sostenuta. In genere, un rally si verifica dopo un periodo in cui i prezzi sono rimasti invariati, quando il mercato attraversa una fase di discesa o declino.|https://www.ig.com/it/glossario-trading/definizione-di-rally
+
+Random walk|La teoria del ‘random walk’ è un modello finanziario che presuppone che il mercato azionario si muova in modo completamente imprevedibile.|https://www.ig.com/it/glossario-trading/definizione-di-random-walk
+
+Range di prezzo|differenza tra il prezzo di mercato più alto e quello più basso all'interno di un determinato periodo di tempo.|https://www.ig.com/it/glossario-trading/definizione-di-range-di-prezzo
+
+Rapporto di indebitamento|di indebitamento è una misura usata dagli investitori per stabilire la leva finanziaria di un’azienda. In questo contesto, la leva è la quantità di fondi acquisiti dai prestiti dei creditori, o debito, rapportata ai fondi acquisitati attraverso il capitale azionario.|https://www.ig.com/it/glossario-trading/definizione-di-rapporto-indebitamento
+
+Rapporto prezzo/utili|prezzo/utili, o “P/E ratio”, è un metodo di misurazione del valore di una società.|https://www.ig.com/it/glossario-trading/definizione-di-rapporto-prezzo-utili
+
+Ratio spread|ratio spread è una strategia del trading con le opzioni in cui il trader apre allo stesso tempo un certo numero di posizioni buy e sell sullo stesso sottostante.|https://www.ig.com/it/glossario-trading/definizione-di-rapporto-spread
+
+Richiamo di margine|di margine si ha quando un broker richiede al trader di aumentare il margine di mantenimento, al fine di tenere aperta la posizione.|https://www.ig.com/it/glossario-trading/definizione-di-richiamo-di-margine
+
+Rischio|Nel trading, il rischio rappresenta i diversi modi in cui puoi incorrere in una perdita di denaro. I tipi di rischio sono principalmente due: rischio di mercato e rischio di liquidità.|https://www.ig.com/it/glossario-trading/definizione-di-rischio
+
+Riserve|Le riserve sono asset, generalmente liquidi, che individui, compagnie o banche centrali mettono da parte per uso futuro. Hanno forma di valuta o materie prime, come l’oro.|https://www.ig.com/it/glossario-trading/definizione-di-riserve
+
+Ritracciamenti di Fibonacci|di Fibonacci è uno strumento di analisi tecnica, usato per conoscere quando chiudere le posizioni, dove fissare stop loss o posizionare obiettivi.|https://www.ig.com/it/glossario-trading/definizione-di-ritracciamenti-fibonacci
+
+RNS|L'RNS (acronimo inglese di Regulatory News Service) è parte del London Stock Exchange ed invia informazioni normative.|https://www.ig.com/it/glossario-trading/definizione-di-rns
+
+ROCE|ROCE (acronimo inglese di Return On Capital Employed) è il rendimento sul capitale investito, vale a dire un rapporto che misura l’efficacia di un’azienda nell’utilizzo del proprio capitale.|https://www.ig.com/it/glossario-trading/definizione-di-roce
+
+Rollover|Un rollover è il processo di mantenere una posizione aperta oltre la sua scadenza.|https://www.ig.com/it/glossario-trading/definizione-di-rollover
+
+Scalping|Nel trading, lo scalping è la pratica di aprire e chiudere posizioni molto velocemente, nella speranza di trarre profitto da piccoli movimenti di prezzo.|https://www.ig.com/it/glossario-trading/definizione-di-scalping
+
+Slippage|Slippage è il temine usato per indicare la differenza tra il prezzo di esecuzione di un ordine dal prezzo di apertura inserito nell’ordine.|https://www.ig.com/it/glossario-trading/definizione-di-slippage
+
+Smart order router|order router (SOR) è un processo automatico utilizzato nel trading che segue delle regole che puntano alla liquidità nel mercato. Obiettivo del SOR è trovare il modo migliore di eseguire un'operazione.|https://www.ig.com/it/glossario-trading/definizione-di-smart-order-router
+
+SNB|SNB è l’abbreviazione di Swiss National Bank, la banca centrale Svizzera. Come altre banche centrali, la SNB è responsabile della politica monetaria.|https://www.ig.com/it/glossario-trading/definizione-di-snb
+
+Sovraesposizione| la sovraesposizione è il termine utilizzato per descrivere l’errore di assumersi troppi rischi.|https://www.ig.com/it/glossario-trading/definizione-di-sovraesposizione
+
+Spot|Nel trading, il termine spot fa riferimento al prezzo di un asset che può essere liquidato immediatamente o il valore di un asset in un preciso istante.|https://www.ig.com/it/glossario-trading/definizione-di-spot
+
+Spread|Lo spread nel trading è la differenza tra il prezzo di acquisto (ask) e il prezzo di vendita (bid) quotati per un asset. Si tratta di un elemento essenziale del trading con i CFD, poiché ne determina il prezzo.|https://www.ig.com/it/glossario-trading/definizione-di-spread
+
+Spread betting|betting è un prodotto finanziario derivato che sfrutta l’effetto leva, scommettendo sulla direzione in cui si muoverà il mercato.|https://www.ig.com/it/glossario-trading/spread-betting-definition
+
+Straddle|Straddle (o ‘strategia della gabbia’), è una strategia che si applica al trading sulle opzioni e che permette ai trader di operare su un mercato che sta per entrare in una fase di maggiore volatilità, senza dover fare una previsione sull’andamento futuro del prezzo.|https://www.ig.com/it/glossario-trading/definizione-di-straddle
+
+Strumento finanziario|finanziario è un contratto monetario tra due parti, che può essere negoziato e saldato. Questo contratto rappresenta, per una delle parti (il compratore), un asset, e per l’altra (il venditore), una passività.|https://www.ig.com/it/glossario-trading/definizione-di-strumento-finanziario
+
+Supporto|Il supporto è il livello di prezzo al di sotto del quale il mercato non scende in quanto i trader tendono ad acquistare ad un simile livello di prezzo.|https://www.ig.com/it/glossario-trading/definizione-di-livello-di-supporto
+
+Svalutazione monetaria|è il termine che definisce la perdita di valore di un bene, per condizioni di mercato o fattori come l'usura. È l’opposto di rivalutazione/apprezzamento.|https://www.ig.com/it/glossario-trading/definizione-di-svalutazione
+
+Tassa sul capital gain|sul capital gain (o "tassa sulle plusvalenze") è un'imposta del governo e riguarda tutti i profitti realizzati dalla compravendita di attività finanziarie. Le norme e le aliquote variano da paese a paese.|https://www.ig.com/it/glossario-trading/definizione-di-tassa-capital-gain
+
+Tasso di interesse|addebitato da chi presta a chi prende a prestito un bene. Di solito viene espresso in percentuale della somma presa a prestito.|https://www.ig.com/it/glossario-trading/definizione-di-tassi-d-interesse
+
+Tasso di rendimento|di rendimento (in inglese ROR) è la perdita o il profitto di un investimento su un dato periodo, espresso in percentuale come costo iniziale dell’investimento. Un ROR positivo indica un profitto sulla posizione, un ROR negativo indica invece una perdita. Ogni tipo di investimento ha il suo tasso di rendimento.|https://www.ig.com/it/glossario-trading/definizione-di-tasso-di-rendimento
+
+Tasso di riferimento|tasso ufficiale di riferimento è il tasso base che una banca centrale, come ad esempio la Bank of England, addebita alle banche nell’attività di prestito.|https://www.ig.com/it/glossario-trading/definizione-di-tasso-base
+
+Tasso interno di rendimento|interno di rendimento (TIR), o ‘internal rate of return’ in inglese, è una misura del bilancio del capitale, viene utilizzato dalle società per determinare la redditività di un potenziale investimento o progetto basandosi sul flusso di cassa previsto. La formula del TIR è complessa e prevede un certo numero di prove ed errori prima di risultare corretta.|https://www.ig.com/it/glossario-trading/definizione-di-tasso-interno-di-rendimento
+
+Ticker|Il ticker è una serie unica di lettere e numeri che identifica un’azione negoziata su un mercato. A volte ci si riferisce alle azioni chiamandole con il ticker.|https://www.ig.com/it/glossario-trading/definizione-di-ticker-o-simbolo-azionario
+
+Tom-next|Tom-next è l’abbreviazione di "tomorrow-next day". Si tratta di un mezzo che consente ai trader sul forex di evitare la consegna fisica delle valute e di tenere le posizioni aperte durante la notte.|https://www.ig.com/it/glossario-trading/definizione-di-tom-next
+
+Trading ad alta frequenza|ad alta frequenza (o HFT, High Frequency Trading) è una piattaforma avanzata di trading che elabora un elevato numero di transazioni.|https://www.ig.com/it/glossario-trading/definizione-di-high-frequency-trading
+
+Trading automatizzato|automatizzato, anche dettto “trading automatico" o "trading algoritmico”, consiste nell’uso degli algoritmi per inserire ordini di trading.|https://www.ig.com/it/glossario-trading/definizione-di-trading-automatico
+
+Trading floor|trading floor o piazza di scambio, è dove vengono acquistati e venduti strumenti finanziari quali azioni, bond e materie prime. Solitamente i trading floor sono elettronici e possono essere trovati presso le maggiori borse globali tra cui ICE Future Exchange, il New York Stock Exchange (NYSE) e il London Stock Exchange (LSE).|https://www.ig.com/it/glossario-trading/definizione-di-trading-floor
+
+Trading OTC|L’acronimo OTC (Over-The-Counter) si riferisce a operazioni su mercati non regolamentati. È usato per indicare operazioni che avvengono fuori dai circuiti ufficiali.|https://www.ig.com/it/glossario-trading/definizione-di-otc
+
+Trading sugli indici|sugli indici è il modo con cui gli operatori cercano di realizzare un profitto dai movimenti dei prezzi degli indici. Gli indici misurano la performance di mercati o settori.|https://www.ig.com/it/glossario-trading/definizione-di-trading-indici
+
+Trading sulle azioni|sulle azioni consiste nella compravendita di azioni societarie (o di prodotti derivati che si basano su azioni societarie) per ottenere profitti.|https://www.ig.com/it/glossario-trading/definizione-di-trading-su-azioni
+
+Trading sulle obbligazioni|su obbligazioni è finalizzato a trarre profitto dalle fluttuazioni del valore delle obbligazioni societarie o governative.|https://www.ig.com/it/glossario-trading/bond-trading-definition
+
+Trailing step|trailing step è una misura dell’andamento del prezzo e un componente chiave di un ordine trailing stop, cioè un tipo di ordine stop loss che segue la tua posizione una volta ottenuto un profitto e la chiude se le condizioni di mercato diventano avverse.|https://www.ig.com/it/glossario-trading/definizione-di-trailing-step
+
+Trailing stop|trailing stop è uno stop-loss che segue i movimenti dei mercati. Se una posizione inizialmente favorevole ha un'inversione di tendenza, il trailing stop tutela i profitti.|https://www.ig.com/it/glossario-trading/definizione-di-trailing-stop
+
+Trend|Quando il mercato effettua un movimento importante e duraturo al rialzo o al ribasso, si parla di trend o tendenza del mercato. I trend più comuni sono detti al rialzo e al ribasso.|https://www.ig.com/it/glossario-trading/definizione-di-trend
+
+Utile netto|L'utile netto è il profitto complessivo realizzato da una società, riportato in bilancio. È spesso definito bottom line ed è usato per calcolare alcuni indicatori.|https://www.ig.com/it/glossario-trading/definizione-di-utile-netto
+
+Utile per azione|per azione (o EPS) è un dato importante sugli utili di una società. Si calcola dalla quantità totale di profitto diviso per il numero di azioni.|https://www.ig.com/it/glossario-trading/definizione-di-utile-per-azione
+
+Valore a rischio (VaR)|a rischio è un indicatore usato per valutare il rischio finanziario di un’azienda, di un portafoglio di investimenti o di una posizione aperta in un determinato periodo di tempo.|https://www.ig.com/it/glossario-trading/definizione-di-valore-a-rischio
+
+Valore di mercato|di mercato (o market value) si indica la quotazione di un asset o di una società sul mercato finanziario. Solitamente usato in riferimento alla capitalizzazione di mercato di una società, è dato dal prezzo corrente di un’azione moltiplicato per il numero di azioni in circolazione.|https://www.ig.com/it/glossario-trading/definizione-di-valore-di-mercato
+
+Valore di un pip|di un pip è il valore monetario attribuito a un movimento minimo nel mercato forex.|https://www.ig.com/it/glossario/definizione-di-valore-pip
+
+Valore intrinseco|è la differenza tra il prezzo del sottostante e il prezzo di esercizio dell'opzione, ma in altri contesti può indicare il valore "vero" di una società.|https://www.ig.com/it/glossario-trading/definizione-di-valore-intrinseco
+
+Valuta base|Nel trading, la definizione "valuta base" indica due cose: la prima valuta di una coppia forex o la valuta del conto usata da una banca o da altri settori affaristici.|https://www.ig.com/it/glossario-trading/definizione-di-valuta-base
+
+Valuta secondaria|secondaria è la valuta al denominatore in una coppia forex, ad esempio: USD in EUR/USD.|https://www.ig.com/it/glossario-trading/definizione-di-valuta-secondaria
+
+Variazione netta|netta è la differenza giornaliera tra i prezzi di chiusura di un asset. Può essere sia positiva che negativa, mostrando la direzione presa dai mercati rispetto alla giornata di negoziazione antecedente.|https://www.ig.com/it/glossario-trading/definizione-di-variazione-netta
+
+Vendita allo scoperto|allo scoperto consiste nel vendere un asset che non si possiede nella speranza che il valore diminuisca. Altri termini utilizzzati: posizione short e “andare short”.|https://www.ig.com/it/glossario-trading/definizione-di-vendita-allo-scoperto
+
+Volatilità|Per volatilità s’intendono improvvise e importanti variazioni di prezzo. Mercati volatili sono di solito instabili con bruschi movimenti al rialzo e al ribasso.|https://www.ig.com/it/glossario-trading/definizione-di-volatilita
+
+Volume|Il volume è l’unità di misura della quantità. In ambito finanziario, il volume rappresenta il numero dei contratti di un asset, che viene scambiato in un determinato periodo di tempo.|https://www.ig.com/it/glossario-trading/definizione-di-volume
+
+VWAP|L’indicatore VWAP, la cui abbreviazione è volume-weighted average price, è uno strumento di analisi tecnica che calcola il prezzo medio ponderato per i volumi scambiati di un asset specifico. Il VWAP fornisce ai trader e agli investitori i dati sul prezzo medio di un asset in un arco temporale specifico.|https://www.ig.com/it/glossario-trading/definizione-di-vwap
+
+West Texas Intermediate (WTI)|l'acronimo di West Texas Intermediate (a volte indicato anche come Texas Light Sweet), un valore di riferimento nel settore pretrolifero, centrale nella compravendita delle materie prime.|https://www.ig.com/it/glossario-trading/definizione-di-wti-west-texas-intermediate
+
+Yield (Rendimento)| o rendita, è il reddito derivante da un investimento, spesso nella forma di interesse o pagamento di un dividendo. È un mezzo per generare profitto.|https://www.ig.com/it/glossario-trading/definizione-di-reddito
