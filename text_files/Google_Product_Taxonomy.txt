@@ -1,4 +1,3 @@
-# Google_Product_Taxonomy_Version: 2021-09-21
 Abbigliamento e accessori
 Abbigliamento e accessori,Abbigliamento
 Abbigliamento e accessori,Abbigliamento,Abbigliamento da notte e da camera

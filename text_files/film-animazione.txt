@@ -1,0 +1,50 @@
+1,Il gatto con gli stivali - L'ultimo desiderio,2022,7.9
+2,Super Mario Bros - Il film,2023,0
+3,Demon Slayer: Kimetsu No Yaiba - Verso il villaggio dei forgiatori di katana,2023,6.5
+4,Pinocchio,2022,7.6
+5,Il talento di Mr. Crocodile,2022,6.1
+6,Il re Leone,2019,6.8
+7,Marcel the Shell,2021,7.7
+8,Encanto,2021,7.2
+9,Sing 2 - Sempre più forte,2021,7.4
+10,Mummie - A spasso nel tempo,2023,6.0
+11,Il gatto con gli stivali,2011,6.6
+12,Spider-Man: Un nuovo universo,2018,8.4
+13,Il re leone,1994,8.5
+14,Strange world - Un mondo misterioso,2022,5.6
+15,Cars - Motori ruggenti,2006,7.2
+16,Troppo cattivi,2022,6.8
+17,La città incantata,2001,8.6
+18,Red,2022,7.0
+19,Spider-Man: attraverso il ragnoverso,2023,0
+20,Ratatouille,2007,8.1
+21,Minions 2 - Come Gru diventa cattivissimo,2022,6.5
+22,Il mostro dei mari,2022,7
+23,Zootropolis,2016,8
+24,Oceania I,2016,7.6
+25,Doggy Style,2023,0
+26,Shrek,2001,7.9
+27,Sing,2016,7.1
+28,Toy Story - Il mondo dei giocattoli,1995,8.3
+29,Suzume no tojimari,2022,7.9
+30,Frozen - Il regno di ghiaccio I,2013,7.4
+31,Il castello errante di Howl,2004,8.2
+32,Inside Out I,2015,8.2
+33,Your Name.,2016,8.4
+34,Coco I,2017,8.4
+35,Dragon Trainer,2010,8.1
+36,Kung Fu Panda,2008,7.6
+37,Alla ricerca di Nemo,2003,8.2
+38,Rapunzel: L'intreccio della torre,2010,7.7
+39,Hercules,1997,7.3
+40,The Amazing Maurice,2022,6.3
+41,Come per disincanto,2022,5.6
+42,Monsters & Co.,2001,8.1
+43,WALL·E,2008,8.4
+44,Gli Incredibili - Una 'normale' famiglia di supereroi,2004,8.0
+45,Up,2009,8.3
+46,A Bug's Life - Megaminimondo,1998,7.2
+47,DC League of Super-Pets,2022,7.2
+48,La bella e la bestia,1991,8.0
+49,The Lord of the Rings: The War of the Rohirrim,2024,0
+50,Shrek 2,2004,7.3

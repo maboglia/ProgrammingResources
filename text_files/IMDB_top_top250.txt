@@ -1,250 +1,250 @@
-9.2, The Shawshank Redemption,1994
-9.1, The Godfather,1972
-9.0, The Godfather: Part II,1974
-8.9, Il buono, il brutto, il cattivo.,1966
-8.9, Pulp Fiction,1994
-8.9, Inception,2010
-8.9, Schindler's List,1993
-8.9, 12 Angry Men,1957
-8.8, One Flew Over the Cuckoo's Nest,1975
-8.8, The Dark Knight,2008
-8.8, Star Wars: Episode V - The Empire Strikes Back,1980
-8.8, The Lord of the Rings: The Return of the King,2003
-8.8, Shichinin no samurai,1954
-8.7, Star Wars,1977
-8.7, Goodfellas,1990
-8.7, Casablanca,1942
-8.7, Fight Club,1999
-8.7, Cidade de Deus,2002
-8.7, The Lord of the Rings: The Fellowship of the Ring,2001
-8.7, Rear Window,1954
-8.7, C'era una volta il West,1968
-8.7, Raiders of the Lost Ark,1981
-8.7, Toy Story 3,2010
-8.7, Psycho,1960
-8.7, The Usual Suspects,1995
-8.7, The Matrix,1999
-8.6, The Silence of the Lambs,1991
-8.6, Se7en,1995
-8.6, Memento,2000
-8.6, It's a Wonderful Life,1946
-8.6, The Lord of the Rings: The Two Towers,2002
-8.6, Sunset Blvd.,1950
-8.6, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964
-8.6, Forrest Gump,1994
-8.6, Léon,1994
-8.6, Citizen Kane,1941
-8.6, Apocalypse Now,1979
-8.6, North by Northwest,1959
-8.6, American Beauty,1999
-8.5, American History X,1998
-8.5, Taxi Driver,1976
-8.5, Terminator 2: Judgment Day,1991
-8.5, Saving Private Ryan,1998
-8.5, Vertigo,1958
-8.5, Le fabuleux destin d'Amèlie Poulain,2001
-8.5, Alien,1979
-8.5, WALL-E,2008
-8.5, Lawrence of Arabia,1962
-8.5, The Shining,1980
-8.5, Sen to Chihiro no kamikakushi,2001
-8.5, Paths of Glory,1957
-8.5, A Clockwork Orange,1971
-8.5, Double Indemnity,1944
-8.5, To Kill a Mockingbird,1962
-8.5, The Pianist,2002
-8.4, Das Leben der Anderen,2006
-8.4, The Departed,2006
-8.4, M,1931
-8.4, City Lights,1931
-8.4, Aliens,1986
-8.4, Eternal Sunshine of the Spotless Mind,2004
-8.4, Requiem for a Dream,2000
-8.4, Das Boot,1981
-8.4, The Third Man,1949
-8.4, L.A. Confidential,1997
-8.4, Reservoir Dogs,1992
-8.4, Chinatown,1974
-8.4, The Treasure of the Sierra Madre,1948
-8.4, Modern Times,1936
-8.4, Monty Python and the Holy Grail,1975
-8.4, La vita è bella,1997
-8.4, Back to the Future,1985
-8.4, The Prestige,2006
-8.4, El laberinto del fauno,2006
-8.4, Raging Bull,1980
-8.3, Nuovo Cinema Paradiso,1988
-8.3, Singin' in the Rain,1952
-8.3, Some Like It Hot,1959
-8.3, The Bridge on the River Kwai,1957
-8.3, Rashomon,1950
-8.3, All About Eve,1950
-8.3, Amadeus,1984
-8.3, Once Upon a Time in America,1984
-8.3, The Green Mile,1999
-8.3, Full Metal Jacket,1987
-8.3, Inglourious Basterds,2009
-8.3, 2001: A Space Odyssey,1968
-8.3, The Great Dictator,1940
-8.3, Braveheart,1995
-8.3, Ladri di biciclette,1948
-8.3, The Apartment,1960
-8.3, Up,2009
-8.3, Der Untergang,2004
-8.3, Gran Torino,2008
-8.3, Metropolis,1927
-8.3, The Sting,1973
-8.3, Gladiator,2000
-8.3, The Maltese Falcon,1941
-8.3, Unforgiven,1992
-8.3, Sin City,2005
-8.3, The Elephant Man,1980
-8.3, Mr. Smith Goes to Washington,1939
-8.3, Oldeuboi,2003
-8.3, On the Waterfront,1954
-8.3, Indiana Jones and the Last Crusade,1989
-8.3, Star Wars: Episode VI - Return of the Jedi,1983
-8.3, Rebecca,1940
-8.3, The Great Escape,1963
-8.3, Die Hard,1988
-8.3, Batman Begins,2005
-8.3, Mononoke-hime,1997
-8.2, Jaws,1975
-8.2, Hotel Rwanda,2004
-8.2, Slumdog Millionaire,2008
-8.2, Det sjunde inseglet,1957
-8.2, Blade Runner,1982
-8.2, Fargo,1996
-8.2, No Country for Old Men,2007
-8.2, Heat,1995
-8.2, The General,1926
-8.2, The Wizard of Oz,1939
-8.2, Touch of Evil,1958
-8.2, Per qualche dollaro in più,1965
-8.2, Ran,1985
-8.2, Yojinbo,1961
-8.2, District 9,2009
-8.2, The Sixth Sense,1999
-8.2, Snatch.,2000
-8.2, Donnie Darko,2001
-8.2, Annie Hall,1977
-8.2, Witness for the Prosecution,1957
-8.2, Smultronstallet,1957
-8.2, The Deer Hunter,1978
-8.2, Avatar,2009
-8.2, The Social Network,2010
-8.2, Cool Hand Luke,1967
-8.2, Strangers on a Train,1951
-8.2, High Noon,1952
-8.2, The Big Lebowski,1998
-8.2, Hotaru no haka,1988
-8.2, Kill Bill: Vol. 1,2003
-8.2, It Happened One Night,1934
-8.2, Platoon,1986
-8.2, The Lion King,1994
-8.2, Into the Wild,2007
-8.2, There Will Be Blood,2007
-8.1, Notorious,1946
-8.1, Million Dollar Baby,2004
-8.1, Toy Story,1995
-8.1, Butch Cassidy and the Sundance Kid,1969
-8.1, Gone with the Wind,1939
-8.1, Sunrise: A Song of Two Humans,1927
-8.1, The Wrestler,2008
-8.1, The Manchurian Candidate,1962
-8.1, Trainspotting,1996
-8.1, Ben-Hur,1959
-8.1, Scarface,1983
-8.1, The Grapes of Wrath,1940
-8.1, The Graduate,1967
-8.1, The Big Sleep,1946
-8.1, Groundhog Day,1993
-8.1, Life of Brian,1979
-8.1, The Gold Rush,1925
-8.1, The Bourne Ultimatum,2007
-8.1, Amores perros,2000
-8.1, Finding Nemo,2003
-8.1, The Terminator,1984
-8.1, Stand by Me,1986
-8.1, How to Train Your Dragon,2010
-8.1, The Best Years of Our Lives,1946
-8.1, Lock, Stock and Two Smoking Barrels,1998
-8.1, The Thing,1982
-8.1, The Kid,1921
-8.1, V for Vendetta,2006
-8.1, Casino,1995
-8.1, Twelve Monkeys,1995
-8.1, Dog Day Afternoon,1975
-8.1, Ratatouille,2007
-8.1, El secreto de sus ojos,2009
-8.1, Gandhi,1982
-8.1, Star Trek,2009
-8.1, Ikiru,1952
-8.1, Le salaire de la peur,1953
-8.1, Les diaboliques,1955
-8.1, 8 1/2,1963
-8.1, The Princess Bride,1987
-8.1, The Night of the Hunter,1955
-8.0, Judgment at Nuremberg,1961
-8.0, The Incredibles,2004
-8.0, Tonari no Totoro,1988
-8.0, The Hustler,1961
-8.0, Good Will Hunting,1997
-8.0, The Killing,1956
-8.0, In Bruges,2008
-8.0, The Wild Bunch,1969
-8.0, Network,1976
-8.0, Le scaphandre et le papillon,2007
-8.0, A Streetcar Named Desire,1951
-8.0, Les quatre cents coups,1959
-8.0, La strada,1954
-8.0, The Exorcist,1973
-8.0, Children of Men,2006
-8.0, Stalag 17,1953
-8.0, Persona,1966
-8.0, Who's Afraid of Virginia Woolf?,1966
-8.0, Ed Wood,1994
-8.0, Dial M for Murder,1954
-8.0, La battaglia di Algeri,1966
-8.0, Lat den ratte komma in,2008
-8.0, All Quiet on the Western Front,1930
-8.0, Big Fish,2003
-8.0, Magnolia,1999
-8.0, Rocky,1976
-8.0, La passion de Jeanne d'Arc,1928
-8.0, Kind Hearts and Coronets,1949
-8.0, Fanny och Alexander,1982
-8.0, Mystic River,2003
-8.0, Manhattan,1979
-8.0, Barry Lyndon,1975
-8.0, Kill Bill: Vol. 2,2004
-8.0, Mary and Max,2009
-8.0, Patton,1970
-8.0, Rosemary's Baby,1968
-8.0, Duck Soup,1933
-8.0, Festen,1998
-8.0, Kick-Ass,2010
-8.0, Fa yeung nin wa,2000
-8.0, Letters from Iwo Jima,2006
-8.0, Roman Holiday,1953
-8.0, Pirates of the Caribbean: The Curse of the Black Pearl,2003
-8.0, Mou gaan dou,2002
-8.0, The Truman Show,1998
-8.0, Crash,2004I)
-8.0, Hauru no ugoku shiro,2004
-8.0, His Girl Friday,1940
-8.0, Arsenic and Old Lace,1944
-8.0, Harvey,1950
-8.0, Le notti di Cabiria,1957
-8.0, Trois couleurs: Rouge,1994
-8.0, The Philadelphia Story,1940
-8.0, A Christmas Story,1983
-8.0, Sleuth,1972
-8.0, King Kong,1933
-8.0, Bom yeoreum gaeul gyeoul geurigo bom,2003
-8.0, Rope,1948
-8.0, Monsters, Inc.,2001
-8.0, Tenku no shiro Rapyuta,1986
-8.0, Yeopgijeogin geunyeo,2001
-8.0, Mulholland Dr.,2001
-8.0, The Man Who Shot Liberty Valance,1962
+9.2;The Shawshank Redemption;1994
+9.1;The Godfather;1972
+9.0;The Godfather: Part II;1974
+8.9;Il buono, il brutto, il cattivo.;1966
+8.9;Pulp Fiction;1994
+8.9;Inception;2010
+8.9;Schindler's List;1993
+8.9;12 Angry Men;1957
+8.8;One Flew Over the Cuckoo's Nest;1975
+8.8;The Dark Knight;2008
+8.8;Star Wars: Episode V - The Empire Strikes Back;1980
+8.8;The Lord of the Rings: The Return of the King;2003
+8.8;Shichinin no samurai;1954
+8.7;Star Wars;1977
+8.7;Goodfellas;1990
+8.7;Casablanca;1942
+8.7;Fight Club;1999
+8.7;Cidade de Deus;2002
+8.7;The Lord of the Rings: The Fellowship of the Ring;2001
+8.7;Rear Window;1954
+8.7;C'era una volta il West;1968
+8.7;Raiders of the Lost Ark;1981
+8.7;Toy Story 3;2010
+8.7;Psycho;1960
+8.7;The Usual Suspects;1995
+8.7;The Matrix;1999
+8.6;The Silence of the Lambs;1991
+8.6;Se7en;1995
+8.6;Memento;2000
+8.6;It's a Wonderful Life;1946
+8.6;The Lord of the Rings: The Two Towers;2002
+8.6;Sunset Blvd.;1950
+8.6;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964
+8.6;Forrest Gump;1994
+8.6;Léon;1994
+8.6;Citizen Kane;1941
+8.6;Apocalypse Now;1979
+8.6;North by Northwest;1959
+8.6;American Beauty;1999
+8.5;American History X;1998
+8.5;Taxi Driver;1976
+8.5;Terminator 2: Judgment Day;1991
+8.5;Saving Private Ryan;1998
+8.5;Vertigo;1958
+8.5;Le fabuleux destin d'Amèlie Poulain;2001
+8.5;Alien;1979
+8.5;WALL-E;2008
+8.5;Lawrence of Arabia;1962
+8.5;The Shining;1980
+8.5;Sen to Chihiro no kamikakushi;2001
+8.5;Paths of Glory;1957
+8.5;A Clockwork Orange;1971
+8.5;Double Indemnity;1944
+8.5;To Kill a Mockingbird;1962
+8.5;The Pianist;2002
+8.4;Das Leben der Anderen;2006
+8.4;The Departed;2006
+8.4;M;1931
+8.4;City Lights;1931
+8.4;Aliens;1986
+8.4;Eternal Sunshine of the Spotless Mind;2004
+8.4;Requiem for a Dream;2000
+8.4;Das Boot;1981
+8.4;The Third Man;1949
+8.4;L.A. Confidential;1997
+8.4;Reservoir Dogs;1992
+8.4;Chinatown;1974
+8.4;The Treasure of the Sierra Madre;1948
+8.4;Modern Times;1936
+8.4;Monty Python and the Holy Grail;1975
+8.4;La vita è bella;1997
+8.4;Back to the Future;1985
+8.4;The Prestige;2006
+8.4;El laberinto del fauno;2006
+8.4;Raging Bull;1980
+8.3;Nuovo Cinema Paradiso;1988
+8.3;Singin' in the Rain;1952
+8.3;Some Like It Hot;1959
+8.3;The Bridge on the River Kwai;1957
+8.3;Rashomon;1950
+8.3;All About Eve;1950
+8.3;Amadeus;1984
+8.3;Once Upon a Time in America;1984
+8.3;The Green Mile;1999
+8.3;Full Metal Jacket;1987
+8.3;Inglourious Basterds;2009
+8.3;2001: A Space Odyssey;1968
+8.3;The Great Dictator;1940
+8.3;Braveheart;1995
+8.3;Ladri di biciclette;1948
+8.3;The Apartment;1960
+8.3;Up;2009
+8.3;Der Untergang;2004
+8.3;Gran Torino;2008
+8.3;Metropolis;1927
+8.3;The Sting;1973
+8.3;Gladiator;2000
+8.3;The Maltese Falcon;1941
+8.3;Unforgiven;1992
+8.3;Sin City;2005
+8.3;The Elephant Man;1980
+8.3;Mr. Smith Goes to Washington;1939
+8.3;Oldeuboi;2003
+8.3;On the Waterfront;1954
+8.3;Indiana Jones and the Last Crusade;1989
+8.3;Star Wars: Episode VI - Return of the Jedi;1983
+8.3;Rebecca;1940
+8.3;The Great Escape;1963
+8.3;Die Hard;1988
+8.3;Batman Begins;2005
+8.3;Mononoke-hime;1997
+8.2;Jaws;1975
+8.2;Hotel Rwanda;2004
+8.2;Slumdog Millionaire;2008
+8.2;Det sjunde inseglet;1957
+8.2;Blade Runner;1982
+8.2;Fargo;1996
+8.2;No Country for Old Men;2007
+8.2;Heat;1995
+8.2;The General;1926
+8.2;The Wizard of Oz;1939
+8.2;Touch of Evil;1958
+8.2;Per qualche dollaro in più;1965
+8.2;Ran;1985
+8.2;Yojinbo;1961
+8.2;District 9;2009
+8.2;The Sixth Sense;1999
+8.2;Snatch.;2000
+8.2;Donnie Darko;2001
+8.2;Annie Hall;1977
+8.2;Witness for the Prosecution;1957
+8.2;Smultronstallet;1957
+8.2;The Deer Hunter;1978
+8.2;Avatar;2009
+8.2;The Social Network;2010
+8.2;Cool Hand Luke;1967
+8.2;Strangers on a Train;1951
+8.2;High Noon;1952
+8.2;The Big Lebowski;1998
+8.2;Hotaru no haka;1988
+8.2;Kill Bill: Vol. 1;2003
+8.2;It Happened One Night;1934
+8.2;Platoon;1986
+8.2;The Lion King;1994
+8.2;Into the Wild;2007
+8.2;There Will Be Blood;2007
+8.1;Notorious;1946
+8.1;Million Dollar Baby;2004
+8.1;Toy Story;1995
+8.1;Butch Cassidy and the Sundance Kid;1969
+8.1;Gone with the Wind;1939
+8.1;Sunrise: A Song of Two Humans;1927
+8.1;The Wrestler;2008
+8.1;The Manchurian Candidate;1962
+8.1;Trainspotting;1996
+8.1;Ben-Hur;1959
+8.1;Scarface;1983
+8.1;The Grapes of Wrath;1940
+8.1;The Graduate;1967
+8.1;The Big Sleep;1946
+8.1;Groundhog Day;1993
+8.1;Life of Brian;1979
+8.1;The Gold Rush;1925
+8.1;The Bourne Ultimatum;2007
+8.1;Amores perros;2000
+8.1;Finding Nemo;2003
+8.1;The Terminator;1984
+8.1;Stand by Me;1986
+8.1;How to Train Your Dragon;2010
+8.1;The Best Years of Our Lives;1946
+8.1;Lock, Stock and Two Smoking Barrels;1998
+8.1;The Thing;1982
+8.1;The Kid;1921
+8.1;V for Vendetta;2006
+8.1;Casino;1995
+8.1;Twelve Monkeys;1995
+8.1;Dog Day Afternoon;1975
+8.1;Ratatouille;2007
+8.1;El secreto de sus ojos;2009
+8.1;Gandhi;1982
+8.1;Star Trek;2009
+8.1;Ikiru;1952
+8.1;Le salaire de la peur;1953
+8.1;Les diaboliques;1955
+8.1;8 1/2;1963
+8.1;The Princess Bride;1987
+8.1;The Night of the Hunter;1955
+8.0;Judgment at Nuremberg;1961
+8.0;The Incredibles;2004
+8.0;Tonari no Totoro;1988
+8.0;The Hustler;1961
+8.0;Good Will Hunting;1997
+8.0;The Killing;1956
+8.0;In Bruges;2008
+8.0;The Wild Bunch;1969
+8.0;Network;1976
+8.0;Le scaphandre et le papillon;2007
+8.0;A Streetcar Named Desire;1951
+8.0;Les quatre cents coups;1959
+8.0;La strada;1954
+8.0;The Exorcist;1973
+8.0;Children of Men;2006
+8.0;Stalag 17;1953
+8.0;Persona;1966
+8.0;Who's Afraid of Virginia Woolf?;1966
+8.0;Ed Wood;1994
+8.0;Dial M for Murder;1954
+8.0;La battaglia di Algeri;1966
+8.0;Lat den ratte komma in;2008
+8.0;All Quiet on the Western Front;1930
+8.0;Big Fish;2003
+8.0;Magnolia;1999
+8.0;Rocky;1976
+8.0;La passion de Jeanne d'Arc;1928
+8.0;Kind Hearts and Coronets;1949
+8.0;Fanny och Alexander;1982
+8.0;Mystic River;2003
+8.0;Manhattan;1979
+8.0;Barry Lyndon;1975
+8.0;Kill Bill: Vol. 2;2004
+8.0;Mary and Max;2009
+8.0;Patton;1970
+8.0;Rosemary's Baby;1968
+8.0;Duck Soup;1933
+8.0;Festen;1998
+8.0;Kick-Ass;2010
+8.0;Fa yeung nin wa;2000
+8.0;Letters from Iwo Jima;2006
+8.0;Roman Holiday;1953
+8.0;Pirates of the Caribbean: The Curse of the Black Pearl;2003
+8.0;Mou gaan dou;2002
+8.0;The Truman Show;1998
+8.0;Crash,2004;)
+8.0;Hauru no ugoku shiro;2004
+8.0;His Girl Friday;1940
+8.0;Arsenic and Old Lace;1944
+8.0;Harvey;1950
+8.0;Le notti di Cabiria;1957
+8.0;Trois couleurs: Rouge;1994
+8.0;The Philadelphia Story;1940
+8.0;A Christmas Story;1983
+8.0;Sleuth;1972
+8.0;King Kong;1933
+8.0;Bom yeoreum gaeul gyeoul geurigo bom;2003
+8.0;Rope;1948
+8.0;Monsters, Inc.;2001
+8.0;Tenku no shiro Rapyuta;1986
+8.0;Yeopgijeogin geunyeo;2001
+8.0;Mulholland Dr.;2001
+8.0;The Man Who Shot Liberty Valance;1962

@@ -1,0 +1,100 @@
+100,Josie and the Pussycats
+99,MASK
+98,Clerks : The Animated Series
+97,The Smurfs
+96,Star Trek: The Animated Series
+95,Fullmetal Alchemist
+94,The Boondocks
+93,Darkwing Duck
+92,Rugrats
+91,Harvey Birdman, Attorney at Law
+90,Afro Samurai
+89,Star Wars: The Clone Wars
+88,Woody Woodpecker
+87,Frisky Dingo
+86,Astro Boy
+85,Foster's Home for Imaginary Friends
+84,Spider-Man (1994 TV series)
+83,Teen Titans
+82,Fat Albert and the Cosby Kids
+81,TaleSpin
+80,Alvin and the Chipmunks
+79,Sealab 2021
+78,Dragon Ball Z
+77,Johnny Quest
+76,Voltron
+75,Dr. Katz, Professional Therapist
+74,Underdog
+73,Mobile Suit Gundam Wing
+72,Dexter's Labratory
+71,Johnny Bravo
+70,Pokemon
+69,Mighty Mouse
+68,Popeye
+67,The Pink Panther Show
+66,Tom And Jerry
+65,Todd McFarlane's Spawn
+64,Dungeons & Dragons
+63,Huckleberry Hound
+62,Danger Mouse
+61,Count Duckula
+60,Chip 'N Dale: Rescue Rangers
+59,Spider-Man and His Amazing Friends
+58,He-Man and the Masters of the Universe
+57,Invader Zim
+56,Venture Brothers
+55,Teenage Mutant Ninja Turtles
+54,Inspector Gadget
+53,Freakazoid
+52,Galaxy High
+51,Death Note
+50,Super Friends
+49,ThunderCats
+48,Duckman
+47,Pinky and The Brain
+46,The Jetsons
+45,Gargoyles
+44,Battle of the Planets
+43,Samurai Jack
+42,The Powerpuff Girls
+41,Tiny Toon Adventures
+40,Batman Beyond
+39,Aqua Teen Hunger Force
+38,Naruto
+37,Space Ghost Coast to Coast
+36,Superman: The Animated Series
+35,Avatar: The Last Airbender
+34,Robotech
+33,Schoolhouse Rock!
+32,Liquid Television
+31,Muppet Babies
+30,The Spectacular Spider-Man
+29,Speed Racer
+28,Home Movies
+27,King of the Hill
+26,The Critic
+25,Robot Chicken
+24,Scooby-Doo, Where Are You!
+23,Transformers
+22,The Real Ghostbusters
+21,Star Wars: Clone Wars (2003 TV series)
+20,Justice League Unlimited
+19,G.I. Joe
+18,Duck Tales
+17,Animaniacs
+16,The Maxx
+15,SpongeBob SquarePants
+14,Cowboy Bebop
+13,X-Men
+12,Ren and Stimpy
+11,Rocky and Bullwinkle
+10,Neon Genesis Evangelion
+09,The Flintstones
+08,Futurama
+07,Family Guy
+06,The Tick
+05,Beavis and Butt-Head
+04,South Park
+03,Looney Tunes
+02,Batman: The Animated Series
+01,The Simpsons 
