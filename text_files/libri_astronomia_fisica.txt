@@ -1,15 +1,15 @@
 Autore                                   Titolo                                                            Editore                   Luogoed.                      Anno          Pag.  Note                           
 ---------- ---------------------------------------- ----------------------------------------------------------------- ------------------------- ------------------------------ ---- ----- ------------------------------ 
 Autori Vari                              L'universo: problemi ed incognite                                 Le Scienze                MILANO                         1976   272                                
-Autori       Vari                              Scienza e tecnica dalle origini al novecento               Vol.1 Arnoldo Mondadori         MILANO                         1977   306                                
-Autori Vari                              Scienza e tecnica dalle origini al novecento               Vol.2 Arnoldo Mondadori         MILANO                         1977   622                                
+Autori Vari                              Scienza e tecnica dalle origini al novecento               Vol.1 Arnoldo Mondadori         MILANO                          1977   306                                
+Autori Vari                              Scienza e tecnica dalle origini al novecento               Vol.2 Arnoldo Mondadori         MILANO                          1977   622                                
 Autori Vari                              Le nuove frontiere dell'astrofisica                               Le Scienze                MILANO                         1980   240                                
 Autori Vari                              Relatività e cosmologia                                           Le Scienze                MILANO                         1981   134                                
 Autori Vari                              I pianeti della stella Sole                                       Le Scienze                MILANO                         1982   272                                
 Autori Vari                              Il Sole                                     "Le Scienze quaderni" Le Scienze                MILANO                         1982    94                                
 Autori Vari                              La planetologia                                                   Newton Compton            ROMA                           1978   288                                
 Autori Vari                              Cosmologie a confronto                                            Boringhieri               TORINO                         1976   216                                
-Autori Vari                              L'astrofisica                                                     Newton Compton            ROMA                                        1978  240                                
+Autori Vari                              L'astrofisica                                                     Newton Compton            ROMA                           1978   240                                
 Autori Vari                              La scienza in tasca. Proposta per una bibliografia di inf. scien. Bibliografica             MILANO                         1982   306                                
 Autori Vari                              Storia della fisica                                               Franco Angeli             MILANO                         1983   262                                
 Autori Vari                              Astronomie nuove                                                  C.L.U.                    TORINO                         1982   254                                
@@ -19,7 +19,7 @@ Autori Vari                              Guardiamo l'universo                   
 Autori Vari                              Dalla Terra alle galassie                                         Corso Editore             FERRARA                        1981   156                                
 Autori Vari                              Atmosfera e clima                           "Le Scienze quaderni" Le Scienze                MILANO                         1985    84                                
 Autori Vari                              Luce, colore e materia                      "Le Scienze quaderni" Le Scienze                MILANO                         1985    96                                
-Autori       Vari                                        La consultazione nelle biblioteche pubbliche                      Arnoldo Mondadori         MILANO                         1975   572                                
+Autori Vari                                        La consultazione nelle biblioteche pubbliche                      Arnoldo Mondadori         MILANO               1975   572                                
 Autori Vari                              New Frontiers in Astronomy                                        W.H. Freeman & C.         SAN FRANCISCO (USA)            1975   370 In lingua inglese              
 Autori Vari                              La ricerca scientifica e le sue conseguenze sociali               Arnoldo Mondadori         MILANO                         1980   160                                
 Autori Vari                              La cometa di Halley                                               Museo Friul. di Storia N. UDINE                          1986    56                                
@@ -36,7 +36,7 @@ Aiello S.                                Introduzione alle stelle. Elementi di a
 Alpago Novello A.                        Trattato sugli Orologi solari                                     Meridiane SNC             MILANO                         1988    30                                
 Amoroso P.                               Saturno: nubi, anelli e lune                                      Italy Press               CASSINA DE' PECCHI (MI)        1983   216                                
 Andrenelli P.                            L'astronomo dilettante                                            Sansoni                   FIRENZE                        1968   276                                
-Angela P.                                La vasca di Archimede                                             Garzanti                  MILANO                        1981   388                                
+Angela P.                                La vasca di Archimede                                             Garzanti                  MILANO                         1981   388                                
 Angela P.                                Nel Cosmo alle ricerche della vita                                Garzanti                  MILANO                         1980   294                                
 Angela P.                                Viaggi nella scienza. Il mondo di Quark                           CDE                       MILANO                         1982   286                                
 Angela P. & A.                           La straordinaria storia dell'uomo                                 Arnoldo Mondadori         MILANO                         1990   392                                
@@ -46,7 +46,7 @@ Arpino M.                                Giove: il pianeta - le osservazioni    
 Asimov I.                                Supernove                                                         Rizzoli                   MILANO                         1990   256                                
 Atkinson R.J.C.                          Stonehenge and Neighbouring Monuments                             English Heritage          LONDRA (GB)                    1987    38 In lingua inglese              
 Banzi M.                                 Usare Mathematica                                                 G.E. Jackson              MILANO                         1995   388 ***                            
-Barucci          M.A./ Fulchignoni M.             Comete, asteroidi, meteoriti                "Le Scienze quaderni" Le Scienze                MILANO                         1985   112                                
+Barucci          M.A./ Fulchignoni M.             Comete, asteroidi, meteoriti                "Le Scienze quaderni" Le Scienze                MILANO                1985   112                                
 Barrow J.D.                              Il mondo dentro il mondo                                          Adelphi                   MILANO                         1991   494                                
 Baroni C./ Gianni R.                     Le stagioni del Cielo. Stelle e curiosità del firmamento          Giorgio Mondadori         MILANO                         1991   176 ***                            
 Batini C.                                Le basi dell'informatica                                          Editori Riuniti           ROMA                           1984   174                                
@@ -58,11 +58,11 @@ Bernacca E.                              Che tempo farà                        
 Bertin A./ Vitale A.                     La luce pesante. Carlo Rubbia, cronaca di un Nobel                Poligrafici               BOLOGNA                        1984   260                                
 Bianucci P.                              Universo senza confini                                            SugarCo                   MILANO                         1977   300                                
 P.                                       Il pianeta azzurro                                                SugarCo                   MILANO                         1978   270                                
-Bianucci P.                              Esploriamo il cielo                                               SugarCo                   MILANO                         1978       ???                            
+Bianucci P.                              Esploriamo il cielo                                               SugarCo                   MILANO                         1978   ???                            
 Bianucci P.                              Pionieri del cielo                                                SugarCo                   MILANO                         1979   268                                
 Bianucci P.                              Rapporto sul Sole                                                 Rusconi                   MILANO                         1982   344                                
-Bianucci P.                              Il nuovo sistema solare                                (parte 1) Fabbri                    MILANO                         1983    64 ???                            
-Bianucci P.                              Il nuovo sistema solare                                (parte 2) Fabbri                    MILANO                         1983   124 ???                            
+Bianucci P.                              Il nuovo sistema solare                                (parte 1) Fabbri                    MILANO                          1983    64 ???                            
+Bianucci P.                              Il nuovo sistema solare                                (parte 2) Fabbri                    MILANO                          1983   124 ???                            
 Bianucci P.                              Stella per stella                                                 Giunti                    FIRENZE                        1985   304                                
 Bianucci P.                              Stella per stella                                                 Giunti                    FIRENZE                        1985  304                                
 Bolognesi A.                             Eppur non si muove!                                               (stampato in proprio)     SAN MARINO                     1996   214 ***                            
@@ -74,7 +74,7 @@ Bourge P./ Lacroux J.                    Il cielo ad occhio nudo e con il binoco
 Bracewell R.N.                           Il club delle Galassie. Vita intelligente nello spazio extraterr. Zanichelli                BOLOGNA                        1983   158                                
 Braccesi A./ Caprara G./ Hack M.         Alla scoperta del Sistema Solare                                  Arnoldo Mondadori         MILANO                         1993   264 ***                            
 Brown P.L.                               Il libro delle stelle                                             Mursia                    MILANO                         1978   252                                
-Brown        S.                                 Fotografare con il telescopio                                     Cosmo-Media               COMO                           1982    32                                
+Brown        S.                                 Fotografare con il telescopio                                     Cosmo-Media               COMO                    1982    32                                
 Brown S.                                 Come usare il telescopio                                          Cosmo-Media               COMO                           1982    34                                
 Brown P.L.                               Il libro delle stelle                                             Mursia                    MILANO                         1978   252                                
 Budding E.                               An introduction to astronomical photometry                        Cambridge University      CAMBRIDGE (GB)                 1993   272 In lingua inglese              
@@ -92,8 +92,8 @@ V.                                       Astrofisica stellare                   
 Castagnola G.                            Sviluppo e stampa del colore                                      Il Castello               MILANO                         1983   144                                
 Cavedon M.                               Astronomia                                                        CDE                       MILANO                         1980   318                                
 Cavedon M. & G.                          Galaxias. Miti e realtà di stelle e pianeti                       Rizzoli                   MILANO                         1983   160                                
-Cecchini G.                              Il cielo                                                  Vol.1  UTET                      TORINO                         1969   718                                
-Cecchini G.                              Il cielo                                                  Vol.2  UTET                      TORINO                         1969   732 pagg. 719  1450               
+Cecchini G.                              Il cielo                                                  Vol.1  UTET                      TORINO                          1969   718                                
+Cecchini G.                              Il cielo                                                  Vol.2  UTET                      TORINO                          1969   732 pagg. 719  1450               
 Celentano F.                             I materiali fotografici in bianco e nero                          Il Castello               MILANO                         1982   272                                
 Cester B.                                Struttura ed evoluzione delle stelle                              O.A.T.                    TRIESTE                        1976   352                                
 Cester B.                                Le stelle doppie                                                  Il Castello               MILANO                         1985   104                                
@@ -106,7 +106,7 @@ Cornell J.                               I primi osservatori                    
 Cossard G.                               Quando il cielo non aveva nome                                    Tipografia Valdostana     AOSTA                          1988   106                                
 Cossard G.                               Dalla Luna alla Terra                                             Tecnimage                 AOSTA                          1989    86                                
 Curir A.                                 Astri collassati                                                  Il Castello               MILANO                         1983    78                                
-Davies P.                                Dio e la nuova fisica                                             CDE                       MILANO                         1984       ???                            
+Davies P.                                Dio e la nuova fisica                                             CDE                       MILANO                         1984   ???                            
 Davies P.                                Superforza                                                        Arnoldo Mondadori         MILANO                         1986   314                                
 Davies P.                                Universi possibili                                                Arnoldo Mondadori         MILANO                         1981   248                                
 Davies P.                                Dio e la nuova fisica                                             Arnoldo Mondadori         MILANO                         1986   338                                
@@ -115,12 +115,12 @@ Della Seta E.                            Messaggeri celesti. Le comete: storia s
 De Meis S./ Manara A.                    La cometa di Halley                                               Il Castello               MILANO                         1985   114                                
 Dreyer J.L.E.                            Storia dell'astronomia da Talete a Keplero                        Feltrinelli               MILANO                         1977   416                                
 Ducrocq A.                               Marte pianeta rosso                                               SugarCo                   MILANO                         1978   224                                
-S.J.                              Manuale IHW                                                       Media Presse              MILANO                         1985   144                                
+S.J.                              Manuale IHW                                                       Media Presse              MILANO                                1985   144                                
 Edberg S.J.                              Manuale IHW                                                       Media Presse              MILANO                         1985   144                                
 Einstein A./ Infeld L.                   L'evoluzione della fisica                                         Boringhieri               TORINO                         1980   310                                
 Einstein A.                              Relatività: esposizione divulgativa                               Boringhieri               TORINO                         1981   322                                
-Fancello O.                              Dalle stelle alla vita. Il cammino della scienza       (parte 1) Editori Riuniti           ROMA                           1985   192                                
-Fancello O.                              Dalle molecole all'uomo. Il cammino della scienza      (parte 2) Editori Riuniti           ROMA                           1985   168                                
+Fancello O.                              Dalle stelle alla vita. Il cammino della scienza       (parte 1) Editori Riuniti           ROMA                            1985   192                                
+Fancello O.                              Dalle molecole all'uomo. Il cammino della scienza      (parte 2) Editori Riuniti           ROMA                            1985   168                                
 Fantoni G.                               Orologi Solari. Trattato completo di gnomica                      Technimedia               ROMA                           1988   552                                
 Farinella P./ Paolicchi P./ Zappalà V.   Gli Asteroidi                                                     Il Castello               MILANO                         1983   128                                
 Favero G.                                Osservazione del cielo                                            Arnoldo Mondadori         MILANO                         1984   144                                
@@ -183,7 +183,7 @@ Kernighan B.W./ Dennis M.R.              Linguaggio C (seconda edizione)        
 Klapdor H.V.                             Neutrinos                                                         Springer-Verlag           BERLINO (D)                    1988   340 In lingua inglese              
 Klepesta F./ Rokl A.                     Le costellazioni - Atlante illustrato                             Teti                      MILANO                         1976   288                                
 Kohler P.                                Conoscere le stelle                                               Garzanti                  MILANO                         1978   278                                
-Koyr A.                                 La rivoluzione astronomica                                        Feltrinelli               MILANO                         1966   448                                
+Koyr A.                                 La rivoluzione astronomica                                        Feltrinelli               MILANO                          1966   448                                
 Lacchini G.B.                            Atlante celeste                                                   Stab. graf. fratelli Lega FAENZA                         1969    16                                
 Lambert K./ Brittan G.G. jr              Introduzione alla filosofia della scienza                         Boringhieri               TORINO                         1981   198                                
 Landau L.D./ Rumer G.B.                  Che cosa è la relatività?                                         Editori Riuniti           ROMA                           1981    86                                
@@ -216,8 +216,8 @@ O'Neill G.                               Colonie umane nello spazio             
 Osborne A.                               Introduzione ai microcomputer - Vol.0: il libro del principiante  G.E. Jackson              MILANO                         1980   210                                
 Osborne A.                               Introduz. ai microcomputer - Vol.1: il libro dei concetti fondam. G.E. Jackson              MILANO                         1980   294                                
 Ovenden M.W.                             La vita nell'Universo. Discussione scientifica del problema       Zanichelli                BOLOGNA                        1977   128                                
-Pagan F.                                 Dentro l'atomo                                         (parte 1) Fabbri                    MILANO                         1983    64                                
-Pagan F.                                 Dentro l'atomo                                         (parte 2) Fabbri                    MILANO                         1983   124                                
+Pagan F.                                 Dentro l'atomo                                         (parte 1) Fabbri                    MILANO                          1983    64                                
+Pagan F.                                 Dentro l'atomo                                         (parte 2) Fabbri                    MILANO                          1983   124                                
 Pagels H.R.                              Universo simmetrico                                               Boringhieri               TORINO                         1988   372                                
 Paita C.                                 Breve storia dell'evoluzione                                      A.F.A.M.                  UDINE                          1990    24                                
 Pantaleo M.C.                            Tavole di astronomia                                              G.B. Marzocco             TORINO                         1968    88                                
@@ -225,8 +225,8 @@ Pappas C.H./ Murray III W.H.             Visual C++ 5: la guida completa        
 Pentiraro E.                             A scuola con il computer                                          CDE                       MILANO                         1984   184                                
 Picker F.& C.                            Storia delle esplorazioni spaziali americane                      Orchidea                  ROMA                           1976   128                                
 Pino G.G.                                Sviluppo e ingrandimento per fotodilettanti                       Il Castello               MILANO                         1979   100                                
-Poli G.                                  Le grandi forze della natura                           (parte 1) Fabbri                    MILANO                         1983    64                                
-Poli G.                                  Le grandi forze della natura                           (parte 2) Fabbri                    MILANO                         1983   124                                
+Poli G.                                  Le grandi forze della natura                           (parte 1) Fabbri                    MILANO                          1983    64                                
+Poli G.                                  Le grandi forze della natura                           (parte 2) Fabbri                    MILANO                          1983   124                                
 Potenza F.                               Gli strumenti per l'astronomia                                    Longanesi                 MILANO                         1977   172                                
 Potenza F.                               Astronomia oggi                                                   Longanesi                 MILANO                         1976   202                                
 Press F./ Siever R.                      Earth                                                             W.H. Freeman & C.         SAN FRANCISCO (USA)            1978   650 In lingua inglese              
@@ -238,8 +238,8 @@ Renaud J.                                Il pianeta cervello                    
 Romano G.                                Introduzione all'astronomia                                       Muzzio & C.               PADOVA                         1985   338                                
 Rosino L.                                Le stelle variabili                                               O.A.U.                    BOLOGNA                        1979   212                                
 Rossi B.                                 I raggi cosmici                                                   Einaudi                   TORINO                         1971   286                                
-Rossi R.                                 Viaggio nell'invisibile                                (parte 1) Fabbri                    MILANO                         1983    64                                
-Rossi R.                                 Viaggio nell'invisibile                                (parte 2) Fabbri                    MILANO                         1983   124                                
+Rossi R.                                 Viaggio nell'invisibile                                (parte 1) Fabbri                    MILANO                          1983    64                                
+Rossi R.                                 Viaggio nell'invisibile                                (parte 2) Fabbri                    MILANO                          1983   124                                
 Rosino L.                                Gli astri                                                         UTET                      TORINO                         1985   564                                
 Sagan C.                                 Contatto cosmico                                                  Rizzoli                   MILANO                         1975   302                                
 Sagan C.                                 Cosmo                                                             Arnoldo Mondadori         MILANO                         1981   366                                
