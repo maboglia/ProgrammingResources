@@ -1,0 +1,26 @@
+Heian shodan,Mente Pacifica primo livello
+Heian nidan,Mente Pacifica secondo livello
+Heian sandan,Mente Pacifica terzo livello
+Heian yondan,Mente Pacifica quarto livello
+Heian godan,Mente Pacifica quinto livello
+Tekki-Shodan ,Cavaliere di ferro primo livello 
+Tekki-nidan,Cavaliere di ferro secondo livello 
+Tekki-sandan,Cavaliere di ferro terzo livello 
+Bassai-dai,Penetrare la Fortezza grande
+Bassai-sho,Penetrare la Fortezza piccolo
+Kanku-dai,Guardare il cielo grande
+Kanku-sho,Guardare il cielo piccolo
+Jiin,Tempio dell'amore di Buddha
+Jion,Amore di Budda e riconoscenza 
+Jutte(jitte),Dieci Mani
+Meikyo,Specchio Splendente
+Nijushiho,24 passi
+Sochin,La Grande calma
+Gojushiho-dai,54 passi grande
+Gojushiho-sho,54 passi piccolo
+Hangetsu,Mezza Luna
+Gankaku,Gru su una roccia
+Enpi,Rondine in Volo 
+Chinte,Mano Rara
+Unsu,Mani come le nuvole
+Wankan,Corona Imperiale
