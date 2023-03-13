@@ -1,0 +1,101 @@
+					
+1,Yusheng Du (杜宇生),3.47,Cina,Wuhu Open ,2018
+2,Max Park,3.63,Stati Uniti,Circle City Summer ,2022
+3,Jode Brewster,3.88,Australia,Tassie Summer ,2023
+4,Asher Kim-Magierek,3.89,Stati Uniti,Rose City ,2022
+5,Luke Garrett,3.95,Stati Uniti,Indiana Finally Returns ,2023
+5,Yiheng Wang (王艺衡),3.95,Cina,Singapore Championship ,2023
+7,Tymon Kolasiński,3.97,Polonia,WCA European Championship ,2022
+8,Max Siauw,4.03,Stati Uniti,BC Cubing Springback A ,2022
+9,Ruihang Xu (许瑞航),4.06,Cina,Wuhan Open ,2021
+10,Matty Hiroto Inaba,4.13,Stati Uniti,Bay Area Speedcubin' 39 ,2022
+11,Feliks Zemdegs,4.16,Australia,Auckland Summer Open ,2020
+12,Riley Dexter,4.19,Australia,Melbourne Summer ,2023
+13,Patrick Ponce,4.24,Stati Uniti,Northeast Championship ,2019
+14,Kyle Santucci,4.26,Canada,Edmonton Summer Twist ,2022
+15,Leo Borromeo,4.31,Filippine,Cebu New Year Open ,2023
+16,Sebastian Weyer,4.32,Germania,Gesté Barrière Open ,2021
+17,Caio Hideaki Sato,4.37,Brasile,Etec Cubatão ,2022
+17,Mihir Narayan,4.37,India,Sunmarke Dubai Open ,2022
+19,Dominic Redisi,4.38,Stati Uniti,Southeast Championship ,2022
+19,Nicolás Sánchez,4.38,Stati Uniti,GA Cubers Feet Fest ,2019
+19,Twan Dullemond,4.38,Paesi Bassi,Ganshoren Saturday Open ,2022
+22,Firstian Fushada (符逢城),4.42,Indonesia,Toba Cubetastrophe ,2022
+22,Lukas Shelley,4.42,Danimarca,Hangzhou Open PM ,2021
+24,Juliette Sébastien,4.44,Francia,Sens Open ,2019
+24,Varun Mohanraj,4.44,Stati Uniti,WCC Western Championship ,2022
+26,Dylan Miller,4.48,Stati Uniti,Baton Rouge Winter ,2023
+26,Zeke Mackay,4.48,Stati Uniti,NxN Minnesota ,2022
+28,Brennen Lin,4.50,Canada,Appleby Winter A ,2023
+29,Bofan Zhang (张博藩),4.51,Cina,Singapore Championship ,2023
+30,Kim Roger Høyland Larsen,4.53,Norvegia,Romerike Easter Open ,2022
+31,Luke Griesser,4.54,Stati Uniti,Slow N Steady Fall ,2022
+32,Chris Mills,4.59,Regno Unito,ABHC ,2022
+32,Jakub Kipa,4.59,Polonia,Polish Championship ,2018
+32,SeungBeom Cho (조승범),4.59,Repubblica di Corea,ChicaGhosts ,2017
+35,Bill Wang,4.62,Canada,Richmond Hill ,2022
+36,Richard Delacoste,4.63,Svizzera,WCA European Championship ,2022
+37,Tanzer Balimtas,4.64,Stati Uniti,Pennsylvania ,2018
+38,Robert Yomi Cadenas Nuñez,4.65,Perù,Lima Cuberano ,2022
+39,Kajetan Opach,4.66,Polonia,Cubing Rising Stars Olesno ,2022
+40,Brian Johnson,4.68,Stati Uniti,Mt. Prospect Open ,2022
+40,Tommy Cherry,4.68,Stati Uniti,Cubing in the Clouds ,2023
+42,Zayn Khanani,4.71,Stati Uniti,Burke Mountain Cubing ,2022
+43,Bautista Bonazzola,4.72,Argentina,Tres Estrellas ,2023
+43,Zibo Xu (徐子博),4.72,Cina,Qianjiang Summer Open ,2018
+45,Mats Valk,4.74,Paesi Bassi,Jawa Timur Open ,2016
+46,Christopher Yen,4.75,Stati Uniti,Moose On The Loose Cubikon ,2022
+46,Phillip Lewicki,4.75,Stati Uniti,Bulldog Winter ,2023
+48,Aaron Huynh,4.76,Stati Uniti,OU Winter ,2019
+48,Drew Brads,4.76,Stati Uniti,Bluegrass Spring ,2017
+50,Cornelius Dieckmann,4.77,Germania,Franconia Open ,2018
+51,Alexander Bashutkin,4.78,Federazione Russa,KSF Club Almaty ,2022
+51,Ben Zhao,4.78,Stati Uniti,Get To The Point ,2022
+51,Kai-Wen Wang (王楷文),4.78,Taiwan,Chiayi Open ,2022
+54,Amos Nordman,4.80,Finlandia,Operation NxN Myrbacka ,2020
+54,Ryan Wu,4.80,Canada,ROC the Cube ,2022
+54,Sei Sugama (洲鎌星),4.80,Giappone,Hiroshima Open ,2019
+57,Aryan Chhabra,4.81,India,IMCC ,2022
+57,Philipp Weyer,4.81,Germania,Swisscubing Cup Final ,2018
+59,Christopher Sun,4.84,Stati Uniti,Penn Cube Day Spring ,2023
+59,Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж),4.84,Mongolia,Ulaanbaatar Spring ,2019
+61,Blake Thompson,4.86,Stati Uniti,Queen City ,2017
+61,Linus Laurén,4.86,Finlandia,K:nummen Kuutionvääntelyt ,2022
+61,Seung Hyuk Nahm (남승혁),4.86,Repubblica di Corea,Korean Championship ,2019
+64,Danny SungIn Park,4.88,Repubblica di Corea,Southeast Texas Winter ,2019
+64,Evan Liu,4.88,Stati Uniti,St. Joseph's Prep ,2022
+64,Yezhen Han (韩业臻),4.88,Cina,Guangdong Open ,2021
+67,Antonie Paterakis,4.89,Grecia,The Hague Open ,2017
+67,Kevin Gerhardt,4.89,Germania,Rhein-Neckar Open ,2022
+69,Jayden McNeill,4.90,Australia,Australian Nationals ,2022
+69,Jeriel James Thomas,4.90,Canada,Oakville Fall A ,2022
+69,Jerry Yao,4.90,Stati Uniti,Deerfield Winter ,2022
+69,Lucas Etter,4.90,Stati Uniti,River Hill Fall ,2015
+73,Sean Patrick Villanueva,4.91,Filippine,Tagum Speedcubing Masters ,2023
+74,Sameer Aggarwal,4.93,Stati Uniti,Richmond Open Summer B ,2022
+74,Vicenzo Guerino Cecchini,4.93,Brasile,Festival ONCUBE Lindóia ,2022
+76,Hyo-Min Seo (서효민),4.94,Repubblica di Corea,Korean Championship ,2016
+77,Szymon Musiał,4.95,Polonia,Gdańsk Open ,2022
+78,Ben Baron,4.96,Israele,Puriminx A ,2023
+78,Christopher Chi,4.96,Stati Uniti,Cuber Jackets Fall ,2022
+80,Charlie Eggins,4.97,Australia,Brisbane Summer ,2023
+80,Matěj Grohmann,4.97,Repubblica Ceca,Project Będzin ,2019
+82,Lorenzo Escobar Kraskouskaya,4.99,Spagna,Spanish Championship ,2022
+83,Luigi Soriano,5.00,Stati Uniti,Brooklyn ,2019
+84,Jules Desjardin,5.01,Francia,Swiss Nationals ,2019
+85,Daniel Gutierrez,5.02,Stati Uniti,Mum's the Word ,2023
+85,James Alonso,5.02,Regno Unito,Stevenage Summer ,2022
+85,Tee Kai Yang,5.02,Malesia,Selangor Cube Open ,2019
+88,Rasmus Stub Detlefsen,5.03,Danimarca,Nordic Championship ,2019
+89,Mika Smulders,5.04,Paesi Bassi,Luxembourg Open ,2022
+90,Quentin Rivault,5.05,Francia,Fada Open ,2022
+91,Martin Vædele Egdal,5.06,Danimarca,Kvissel Fall ,2018
+92,Olaf Kuźmiński,5.07,Polonia,GLS I ,2023
+93,Keaton Ellis,5.08,Stati Uniti,Slow N Steady Summer ,2017
+93,Mantas Urbanavičius,5.08,Lituania,Twist 'n Turn Tallinn ,2022
+93,Ole Meindersma,5.08,Paesi Bassi,Annuntia Saturday Open ,2022
+96,Alexandre Carlier,5.09,Francia,Sézanne Open ,2022
+96,Brenton Angelo Lo Wong,5.09,Filippine,Marikina City Open II ,2019
+96,Krish Shah-Nathwani,5.09,Stati Uniti,Puzzling in Providence ,2023
+96,Matthew Yang,5.09,Nuova Zelanda,Wellington Summer ,2023
+100,Antoine Cantin,5.10,Canada,National Capital Region ,208
