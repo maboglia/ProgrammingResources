@@ -1,7 +1,4 @@
-
 Abbiamo perso di Pablo Neruda
-Poesia "Abbiamo perso" di Pablo Neruda
-Tags: Amore
 
 Abbiamo perso anche questo crepuscolo.
 Nessuno ci ha visto stasera mano nella mano

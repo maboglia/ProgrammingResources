@@ -1,7 +1,5 @@
 
 Amo in te di Nazim Hikmet
-Poesia "Amo in te" di Nazim Hikmet
-Tags: Amore
 
 Amo in te
 l'avventura della nave che va verso il polo

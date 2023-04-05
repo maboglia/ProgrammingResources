@@ -1,7 +1,4 @@
-
 Bacio di Alda Merini
-Poesia "Bacio" di Alda Merini
-Tags: Bacio
 
 Bacio che sopporti il peso
 della mia anima breve

@@ -1,7 +1,4 @@
-
 Anima mia di Nazim Hikmet
-Poesia "Anima mia" di Nazim Hikmet
-Tags: Amore
 
 Anima mia
 chiudi gli occhi

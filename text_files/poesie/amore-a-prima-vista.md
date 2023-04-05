@@ -1,7 +1,4 @@
-
 Amore a prima vista di Wisława Szymborska
-Poesia "Amore a prima vista" di Wisława Szymborska
-Tags: Nessun tag
 
 Sono entrambi convinti
 che un sentimento improvviso li unì.

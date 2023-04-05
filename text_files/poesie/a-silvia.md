@@ -1,6 +1,4 @@
 A Silvia di Giacomo Leopardi
-Poesia "A Silvia" di Giacomo Leopardi
-Tags: Amore
 
 Silvia, rimembri ancora
 Quel tempo della tua vita mortale,
@@ -65,12 +63,3 @@ All'apparir del vero
 Tu, misera, cadesti: e con la mano
 La fredda morte ed una tomba ignuda
 Mostravi di lontano.
-
-facebook sharing button
-twitter sharing button
-whatsapp sharing button
-
-Giacomo Leopardi
-Giacomo Leopardi
-
-Il conte Giacomo Leopardi, al battesimo Giacomo Taldegardo Francesco di Sales Saverio Pietro Leopardi, è stato un poeta, filosofo, scrittore, filologo e glottologo italiano. - Continua su Wikipedia

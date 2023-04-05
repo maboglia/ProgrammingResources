@@ -1,7 +1,4 @@
-
 Accarezzami di Alda Merini
-Poesia "Accarezzami" di Alda Merini
-Tags: Nessun tag
 
 Accarezzami, amore
 ma come il sole

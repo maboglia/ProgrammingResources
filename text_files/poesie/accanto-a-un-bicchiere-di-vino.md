@@ -1,7 +1,4 @@
-
 Accanto a un bicchiere di vino di Wisława Szymborska
-Poesia "Accanto a un bicchiere di vino" di Wisława Szymborska
-Tags: Amore
 
 Con uno sguardo mi ha resa più bella,
 e io questa bellezza l’ho fatta mia.

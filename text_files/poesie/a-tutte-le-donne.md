@@ -1,7 +1,5 @@
-
 A tutte le donne di Alda Merini
-Poesia "A tutte le donne" di Alda Merini
-Tags: Nessun tag
+
 
 A tutte le donne
 Fragile, opulenta donna, matrice del paradiso

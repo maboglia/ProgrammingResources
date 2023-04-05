@@ -1,7 +1,4 @@
-
 Ci sono notti che non accadono mai di Alda Merini
-Poesia "Ci sono notti che non accadono mai" di Alda Merini
-Tags: Notte
 
 Ci sono notti
 che non accadono mai
