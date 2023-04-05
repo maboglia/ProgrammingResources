@@ -6,4 +6,3 @@
 * [Rest Countries](https://restcountries.eu/)
 * [randomuser](https://randomuser.me/)
 * [Film e serie tv](http://api.tvmaze.com)
-* []()
