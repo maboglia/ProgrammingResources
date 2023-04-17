@@ -1,0 +1,502 @@
+[
+  {
+    "dataMorte": "1013",
+    "dataNascita": "936",
+    "nome": "ABU al-QASIM IBN al-ABBAS al-ZAHRAWI"
+  },
+  {
+    "dataMorte": "December 9, 1048",
+    "dataNascita": "September 5, 973",
+    "nome": "ABU RAYHAN AL-BIRUNI"
+  },
+  {
+    "dataMorte": "April 18, 1955",
+    "dataNascita": "March 14, 1879",
+    "nome": "ALBERT EINSTEIN"
+  },
+  {
+    "dataMorte": "March 5, 1827",
+    "dataNascita": "February 18, 1745",
+    "nome": "ALESSANDRO VOLTA"
+  },
+  {
+    "dataMorte": "March 11, 1955",
+    "dataNascita": "August 6, 1881",
+    "nome": "ALEXANDER FLEMING"
+  },
+  {
+    "dataMorte": "March 6, 1040",
+    "dataNascita": "July 1, 965",
+    "nome": "ALHAZEN IBN al-HAYTHAM"
+  },
+  {
+    "dataMorte": "July 9, 1856",
+    "dataNascita": "August 9, 1776",
+    "nome": "AMEDEO AVOGADRO"
+  },
+  {
+    "dataMorte": "April 14, 1935",
+    "dataNascita": "March 23, 1882",
+    "nome": "AMELIE EMMY NOETHER"
+  },
+  {
+    "dataMorte": "October 15, 1564",
+    "dataNascita": "December 31, 1514",
+    "nome": "ANDREAS VESALIUS"
+  },
+  {
+    "dataMorte": "October 20, 1987",
+    "dataNascita": "April 25, 1903",
+    "nome": "ANDREY KOLMOGOROV"
+  },
+  {
+    "dataMorte": "June 10, 1836",
+    "dataNascita": "January 20, 1775",
+    "nome": "ANDRÉ-MARIE AMPÈRE"
+  },
+  {
+    "dataMorte": "May 8, 1794",
+    "dataNascita": "August 26, 1743",
+    "nome": "ANTOINE LAVOISIER"
+  },
+  {
+    "dataMorte": "August 26, 1723",
+    "dataNascita": "October 24, 1632",
+    "nome": "ANTONIE van LEEUWENHOEK"
+  },
+  {
+    "dataMorte": "212 BC",
+    "dataNascita": "287",
+    "nome": "ARCHIMEDES of SYRACUSE"
+  },
+  {
+    "dataMorte": "550 AD",
+    "dataNascita": "476",
+    "nome": "ARYABHATA"
+  },
+  {
+    "dataMorte": "May 23, 1857",
+    "dataNascita": "August 21, 1789",
+    "nome": "AUGUSTIN-LOUIS CAUCHY"
+  },
+  {
+    "dataMorte": "August 23, 980",
+    "dataNascita": "IBN SINA",
+    "nome": "AVICENNA of PERSIA"
+  },
+  {
+    "dataMorte": "August 19, 1662",
+    "dataNascita": "June 19, 1623",
+    "nome": "BLAISE PASCAL"
+  },
+  {
+    "dataMorte": "670",
+    "dataNascita": "circa 598",
+    "nome": "BRAHMAGUPTA"
+  },
+  {
+    "dataMorte": "February 23, 1855",
+    "dataNascita": "April 30, 1777",
+    "nome": "CARL FRIEDRICH GAUSS"
+  },
+  {
+    "dataMorte": "January 10, 1778",
+    "dataNascita": "May 23, 1707",
+    "nome": "CARL LINNAEUS"
+  },
+  {
+    "dataMorte": "August 23, 1806",
+    "dataNascita": "June 14, 1736",
+    "nome": "CHARLES-AUGUSTIN de COULOMB"
+  },
+  {
+    "dataMorte": "July 8, 1695",
+    "dataNascita": "April 14, 1629",
+    "nome": "CHRISTIAAN HUYGENS"
+  },
+  {
+    "dataMorte": "February 10, 1878",
+    "dataNascita": "July 12, 1813",
+    "nome": "CLAUDE BERNARD"
+  },
+  {
+    "dataMorte": "216 AD",
+    "dataNascita": "circa 129",
+    "nome": "CLAUDIUS GALEN of PERGAMON"
+  },
+  {
+    "dataMorte": "March 17, 1782",
+    "dataNascita": "February 8, 1700",
+    "nome": "DANIEL BERNOULLI"
+  },
+  {
+    "dataMorte": "February 14, 1943",
+    "dataNascita": "January 23, 1862",
+    "nome": "DAVID HILBERT"
+  },
+  {
+    "dataMorte": "February 2, 1907",
+    "dataNascita": "February 8, 1834",
+    "nome": "DMITRI MENDELEEV"
+  },
+  {
+    "dataMorte": "January 26, 1823",
+    "dataNascita": "May 17, 1749",
+    "nome": "EDWARD JENNER"
+  },
+  {
+    "dataMorte": "November 28, 1954",
+    "dataNascita": "September 29, 1901",
+    "nome": "ENRICO FERMI"
+  },
+  {
+    "dataMorte": "October 19, 1937",
+    "dataNascita": "August 30, 1871",
+    "nome": "ERNEST RUTHERFORD"
+  },
+  {
+    "dataMorte": "265 BC",
+    "dataNascita": "circa 335",
+    "nome": "EUCLID of ALEXANDRIA"
+  },
+  {
+    "dataMorte": "January 8, 1642",
+    "dataNascita": "February 15, 1564",
+    "nome": "GALILEO GALILEI"
+  },
+  {
+    "dataMorte": "July 20, 1866",
+    "dataNascita": "September 17, 1826",
+    "nome": "GEORG BERNHARD RIEMANN"
+  },
+  {
+    "dataMorte": "July 6, 1854",
+    "dataNascita": "March 16, 1789",
+    "nome": "GEORG SIMON OHM"
+  },
+  {
+    "dataMorte": "January 5, 1943",
+    "dataNascita": "January 5, 1864",
+    "nome": "GEORGE WASHINGTON CARVER"
+  },
+  {
+    "dataMorte": "September 21, 1576",
+    "dataNascita": "September 24, 1501",
+    "nome": "GEROLAMO CARDANO"
+  },
+  {
+    "dataMorte": "November 14, 1716",
+    "dataNascita": "July 1, 1646",
+    "nome": "GOTTFRIED von LEIBNIZ"
+  },
+  {
+    "dataMorte": "January 6, 1884",
+    "dataNascita": "July 20, 1822",
+    "nome": "GREGOR MENDEL"
+  },
+  {
+    "dataMorte": "March 9, 1851",
+    "dataNascita": "August 14, 1777",
+    "nome": "HANS CHRISTIAN OERSTED"
+  },
+  {
+    "dataMorte": "January 1, 1894",
+    "dataNascita": "February 22, 1857",
+    "nome": "HEINRICH HERTZ"
+  },
+  {
+    "dataMorte": "February 4, 1928",
+    "dataNascita": "July 18, 1853",
+    "nome": "HENDRIK ANTOON LORENTZ"
+  },
+  {
+    "dataMorte": "August 25, 1908",
+    "dataNascita": "December 15, 1852",
+    "nome": "HENRI BECQUEREL"
+  },
+  {
+    "dataMorte": "September 8, 1894",
+    "dataNascita": "August 31, 1821",
+    "nome": "HERMANN von HELMHOLTZ"
+  },
+  {
+    "dataMorte": "375 BC",
+    "dataNascita": "circa 460",
+    "nome": "HIPPOCRATES of COS"
+  },
+  {
+    "dataMorte": "May 29, 1829",
+    "dataNascita": "December 17, 1778",
+    "nome": "HUMPHRY DAVY"
+  },
+  {
+    "dataMorte": "July 31, 1321",
+    "dataNascita": "December 29, 1256",
+    "nome": "IBN al-BANNA al-MARRAKUSHI"
+  },
+  {
+    "nome": "ISAAC NEWTON",
+    "dataMorte": "March 31, 1727",
+    "dataNascita": "January 4, 1643"
+  },
+  {
+    "dataMorte": "September 15, 1859",
+    "dataNascita": "April 9, 1806",
+    "nome": "ISAMBARD KINGDOM BRUNEL"
+  },
+  {
+    "dataMorte": "November 5, 1879",
+    "dataNascita": "June 13, 1831",
+    "nome": "JAMES CLERK MAXWELL"
+  },
+  {
+    "dataMorte": "March 15, 1897",
+    "dataNascita": "September 3, 1814",
+    "nome": "JAMES JOSEPH SYLVESTER"
+  },
+  {
+    "dataMorte": "October 11, 1889",
+    "dataNascita": "December 24, 1818",
+    "nome": "JAMES PRESCOTT JOULE"
+  },
+  {
+    "dataMorte": "August 25, 1819",
+    "dataNascita": "January 30, 1736",
+    "nome": "JAMES WATT"
+  },
+  {
+    "dataMorte": "October 29, 1783",
+    "dataNascita": "November 17, 1717",
+    "nome": "JEAN le ROND d'ALEMBERT"
+  },
+  {
+    "dataMorte": "May 16, 1830",
+    "dataNascita": "March 21, 1768",
+    "nome": "JEAN-BAPTISTE JOSEPH FOURIER"
+  },
+  {
+    "dataMorte": "May 1, 2011",
+    "dataNascita": "November 27, 1923",
+    "nome": "JESSE ERNEST WILKINS, Jr."
+  },
+  {
+    "dataMorte": "September 25, 1777",
+    "dataNascita": "August 26, 1728",
+    "nome": "JOHANN HEINRICH LAMBERT"
+  },
+  {
+    "dataMorte": "November 15, 1630",
+    "dataNascita": "December 27, 1571",
+    "nome": "JOHANNES KEPLER"
+  },
+  {
+    "dataMorte": "January 30, 1991",
+    "dataNascita": "May 23, 1908",
+    "nome": "JOHN BARDEEN"
+  },
+  {
+    "dataMorte": "July 27, 1844",
+    "dataNascita": "September 6, 1766",
+    "nome": "JOHN DALTON"
+  },
+  {
+    "dataMorte": "February 8, 1957",
+    "dataNascita": "December 28, 1903",
+    "nome": "JOHN von NEUMANN"
+  },
+  {
+    "dataMorte": "May 9, 1850",
+    "dataNascita": "December 6, 1778",
+    "nome": "JOSEPH LOUIS GAY-LUSSAC"
+  },
+  {
+    "dataMorte": "April 10, 1813",
+    "dataNascita": "January 25, 1736",
+    "nome": "JOSEPH-LOUIS LAGRANGE"
+  },
+  {
+    "dataMorte": "July 17, 1912",
+    "dataNascita": "April 29, 1854",
+    "nome": "JULES HENRI POINCARÉ"
+  },
+  {
+    "dataMorte": "September 18, 1783",
+    "dataNascita": "April 15, 1707",
+    "nome": "LEONHARD EULER"
+  },
+  {
+    "dataMorte": "May 26, 1593",
+    "dataNascita": "July 3, 1518",
+    "nome": "LI SHIZHEN"
+  },
+  {
+    "dataMorte": "October 27, 1968",
+    "dataNascita": "November 7, 1878",
+    "nome": "LISE MEITNER"
+  },
+  {
+    "dataMorte": "295 AD",
+    "dataNascita": "circa 225",
+    "nome": "LIU HUI"
+  },
+  {
+    "dataMorte": "September 28, 1895",
+    "dataNascita": "December 27, 1822",
+    "nome": "LOUIS PASTEUR"
+  },
+  {
+    "dataMorte": "December 4, 1798",
+    "dataNascita": "September 9, 1737",
+    "nome": "LUIGI GALVANI"
+  },
+  {
+    "dataMorte": "1425",
+    "dataNascita": "circa 1340",
+    "nome": "MADHAVA of SANGAMAGRAMA"
+  },
+  {
+    "dataMorte": "July 4, 1934",
+    "dataNascita": "November 7, 1867",
+    "nome": "MARIE SKLODOWSKA-CURIE"
+  },
+  {
+    "dataMorte": "October 4, 1947",
+    "dataNascita": "April 23, 1858",
+    "nome": "MAX PLANCK"
+  },
+  {
+    "dataMorte": "August 25, 1867",
+    "dataNascita": "September 22, 1791",
+    "nome": "MICHAEL FARADAY"
+  },
+  {
+    "dataMorte": "850 AD",
+    "dataNascita": "780",
+    "nome": "MUHAMMAD IBN MUSA AL-KHWARIZMI"
+  },
+  {
+    "dataMorte": "June 26, 1274",
+    "dataNascita": "February 18, 1201",
+    "nome": "NASIR AL-DIN AL-TUSI"
+  },
+  {
+    "dataMorte": "May 24, 1543",
+    "dataNascita": "February 19, 1473",
+    "nome": "NICOLAUS COPERNICUS"
+  },
+  {
+    "dataMorte": "November 18, 1962",
+    "dataNascita": "October 7, 1885",
+    "nome": "NIELS BOHR"
+  },
+  {
+    "dataMorte": "January 7, 1943",
+    "dataNascita": "July 10, 1856",
+    "nome": "NIKOLA TESLA"
+  },
+  {
+    "dataMorte": "December 4, 1131",
+    "dataNascita": "May 18, 1048",
+    "nome": "OMAR AL-KHAYYAM"
+  },
+  {
+    "dataMorte": "July 28, 1968",
+    "dataNascita": "March 8, 1879",
+    "nome": "OTTO HAHN"
+  },
+  {
+    "dataMorte": "August 20, 1915",
+    "dataNascita": "March 14, 1854",
+    "nome": "PAUL EHRLICH"
+  },
+  {
+    "dataMorte": "March 5, 1827",
+    "dataNascita": "March 23, 1749",
+    "nome": "PIERRE-SIMON LAPLACE"
+  },
+  {
+    "dataMorte": "1261",
+    "dataNascita": "1208",
+    "nome": "QIN JIUSHAO"
+  },
+  {
+    "dataMorte": "February 11, 1650",
+    "dataNascita": "March 31, 1596",
+    "nome": "RENÉ DESCARTES"
+  },
+  {
+    "dataMorte": "December 31, 1691",
+    "dataNascita": "January 27, 1627",
+    "nome": "ROBERT BOYLE"
+  },
+  {
+    "dataMorte": "March 3, 1703",
+    "dataNascita": "July 28, 1635",
+    "nome": "ROBERT HOOKE"
+  },
+  {
+    "dataMorte": "May 27, 1910",
+    "dataNascita": "December 11, 1843",
+    "nome": "ROBERT KOCH"
+  },
+  {
+    "dataMorte": "December 5, 1708",
+    "dataNascita": "March 1642",
+    "nome": "SEKI KOWA TAKAKAZU"
+  },
+  {
+    "dataMorte": "January 14, 1966",
+    "dataNascita": "January 12, 1907",
+    "nome": "SERGEI PAVLOVICH KOROLEV"
+  },
+  {
+    "dataMorte": "1095",
+    "dataNascita": "1031",
+    "nome": "SHEN KUO"
+  },
+  {
+    "dataMorte": "April 25, 1840",
+    "dataNascita": "June 21, 1781",
+    "nome": "SIMÉON DENIS POISSON"
+  },
+  {
+    "dataMorte": "April 26, 1920",
+    "dataNascita": "December 22, 1887",
+    "nome": "SRINIVASA RAMANUJAN"
+  },
+  {
+    "dataMorte": "November 18, 1941",
+    "dataNascita": "June 25, 1864",
+    "nome": "WALTHER HERMANN NERNST"
+  },
+  {
+    "dataMorte": "June 16, 1977",
+    "dataNascita": "March 23, 1912",
+    "nome": "WERNHER von BRAUN"
+  },
+  {
+    "dataMorte": "February 10, 1923",
+    "dataNascita": "March 27, 1845",
+    "nome": "WILHELM CONRAD ROENTGEN"
+  },
+  {
+    "dataMorte": "December 17, 1907",
+    "dataNascita": "June 26, 1824",
+    "nome": "WILLIAM THOMSON KELVIN"
+  },
+  {
+    "dataMorte": "139 AD",
+    "dataNascita": "78",
+    "nome": "ZHANG HENG"
+  },
+  {
+    "dataMorte": "1314",
+    "dataNascita": "circa 1249",
+    "nome": "ZHU SHIJIE"
+  },
+  {
+    "dataMorte": "500 AD",
+    "dataNascita": "429",
+    "nome": "ZU CHONGZHI"
+  }
+]
