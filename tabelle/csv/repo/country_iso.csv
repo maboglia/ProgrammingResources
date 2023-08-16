@@ -1,0 +1,250 @@
+country_code,country_name,year,top_level_domain
+AD,Andorra,1974,.ad
+AE,United Arab Emirates,1974,.ae
+AF,Afghanistan,1974,.af
+AG,Antigua and Barbuda,1974,.ag
+AI,Anguilla,1985,.ai
+AL,Albania,1974,.al
+AM,Armenia,1992,.am
+AO,Angola,1974,.ao
+AQ,Antarctica,1974,.aq
+AR,Argentina,1974,.ar
+AS,American Samoa,1974,.as
+AT,Austria,1974,.at
+AU,Australia,1974,.au
+AW,Aruba,1986,.aw
+AX,Aland Islands,2004,.ax
+AZ,Azerbaijan,1992,.az
+BA,Bosnia and Herzegovina,1992,.ba
+BB,Barbados,1974,.bb
+BD,Bangladesh,1974,.bd
+BE,Belgium,1974,.be
+BF,Burkina Faso,1984,.bf
+BG,Bulgaria,1974,.bg
+BH,Bahrain,1974,.bh
+BI,Burundi,1974,.bi
+BJ,Benin,1977,.bj
+BL,Saint Barthelemy,2007,.bl
+BM,Bermuda,1974,.bm
+BN,Brunei Darussalam,1974,.bn
+BO,Bolivia (Plurinational State of),1974,.bo
+BQ,"Bonaire, Sint Eustatius and Saba",2010,.bq
+BR,Brazil,1974,.br
+BS,Bahamas,1974,.bs
+BT,Bhutan,1974,.bt
+BV,Bouvet Island,1974,.bv
+BW,Botswana,1974,.bw
+BY,Belarus,1974,.by
+BZ,Belize,1974,.bz
+CA,Canada,1974,.ca
+CC,Cocos (Keeling) Islands,1974,.cc
+CD,"Congo, Democratic Republic of the",1997,.cd
+CF,Central African Republic,1974,.cf
+CG,Congo,1974,.cg
+CH,Switzerland,1974,.ch
+CI,Cote d'Ivoire,1974,.ci
+CK,Cook Islands,1974,.ck
+CL,Chile,1974,.cl
+CM,Cameroon,1974,.cm
+CN,China,1974,.cn
+CO,Colombia,1974,.co
+CR,Costa Rica,1974,.cr
+CU,Cuba,1974,.cu
+CV,Cabo Verde,1974,.cv
+CW,Curacao,2010,.cw
+CX,Christmas Island,1974,.cx
+CY,Cyprus,1974,.cy
+CZ,Czechia,1993,.cz
+DE,Germany,1974,.de
+DJ,Djibouti,1977,.dj
+DK,Denmark,1974,.dk
+DM,Dominica,1974,.dm
+DO,Dominican Republic,1974,.do
+DZ,Algeria,1974,.dz
+EC,Ecuador,1974,.ec
+EE,Estonia,1992,.ee
+EG,Egypt,1974,.eg
+EH,Western Sahara,1974,.eh
+ER,Eritrea,1993,.er
+ES,Spain,1974,.es
+ET,Ethiopia,1974,.et
+FI,Finland,1974,.fi
+FJ,Fiji,1974,.fj
+FK,Falkland Islands (Malvinas),1974,.fk
+FM,Micronesia (Federated States of),1986,.fm
+FO,Faroe Islands,1974,.fo
+FR,France,1974,.fr
+GA,Gabon,1974,.ga
+GB,United Kingdom of Great Britain and Northern Ireland,1974,.gb ( .uk )
+GD,Grenada,1974,.gd
+GE,Georgia,1992,.ge
+GF,French Guiana,1974,.gf
+GG,Guernsey,2006,.gg
+GH,Ghana,1974,.gh
+GI,Gibraltar,1974,.gi
+GL,Greenland,1974,.gl
+GM,Gambia,1974,.gm
+GN,Guinea,1974,.gn
+GP,Guadeloupe,1974,.gp
+GQ,Equatorial Guinea,1974,.gq
+GR,Greece,1974,.gr
+GS,South Georgia and the South Sandwich Islands,1993,.gs
+GT,Guatemala,1974,.gt
+GU,Guam,1974,.gu
+GW,Guinea-Bissau,1974,.gw
+GY,Guyana,1974,.gy
+HK,Hong Kong,1974,.hk
+HM,Heard Island and McDonald Islands,1974,.hm
+HN,Honduras,1974,.hn
+HR,Croatia,1992,.hr
+HT,Haiti,1974,.ht
+HU,Hungary,1974,.hu
+ID,Indonesia,1974,.id
+IE,Ireland,1974,.ie
+IL,Israel,1974,.il
+IM,Isle of Man,2006,.im
+IN,India,1974,.in
+IO,British Indian Ocean Territory,1974,.io
+IQ,Iraq,1974,.iq
+IR,Iran (Islamic Republic of),1974,.ir
+IS,Iceland,1974,.is
+IT,Italy,1974,.it
+JE,Jersey,2006,.je
+JM,Jamaica,1974,.jm
+JO,Jordan,1974,.jo
+JP,Japan,1974,.jp
+KE,Kenya,1974,.ke
+KG,Kyrgyzstan,1992,.kg
+KH,Cambodia,1974,.kh
+KI,Kiribati,1979,.ki
+KM,Comoros,1974,.km
+KN,Saint Kitts and Nevis,1974,.kn
+KP,Korea (Democratic People's Republic of),1974,.kp
+KR,"Korea, Republic of",1974,.kr
+KW,Kuwait,1974,.kw
+KY,Cayman Islands,1974,.ky
+KZ,Kazakhstan,1992,.kz
+LA,Lao People's Democratic Republic,1974,.la
+LB,Lebanon,1974,.lb
+LC,Saint Lucia,1974,.lc
+LI,Liechtenstein,1974,.li
+LK,Sri Lanka,1974,.lk
+LR,Liberia,1974,.lr
+LS,Lesotho,1974,.ls
+LT,Lithuania,1992,.lt
+LU,Luxembourg,1974,.lu
+LV,Latvia,1992,.lv
+LY,Libya,1974,.ly
+MA,Morocco,1974,.ma
+MC,Monaco,1974,.mc
+MD,"Moldova, Republic of",1992,.md
+ME,Montenegro,2006,.me
+MF,Saint Martin (French part),2007,.mf
+MG,Madagascar,1974,.mg
+MH,Marshall Islands,1986,.mh
+MK,"Macedonia, the former Yugoslav Republic of",1993,.mk
+ML,Mali,1974,.ml
+MM,Myanmar,1989,.mm
+MN,Mongolia,1974,.mn
+MO,Macao,1974,.mo
+MP,Northern Mariana Islands,1986,.mp
+MQ,Martinique,1974,.mq
+MR,Mauritania,1974,.mr
+MS,Montserrat,1974,.ms
+MT,Malta,1974,.mt
+MU,Mauritius,1974,.mu
+MV,Maldives,1974,.mv
+MW,Malawi,1974,.mw
+MX,Mexico,1974,.mx
+MY,Malaysia,1974,.my
+MZ,Mozambique,1974,.mz
+NA,Namibia,1974,.na
+NC,New Caledonia,1974,.nc
+NE,Niger,1974,.ne
+NF,Norfolk Island,1974,.nf
+NG,Nigeria,1974,.ng
+NI,Nicaragua,1974,.ni
+NL,Netherlands,1974,.nl
+NO,Norway,1974,.no
+NP,Nepal,1974,.np
+NR,Nauru,1974,.nr
+NU,Niue,1974,.nu
+NZ,New Zealand,1974,.nz
+OM,Oman,1974,.om
+PA,Panama,1974,.pa
+PE,Peru,1974,.pe
+PF,French Polynesia,1974,.pf
+PG,Papua New Guinea,1974,.pg
+PH,Philippines,1974,.ph
+PK,Pakistan,1974,.pk
+PL,Poland,1974,.pl
+PM,Saint Pierre and Miquelon,1974,.pm
+PN,Pitcairn,1974,.pn
+PR,Puerto Rico,1974,.pr
+PS,"Palestine, State of",1999,.ps
+PT,Portugal,1974,.pt
+PW,Palau,1986,.pw
+PY,Paraguay,1974,.py
+QA,Qatar,1974,.qa
+RE,Reunion,1974,.re
+RO,Romania,1974,.ro
+RS,Serbia,2006,.rs
+RU,Russian Federation,1992,.ru
+RW,Rwanda,1974,.rw
+SA,Saudi Arabia,1974,.sa
+SB,Solomon Islands,1974,.sb
+SC,Seychelles,1974,.sc
+SD,Sudan,1974,.sd
+SE,Sweden,1974,.se
+SG,Singapore,1974,.sg
+SH,"Saint Helena, Ascension and Tristan da Cunha",1974,.sh
+SI,Slovenia,1992,.si
+SJ,Svalbard and Jan Mayen,1974,.sj
+SK,Slovakia,1993,.sk
+SL,Sierra Leone,1974,.sl
+SM,San Marino,1974,.sm
+SN,Senegal,1974,.sn
+SO,Somalia,1974,.so
+SR,Suriname,1974,.sr
+SS,South Sudan,2011,.ss
+ST,Sao Tome and Principe,1974,.st
+SV,El Salvador,1974,.sv
+SX,Sint Maarten (Dutch part),2010,.sx
+SY,Syrian Arab Republic,1974,.sy
+SZ,Eswatini,1974,.sz
+TC,Turks and Caicos Islands,1974,.tc
+TD,Chad,1974,.td
+TF,French Southern Territories,1979,.tf
+TG,Togo,1974,.tg
+TH,Thailand,1974,.th
+TJ,Tajikistan,1992,.tj
+TK,Tokelau,1974,.tk
+TL,Timor-Leste,2002,.tl
+TM,Turkmenistan,1992,.tm
+TN,Tunisia,1974,.tn
+TO,Tonga,1974,.to
+TR,Turkey,1974,.tr
+TT,Trinidad and Tobago,1974,.tt
+TV,Tuvalu,1977,.tv
+TW,"Taiwan, Province of China",1974,.tw
+TZ,"Tanzania, United Republic of",1974,.tz
+UA,Ukraine,1974,.ua
+UG,Uganda,1974,.ug
+UM,United States Minor Outlying Islands,1986,.um
+US,United States of America,1974,.us
+UY,Uruguay,1974,.uy
+UZ,Uzbekistan,1992,.uz
+VA,Holy See,1974,.va
+VC,Saint Vincent and the Grenadines,1974,.vc
+VE,Venezuela (Bolivarian Republic of),1974,.ve
+VG,Virgin Islands (British),1974,.vg
+VI,Virgin Islands (U.S.),1974,.vi
+VN,Viet Nam,1974,.vn
+VU,Vanuatu,1980,.vu
+WF,Wallis and Futuna,1974,.wf
+WS,Samoa,1974,.ws
+YE,Yemen,1974,.ye
+YT,Mayotte,1993,.yt
+ZA,South Africa,1974,.za
+ZM,Zambia,1974,.zm
+ZW,Zimbabwe,1980,.zw

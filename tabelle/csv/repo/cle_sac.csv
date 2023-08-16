@@ -1,0 +1,501 @@
+year,state,city,age,sex,race,marital_status,personal_income
+2000,California,Sacramento,56,Male,Other,Married / spouse present,40240
+2000,California,Sacramento,53,Female,White,Married / spouse present,13600
+2000,California,Sacramento,17,Female,Other,Never married / single,0
+2000,California,Sacramento,37,Female,White,Never married / single,49000
+2000,California,Sacramento,40,Male,White,Never married / single,38300
+2000,California,Sacramento,23,Male,Other,Never married / single,14000
+2000,California,Sacramento,40,Female,Black,Divorced,9000
+2000,California,Sacramento,11,Male,Black,Never married / single,NA
+2000,California,Sacramento,46,Male,Black,Married / spouse present,40000
+2000,California,Sacramento,34,Female,Black,Married / spouse present,18000
+2000,California,Sacramento,16,Male,Black,Never married / single,0
+2000,California,Sacramento,11,Female,Black,Never married / single,NA
+2000,California,Sacramento,7,Female,Black,Never married / single,NA
+2000,California,Sacramento,23,Male,White,Never married / single,65000
+2000,California,Sacramento,30,Female,White,Divorced,30000
+2000,California,Sacramento,35,Male,White,Married / spouse present,61100
+2000,California,Sacramento,30,Male,White,Married / spouse present,62000
+2000,California,Sacramento,28,Female,White,Married / spouse present,5500
+2000,California,Sacramento,3,Female,White,Never married / single,NA
+2000,California,Sacramento,0,Male,White,Never married / single,NA
+2000,California,Sacramento,42,Male,White,Married / spouse present,36000
+2000,California,Sacramento,17,Female,White,Never married / single,0
+2000,California,Sacramento,6,Male,Other,Never married / single,NA
+2000,California,Sacramento,1,Male,Other,Never married / single,NA
+2000,California,Sacramento,40,Male,White,Married / spouse present,50000
+2000,California,Sacramento,37,Female,White,Married / spouse present,70000
+2000,California,Sacramento,9,Male,White,Never married / single,NA
+2000,California,Sacramento,7,Male,White,Never married / single,NA
+2000,California,Sacramento,39,Male,White,Divorced,34400
+2000,California,Sacramento,33,Male,Other,Married / spouse present,18000
+2000,California,Sacramento,37,Female,Other,Married / spouse present,0
+2000,California,Sacramento,62,Male,Other,Married / spouse present,3800
+2000,California,Sacramento,27,Male,Other,Married / spouse absent,15000
+2000,California,Sacramento,11,Female,Other,Never married / single,NA
+2000,California,Sacramento,21,Female,Other,Married / spouse absent,0
+2000,California,Sacramento,5,Male,Other,Never married / single,NA
+2000,California,Sacramento,4,Female,Other,Never married / single,NA
+2000,California,Sacramento,1,Male,Other,Never married / single,NA
+2000,California,Sacramento,1,Male,Other,Never married / single,NA
+2000,California,Sacramento,80,Female,White,Widowed,55100
+2000,California,Sacramento,28,Female,Other,Married / spouse present,27000
+2000,California,Sacramento,0,Male,Other,Never married / single,NA
+2000,California,Sacramento,85,Female,White,Widowed,13900
+2000,California,Sacramento,24,Female,White,Never married / single,20000
+2000,California,Sacramento,45,Female,Black,Divorced,150000
+2000,California,Sacramento,52,Female,White,Divorced,8300
+2000,California,Sacramento,23,Male,Black,Never married / single,0
+2000,California,Sacramento,16,Male,Black,Never married / single,0
+2000,California,Sacramento,43,Female,Other,Married / spouse present,0
+2000,California,Sacramento,62,Male,White,Married / spouse present,42000
+2000,California,Sacramento,60,Female,White,Divorced,1400
+2000,California,Sacramento,52,Male,White,Married / spouse present,70000
+2000,California,Sacramento,51,Female,White,Married / spouse present,35000
+2000,California,Sacramento,49,Female,White,Divorced,66000
+2000,California,Sacramento,29,Male,White,Married / spouse present,13500
+2000,California,Sacramento,4,Female,White,Never married / single,NA
+2000,California,Sacramento,2,Female,White,Never married / single,NA
+2000,California,Sacramento,49,Female,Other,Married / spouse present,5100
+2000,California,Sacramento,51,Male,Other,Married / spouse present,8100
+2000,California,Sacramento,19,Female,Other,Never married / single,8000
+2000,California,Sacramento,25,Male,Other,Married / spouse present,32000
+2000,California,Sacramento,55,Female,White,Married / spouse present,51800
+2000,California,Sacramento,39,Female,White,Never married / single,25000
+2000,California,Sacramento,39,Male,White,Married / spouse absent,95000
+2000,California,Sacramento,25,Female,Other,Never married / single,32000
+2000,California,Sacramento,24,Female,White,Married / spouse present,0
+2000,California,Sacramento,4,Male,White,Never married / single,NA
+2000,California,Sacramento,77,Male,White,Married / spouse present,55000
+2000,California,Sacramento,63,Female,Other,Married / spouse present,51000
+2000,California,Sacramento,33,Male,White,Married / spouse present,20000
+2000,California,Sacramento,12,Male,White,Never married / single,NA
+2000,California,Sacramento,4,Male,White,Never married / single,NA
+2000,California,Sacramento,1,Female,White,Never married / single,NA
+2000,California,Sacramento,35,Male,Black,Divorced,850
+2000,California,Sacramento,44,Male,White,Married / spouse present,80000
+2000,California,Sacramento,44,Female,White,Married / spouse present,44000
+2000,California,Sacramento,18,Male,White,Never married / single,0
+2000,California,Sacramento,15,Female,White,Never married / single,0
+2000,California,Sacramento,19,Male,Other,Never married / single,3750
+2000,California,Sacramento,37,Male,Black,Married / spouse present,20000
+2000,California,Sacramento,1,Male,Other,Never married / single,NA
+2000,California,Sacramento,30,Male,White,Married / spouse present,36000
+2000,California,Sacramento,39,Male,White,Married / spouse absent,55000
+2000,California,Sacramento,41,Female,White,Married / spouse absent,0
+2000,California,Sacramento,36,Female,White,Never married / single,32000
+2000,California,Sacramento,33,Female,White,Divorced,36000
+2000,California,Sacramento,18,Male,Other,Never married / single,2010
+2000,California,Sacramento,2,Male,Other,Never married / single,NA
+2000,California,Sacramento,49,Male,White,Married / spouse present,76300
+2000,California,Sacramento,46,Female,White,Married / spouse present,41000
+2000,California,Sacramento,20,Female,Black,Never married / single,10000
+2000,California,Sacramento,35,Male,White,Divorced,9600
+2000,California,Sacramento,59,Male,White,Divorced,54000
+2000,California,Sacramento,44,Female,White,Never married / single,29000
+2000,California,Sacramento,15,Female,White,Never married / single,0
+2000,California,Sacramento,51,Male,Other,Married / spouse present,12000
+2000,California,Sacramento,19,Male,White,Never married / single,2000
+2000,California,Sacramento,16,Male,White,Never married / single,0
+2000,California,Sacramento,14,Female,White,Never married / single,NA
+2000,California,Sacramento,54,Female,White,Married / spouse present,39400
+2000,California,Sacramento,51,Female,White,Married / spouse present,0
+2000,California,Sacramento,12,Male,White,Never married / single,NA
+2000,California,Sacramento,30,Female,White,Married / spouse present,40000
+2000,California,Sacramento,29,Male,White,Married / spouse present,30000
+2000,California,Sacramento,0,Male,White,Never married / single,NA
+2000,California,Sacramento,63,Female,White,Married / spouse present,22100
+2000,California,Sacramento,46,Female,White,Divorced,17900
+2000,California,Sacramento,26,Male,White,Never married / single,20000
+2000,California,Sacramento,46,Female,Black,Divorced,23000
+2000,California,Sacramento,24,Male,Black,Never married / single,25000
+2000,California,Sacramento,80,Male,White,Married / spouse absent,12000
+2000,California,Sacramento,36,Male,White,Married / spouse present,10900
+2000,California,Sacramento,29,Male,White,Married / spouse absent,160000
+2000,California,Sacramento,64,Male,White,Divorced,14000
+2000,California,Sacramento,27,Female,White,Married / spouse present,19600
+2000,California,Sacramento,29,Male,White,Married / spouse present,68000
+2000,California,Sacramento,93,Male,White,Married / spouse present,39300
+2000,California,Sacramento,22,Male,Other,Never married / single,12000
+2000,California,Sacramento,23,Male,Other,Never married / single,6700
+2000,California,Sacramento,38,Male,White,Divorced,50000
+2000,California,Sacramento,40,Female,White,Married / spouse present,52490
+2000,California,Sacramento,39,Male,White,Married / spouse present,62400
+2000,California,Sacramento,11,Male,White,Never married / single,NA
+2000,California,Sacramento,25,Female,Other,Married / spouse present,0
+2000,California,Sacramento,8,Female,Other,Never married / single,NA
+2000,California,Sacramento,44,Male,Other,Married / spouse present,16000
+2000,California,Sacramento,39,Female,Other,Married / spouse present,6900
+2000,California,Sacramento,21,Male,Other,Never married / single,4000
+2000,California,Sacramento,20,Male,White,Never married / single,13000
+2000,California,Sacramento,17,Female,White,Never married / single,0
+2000,California,Sacramento,12,Female,Other,Never married / single,NA
+2000,California,Sacramento,21,Male,Other,Never married / single,16700
+2000,California,Sacramento,37,Female,Black,Separated,24900
+2000,California,Sacramento,33,Male,Black,Never married / single,16100
+2000,California,Sacramento,15,Male,Black,Never married / single,7100
+2000,California,Sacramento,7,Female,Black,Never married / single,NA
+2000,California,Sacramento,12,Female,Other,Never married / single,NA
+2000,California,Sacramento,4,Female,Other,Never married / single,NA
+2000,California,Sacramento,1,Male,White,Never married / single,NA
+2000,California,Sacramento,16,Male,White,Never married / single,0
+2000,California,Sacramento,15,Male,White,Never married / single,0
+2000,California,Sacramento,65,Male,White,Married / spouse present,44800
+2000,California,Sacramento,71,Female,White,Married / spouse present,16000
+2000,California,Sacramento,71,Male,White,Married / spouse present,86700
+2000,California,Sacramento,65,Female,White,Married / spouse present,3000
+2000,California,Sacramento,40,Female,White,Married / spouse present,12500
+2000,California,Sacramento,12,Female,White,Never married / single,NA
+2000,California,Sacramento,52,Female,White,Married / spouse present,16600
+2000,California,Sacramento,40,Female,Other,Married / spouse present,170000
+2000,California,Sacramento,46,Male,Other,Married / spouse present,70000
+2000,California,Sacramento,31,Male,White,Married / spouse present,32000
+2000,California,Sacramento,8,Male,White,Never married / single,NA
+2000,California,Sacramento,36,Male,Other,Married / spouse present,40040
+2000,California,Sacramento,8,Male,Other,Never married / single,NA
+2000,California,Sacramento,45,Male,White,Married / spouse present,10000
+2000,California,Sacramento,36,Female,White,Married / spouse present,34000
+2000,California,Sacramento,29,Male,White,Married / spouse present,600
+2000,California,Sacramento,24,Female,White,Married / spouse present,0
+2000,California,Sacramento,43,Male,White,Married / spouse present,6000
+2000,California,Sacramento,2,Male,White,Never married / single,NA
+2000,California,Sacramento,0,Female,White,Never married / single,NA
+2000,California,Sacramento,37,Male,Black,Married / spouse present,50020
+2000,California,Sacramento,35,Female,Black,Married / spouse present,50020
+2000,California,Sacramento,50,Male,White,Married / spouse present,92000
+2000,California,Sacramento,49,Female,White,Married / spouse present,70000
+2000,California,Sacramento,7,Female,White,Never married / single,NA
+2000,California,Sacramento,7,Female,White,Never married / single,NA
+2000,California,Sacramento,35,Male,White,Married / spouse present,15000
+2000,California,Sacramento,27,Female,White,Married / spouse present,16000
+2000,California,Sacramento,38,Female,Other,Never married / single,30000
+2000,California,Sacramento,58,Male,White,Married / spouse present,134000
+2000,California,Sacramento,53,Female,Other,Married / spouse present,0
+2000,California,Sacramento,41,Male,White,Married / spouse present,170000
+2000,California,Sacramento,14,Female,White,Never married / single,NA
+2000,California,Sacramento,48,Female,Other,Married / spouse present,0
+2000,California,Sacramento,33,Female,Other,Married / spouse present,65200
+2000,California,Sacramento,82,Female,White,Widowed,49700
+2000,California,Sacramento,50,Male,White,Married / spouse present,79100
+2000,California,Sacramento,47,Female,White,Married / spouse present,14200
+2000,California,Sacramento,30,Male,Other,Married / spouse present,20000
+2000,California,Sacramento,44,Female,Other,Married / spouse present,105200
+2000,California,Sacramento,41,Female,White,Married / spouse present,20000
+2000,California,Sacramento,4,Female,White,Never married / single,NA
+2000,California,Sacramento,1,Female,White,Never married / single,NA
+2000,California,Sacramento,25,Female,White,Never married / single,29200
+2000,California,Sacramento,7,Female,White,Never married / single,NA
+2000,California,Sacramento,53,Female,White,Married / spouse present,60000
+2000,California,Sacramento,19,Female,White,Never married / single,2000
+2000,California,Sacramento,93,Male,White,Divorced,22600
+2000,California,Sacramento,32,Male,White,Divorced,12000
+2000,California,Sacramento,50,Female,White,Married / spouse present,34000
+2000,California,Sacramento,53,Male,White,Married / spouse present,24600
+2000,California,Sacramento,41,Male,White,Married / spouse present,50000
+2000,California,Sacramento,38,Female,White,Married / spouse present,21000
+2000,California,Sacramento,15,Female,White,Never married / single,0
+2000,California,Sacramento,8,Male,White,Never married / single,NA
+2000,California,Sacramento,0,Male,White,Never married / single,NA
+2000,California,Sacramento,79,Female,White,Widowed,16000
+2000,California,Sacramento,63,Female,White,Widowed,206900
+2000,California,Sacramento,41,Male,White,Married / spouse present,10000
+2000,California,Sacramento,40,Female,White,Married / spouse present,5600
+2000,California,Sacramento,34,Female,White,Never married / single,24500
+2000,California,Sacramento,11,Male,White,Never married / single,NA
+2000,California,Sacramento,51,Male,White,Married / spouse present,84900
+2000,California,Sacramento,11,Female,White,Never married / single,NA
+2000,California,Sacramento,66,Male,White,Married / spouse present,9300
+2000,California,Sacramento,65,Female,White,Married / spouse present,5600
+2000,California,Sacramento,52,Male,White,Married / spouse present,60400
+2000,California,Sacramento,31,Male,White,Never married / single,25000
+2000,California,Sacramento,54,Female,White,Divorced,25000
+2000,California,Sacramento,7,Male,White,Never married / single,NA
+2000,California,Sacramento,5,Female,White,Never married / single,NA
+2000,California,Sacramento,43,Female,White,Married / spouse present,5000
+2000,California,Sacramento,12,Male,White,Never married / single,NA
+2000,California,Sacramento,44,Male,White,Never married / single,20000
+2000,California,Sacramento,69,Female,White,Widowed,30400
+2000,California,Sacramento,52,Female,White,Separated,13000
+2000,California,Sacramento,42,Male,White,Married / spouse present,81000
+2000,California,Sacramento,47,Female,White,Married / spouse present,13400
+2000,California,Sacramento,12,Female,White,Never married / single,NA
+2000,California,Sacramento,59,Female,White,Married / spouse present,30400
+2000,California,Sacramento,14,Female,White,Never married / single,NA
+2000,California,Sacramento,6,Male,White,Never married / single,NA
+2000,California,Sacramento,1,Male,White,Never married / single,NA
+2000,California,Sacramento,28,Female,White,Married / spouse present,37600
+2000,California,Sacramento,1,Female,White,Never married / single,NA
+2000,California,Sacramento,0,Female,White,Never married / single,NA
+2000,California,Sacramento,62,Male,White,Married / spouse present,115000
+2000,California,Sacramento,83,Female,Other,Widowed,82100
+2000,California,Sacramento,9,Female,White,Never married / single,NA
+2000,California,Sacramento,50,Male,White,Married / spouse present,50000
+2000,California,Sacramento,48,Male,White,Married / spouse present,13600
+2000,California,Sacramento,23,Male,White,Never married / single,900
+2000,Ohio,Cleveland,76,Male,White,Married / spouse absent,33000
+2000,Ohio,Cleveland,68,Male,White,Married / spouse present,41300
+2000,Ohio,Cleveland,46,Female,White,Married / spouse present,47700
+2000,Ohio,Cleveland,45,Male,White,Widowed,6690
+2000,Ohio,Cleveland,48,Male,White,Married / spouse present,90000
+2000,Ohio,Cleveland,48,Female,White,Married / spouse present,21000
+2000,Ohio,Cleveland,15,Female,White,Never married / single,0
+2000,Ohio,Cleveland,50,Male,White,Married / spouse present,81000
+2000,Ohio,Cleveland,50,Female,White,Married / spouse present,17000
+2000,Ohio,Cleveland,62,Female,White,Married / spouse present,2300
+2000,Ohio,Cleveland,30,Male,White,Married / spouse present,35200
+2000,Ohio,Cleveland,31,Female,White,Married / spouse present,24600
+2000,Ohio,Cleveland,5,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,49,Male,White,Married / spouse present,127000
+2000,Ohio,Cleveland,16,Male,White,Never married / single,130
+2000,Ohio,Cleveland,88,Female,White,Widowed,19900
+2000,Ohio,Cleveland,35,Female,White,Married / spouse present,10000
+2000,Ohio,Cleveland,38,Male,White,Never married / single,18200
+2000,Ohio,Cleveland,67,Female,White,Married / spouse present,8400
+2000,Ohio,Cleveland,48,Female,White,Married / spouse present,0
+2000,Ohio,Cleveland,32,Male,White,Married / spouse present,43000
+2000,Ohio,Cleveland,21,Female,Black,Never married / single,10600
+2000,Ohio,Cleveland,32,Female,White,Married / spouse present,27600
+2000,Ohio,Cleveland,12,Female,Other,Never married / single,NA
+2000,Ohio,Cleveland,7,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,5,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,38,Female,White,Married / spouse present,0
+2000,Ohio,Cleveland,11,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,8,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,5,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,0,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,42,Male,White,Married / spouse present,96030
+2000,Ohio,Cleveland,42,Female,White,Married / spouse present,28000
+2000,Ohio,Cleveland,25,Male,White,Divorced,25000
+2000,Ohio,Cleveland,54,Male,White,Married / spouse present,31000
+2000,Ohio,Cleveland,52,Female,White,Married / spouse present,36100
+2000,Ohio,Cleveland,29,Male,White,Separated,61000
+2000,Ohio,Cleveland,58,Female,White,Divorced,6100
+2000,Ohio,Cleveland,70,Male,White,Married / spouse present,0
+2000,Ohio,Cleveland,24,Female,White,Never married / single,27000
+2000,Ohio,Cleveland,14,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,12,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,43,Female,Other,Married / spouse present,39000
+2000,Ohio,Cleveland,13,Male,Other,Never married / single,NA
+2000,Ohio,Cleveland,20,Female,Other,Never married / single,1540
+2000,Ohio,Cleveland,54,Female,White,Divorced,55000
+2000,Ohio,Cleveland,15,Female,White,Never married / single,0
+2000,Ohio,Cleveland,13,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,38,Female,White,Married / spouse present,29000
+2000,Ohio,Cleveland,42,Female,Other,Never married / single,14100
+2000,Ohio,Cleveland,58,Male,White,Married / spouse present,152400
+2000,Ohio,Cleveland,26,Male,White,Married / spouse present,36600
+2000,Ohio,Cleveland,8,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,5,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,0,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,65,Male,White,Married / spouse present,20100
+2000,Ohio,Cleveland,56,Female,White,Married / spouse present,300
+2000,Ohio,Cleveland,61,Female,White,Married / spouse present,6400
+2000,Ohio,Cleveland,50,Male,White,Married / spouse present,75600
+2000,Ohio,Cleveland,41,Female,White,Married / spouse present,490
+2000,Ohio,Cleveland,11,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,86,Male,White,Widowed,29500
+2000,Ohio,Cleveland,45,Male,White,Divorced,67900
+2000,Ohio,Cleveland,33,Male,White,Never married / single,22000
+2000,Ohio,Cleveland,51,Female,White,Married / spouse absent,9600
+2000,Ohio,Cleveland,15,Female,White,Never married / single,0
+2000,Ohio,Cleveland,32,Female,White,Divorced,35500
+2000,Ohio,Cleveland,22,Female,White,Never married / single,24000
+2000,Ohio,Cleveland,10,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,77,Male,White,Married / spouse present,13210
+2000,Ohio,Cleveland,75,Female,White,Married / spouse present,14920
+2000,Ohio,Cleveland,57,Female,White,Married / spouse present,700
+2000,Ohio,Cleveland,23,Female,White,Never married / single,11000
+2000,Ohio,Cleveland,4,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,37,Male,White,Married / spouse present,30100
+2000,Ohio,Cleveland,72,Female,White,Married / spouse present,5300
+2000,Ohio,Cleveland,62,Female,White,Divorced,9000
+2000,Ohio,Cleveland,77,Male,White,Divorced,10780
+2000,Ohio,Cleveland,41,Male,White,Never married / single,18000
+2000,Ohio,Cleveland,52,Female,White,Divorced,48700
+2000,Ohio,Cleveland,53,Male,White,Divorced,35000
+2000,Ohio,Cleveland,43,Male,White,Married / spouse present,62000
+2000,Ohio,Cleveland,14,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,10,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,56,Male,White,Married / spouse present,59300
+2000,Ohio,Cleveland,53,Female,White,Married / spouse present,35000
+2000,Ohio,Cleveland,60,Male,White,Married / spouse present,36004
+2000,Ohio,Cleveland,57,Female,White,Married / spouse present,25010
+2000,Ohio,Cleveland,50,Male,White,Married / spouse present,37700
+2000,Ohio,Cleveland,45,Female,White,Married / spouse present,33600
+2000,Ohio,Cleveland,18,Male,White,Never married / single,8840
+2000,Ohio,Cleveland,11,Male,Black,Never married / single,NA
+2000,Ohio,Cleveland,39,Female,White,Married / spouse present,24800
+2000,Ohio,Cleveland,35,Male,White,Married / spouse present,54450
+2000,Ohio,Cleveland,2,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,56,Female,White,Divorced,54400
+2000,Ohio,Cleveland,93,Female,White,Widowed,0
+2000,Ohio,Cleveland,69,Male,White,Widowed,47990
+2000,Ohio,Cleveland,51,Male,White,Married / spouse present,131000
+2000,Ohio,Cleveland,53,Female,White,Married / spouse present,70000
+2000,Ohio,Cleveland,80,Male,White,Married / spouse present,43200
+2000,Ohio,Cleveland,68,Female,White,Married / spouse present,70800
+2000,Ohio,Cleveland,38,Male,White,Never married / single,25000
+2000,Ohio,Cleveland,34,Female,White,Married / spouse present,30000
+2000,Ohio,Cleveland,70,Female,White,Never married / single,66700
+2000,Ohio,Cleveland,57,Male,White,Married / spouse present,60000
+2000,Ohio,Cleveland,47,Female,White,Never married / single,22000
+2000,Ohio,Cleveland,67,Female,White,Married / spouse absent,28900
+2000,Ohio,Cleveland,35,Female,White,Divorced,24100
+2000,Ohio,Cleveland,15,Male,White,Never married / single,900
+2000,Ohio,Cleveland,13,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,58,Female,White,Widowed,48900
+2000,Ohio,Cleveland,72,Female,White,Widowed,13600
+2000,Ohio,Cleveland,27,Female,Black,Never married / single,20700
+2000,Ohio,Cleveland,7,Male,Black,Never married / single,NA
+2000,Ohio,Cleveland,4,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,0,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,73,Male,White,Widowed,18500
+2000,Ohio,Cleveland,65,Male,Black,Married / spouse present,21800
+2000,Ohio,Cleveland,66,Female,Black,Married / spouse present,3600
+2000,Ohio,Cleveland,63,Male,White,Married / spouse present,9000
+2000,Ohio,Cleveland,60,Female,White,Married / spouse present,0
+2000,Ohio,Cleveland,79,Male,White,Never married / single,13400
+2000,Ohio,Cleveland,83,Female,White,Widowed,10400
+2000,Ohio,Cleveland,7,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,83,Male,White,Widowed,18000
+2000,Ohio,Cleveland,62,Male,Black,Never married / single,6000
+2000,Ohio,Cleveland,12,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,1,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,14,Male,Black,Never married / single,NA
+2000,Ohio,Cleveland,8,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,71,Female,White,Never married / single,6000
+2000,Ohio,Cleveland,68,Female,White,Widowed,13570
+2000,Ohio,Cleveland,51,Male,White,Married / spouse present,32700
+2000,Ohio,Cleveland,50,Female,White,Married / spouse present,32600
+2000,Ohio,Cleveland,19,Male,White,Never married / single,4560
+2000,Ohio,Cleveland,53,Female,White,Never married / single,42000
+2000,Ohio,Cleveland,24,Female,Black,Never married / single,2600
+2000,Ohio,Cleveland,2,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,77,Female,White,Widowed,12390
+2000,Ohio,Cleveland,37,Female,Black,Never married / single,23200
+2000,Ohio,Cleveland,16,Female,Black,Never married / single,500
+2000,Ohio,Cleveland,13,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,16,Female,Black,Never married / single,500
+2000,Ohio,Cleveland,2,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,12,Male,Black,Never married / single,NA
+2000,Ohio,Cleveland,11,Female,Black,Never married / single,NA
+2000,Ohio,Cleveland,66,Male,Black,Divorced,10010
+2000,Ohio,Cleveland,41,Male,Black,Never married / single,5600
+2000,Ohio,Cleveland,30,Female,Black,Never married / single,12004
+2000,Ohio,Cleveland,42,Female,White,Divorced,41600
+2000,Ohio,Cleveland,65,Male,White,Divorced,44000
+2000,Ohio,Cleveland,47,Male,White,Never married / single,0
+2000,Ohio,Cleveland,47,Female,White,Never married / single,10600
+2000,Ohio,Cleveland,59,Female,White,Divorced,0
+2000,Ohio,Cleveland,86,Female,Black,Widowed,17860
+2000,Ohio,Cleveland,70,Male,Black,Married / spouse present,20800
+2000,Ohio,Cleveland,69,Female,Black,Married / spouse present,29900
+2000,Ohio,Cleveland,52,Female,White,Divorced,500
+2000,Ohio,Cleveland,49,Female,Black,Never married / single,5500
+2000,Ohio,Cleveland,63,Female,White,Divorced,7600
+2000,Ohio,Cleveland,33,Male,White,Never married / single,31900
+2000,Ohio,Cleveland,73,Female,White,Widowed,8700
+2000,Ohio,Cleveland,27,Male,White,Divorced,19000
+2000,Ohio,Cleveland,39,Male,White,Married / spouse present,86000
+2000,Ohio,Cleveland,39,Female,White,Married / spouse present,20000
+2000,Ohio,Cleveland,14,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,0,Male,Black,Never married / single,NA
+2000,Ohio,Cleveland,37,Male,Black,Never married / single,37060
+2000,Ohio,Cleveland,32,Male,White,Married / spouse present,0
+2000,Ohio,Cleveland,59,Female,Other,Divorced,30000
+2000,Ohio,Cleveland,57,Female,White,Married / spouse present,126000
+2000,Ohio,Cleveland,74,Male,White,Married / spouse present,29900
+2000,Ohio,Cleveland,71,Female,White,Married / spouse present,6500
+2000,Ohio,Cleveland,40,Male,White,Never married / single,7800
+2000,Ohio,Cleveland,42,Female,White,Separated,19500
+2000,Ohio,Cleveland,79,Male,White,Married / spouse present,32500
+2000,Ohio,Cleveland,47,Male,White,Married / spouse present,35000
+2000,Ohio,Cleveland,49,Female,White,Married / spouse present,20000
+2000,Ohio,Cleveland,9,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,85,Male,White,Widowed,17500
+2000,Ohio,Cleveland,40,Female,White,Divorced,23200
+2000,Ohio,Cleveland,14,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,84,Female,White,Widowed,7500
+2000,Ohio,Cleveland,53,Female,White,Never married / single,32000
+2000,Ohio,Cleveland,26,Male,Black,Married / spouse present,18200
+2000,Ohio,Cleveland,1,Male,Black,Never married / single,NA
+2000,Ohio,Cleveland,75,Male,White,Married / spouse present,17000
+2000,Ohio,Cleveland,35,Female,White,Married / spouse present,30000
+2000,Ohio,Cleveland,9,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,3,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,3,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,74,Female,White,Married / spouse present,27000
+2000,Ohio,Cleveland,18,Female,White,Never married / single,2800
+2000,Ohio,Cleveland,54,Female,Black,Divorced,11000
+2000,Ohio,Cleveland,58,Male,Black,Divorced,10000
+2000,Ohio,Cleveland,29,Male,White,Never married / single,30300
+2000,Ohio,Cleveland,51,Male,White,Separated,40000
+2000,Ohio,Cleveland,63,Female,White,Divorced,60000
+2000,Ohio,Cleveland,67,Female,White,Widowed,9200
+2000,Ohio,Cleveland,69,Female,Black,Widowed,8500
+2000,Ohio,Cleveland,40,Female,White,Married / spouse present,13130
+2000,Ohio,Cleveland,62,Male,White,Married / spouse present,45500
+2000,Ohio,Cleveland,61,Female,White,Married / spouse present,49000
+2000,Ohio,Cleveland,18,Male,White,Never married / single,29000
+2000,Ohio,Cleveland,61,Male,White,Married / spouse present,20000
+2000,Ohio,Cleveland,38,Male,White,Married / spouse present,46200
+2000,Ohio,Cleveland,40,Male,White,Married / spouse present,112000
+2000,Ohio,Cleveland,34,Female,White,Married / spouse present,3200
+2000,Ohio,Cleveland,19,Male,White,Never married / single,13000
+2000,Ohio,Cleveland,36,Male,White,Married / spouse present,53500
+2000,Ohio,Cleveland,60,Male,White,Married / spouse present,49200
+2000,Ohio,Cleveland,47,Female,White,Married / spouse present,25350
+2000,Ohio,Cleveland,26,Female,White,Never married / single,29300
+2000,Ohio,Cleveland,51,Female,White,Married / spouse present,0
+2000,Ohio,Cleveland,34,Female,White,Separated,2500
+2000,Ohio,Cleveland,3,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,45,Male,White,Married / spouse present,51910
+2000,Ohio,Cleveland,7,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,31,Female,White,Married / spouse present,33000
+2000,Ohio,Cleveland,0,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,41,Female,White,Married / spouse present,8000
+2000,Ohio,Cleveland,22,Male,White,Never married / single,3200
+2000,Ohio,Cleveland,12,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,35,Male,Other,Married / spouse absent,13800
+2000,Ohio,Cleveland,11,Female,Other,Never married / single,NA
+2000,Ohio,Cleveland,26,Male,Other,Married / spouse present,12000
+2000,Ohio,Cleveland,47,Male,Other,Married / spouse absent,12400
+2000,Ohio,Cleveland,62,Male,White,Married / spouse present,0
+2000,Ohio,Cleveland,63,Female,White,Married / spouse present,0
+2000,Ohio,Cleveland,18,Female,White,Never married / single,0
+2000,Ohio,Cleveland,17,Male,White,Never married / single,830
+2000,Ohio,Cleveland,41,Female,White,Divorced,12000
+2000,Ohio,Cleveland,15,Female,White,Never married / single,0
+2000,Ohio,Cleveland,26,Male,White,Married / spouse present,75400
+2000,Ohio,Cleveland,30,Female,White,Married / spouse present,5600
+2000,Ohio,Cleveland,51,Male,White,Married / spouse present,36100
+2000,Ohio,Cleveland,44,Female,White,Married / spouse present,30100
+2000,Ohio,Cleveland,22,Female,White,Never married / single,18000
+2000,Ohio,Cleveland,18,Female,White,Never married / single,6000
+2000,Ohio,Cleveland,21,Female,White,Never married / single,6500
+2000,Ohio,Cleveland,74,Male,White,Married / spouse present,23100
+2000,Ohio,Cleveland,27,Male,White,Divorced,60000
+2000,Ohio,Cleveland,8,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,47,Male,White,Married / spouse present,33600
+2000,Ohio,Cleveland,72,Female,White,Widowed,21000
+2000,Ohio,Cleveland,61,Male,White,Married / spouse present,143230
+2000,Ohio,Cleveland,16,Female,White,Never married / single,0
+2000,Ohio,Cleveland,13,Male,White,Never married / single,NA
+2000,Ohio,Cleveland,43,Male,White,Married / spouse present,116390
+2000,Ohio,Cleveland,39,Female,White,Married / spouse present,23000
+2000,Ohio,Cleveland,10,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,6,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,62,Male,White,Widowed,420
+2000,Ohio,Cleveland,53,Male,White,Married / spouse present,70000
+2000,Ohio,Cleveland,52,Female,White,Married / spouse present,30000
+2000,Ohio,Cleveland,50,Male,White,Divorced,16500
+2000,Ohio,Cleveland,59,Female,White,Divorced,27200
+2000,Ohio,Cleveland,40,Male,White,Married / spouse present,23700
+2000,Ohio,Cleveland,40,Female,White,Married / spouse present,19800
+2000,Ohio,Cleveland,9,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,32,Female,White,Married / spouse present,25700
+2000,Ohio,Cleveland,4,Female,White,Never married / single,NA
+2000,Ohio,Cleveland,34,Male,White,Never married / single,36000
+2000,Ohio,Cleveland,73,Female,White,Widowed,25820
+2000,Ohio,Cleveland,59,Male,White,Married / spouse present,34000
+2000,Ohio,Cleveland,60,Female,White,Married / spouse present,21000
