@@ -1,1045 +1,1044 @@
-Total play time: 3 days, 6 hours, 39 minutes, 31 seconds
-
-1;Led Zeppelin;Stairway to Heaven
-2;Derek & The Dominos;Layla
-3;Lynyrd Skynyrd;Free Bird
-4;The Who;Baba O'Riley
-5;Bruce Springsteen;Born To Run
-6;The Beatles;Hey Jude
-7;Rolling Stones;Satisfaction
-8;The Who;Won't Get Fooled Again
-9;Eagles;Hotel California
-10;Rolling Stones;Sympathy For The Devil
-11;Pink Floyd;Comfortably Numb
-12;The Doors;Light My Fire
-13;The Beatles;A Day In The Life
-14;Bruce Springsteen;Thunder Road
-15;The Beatles;Let It Be
-16;Queen;Bohemian Rhapsody
-17;Pink Floyd;Wish You Were Here
-18;John Lennon;Imagine
-19;Jimi Hendrix;All Along The Watchtower
-20;Led Zeppelin;Kashmir
-21;Bruce Springsteen;Jungleland
-22;Bob Dylan;Like A Rolling Stone
-23;The Doors;LA Woman
-24;Don McLean;American Pie
-25;Aerosmith;Sweet Emotion
-26;AC/DC;You Shook Me All Night Long
-27;Rolling Stones;Brown Sugar
-28;Jethro Tull;Aqualung
-29;Rush;The Spirit Of Radio
-30;The Who;Who Are You
-31;Pink Floyd;Another Brick In The Wall (Part 2)
-32;Elton John;Funeral For A Friend (Love Lies Bleeding)
-33;Led Zeppelin;Whole Lotta Love
-34;Bruce Springsteen;Rosalita
-35;Rolling Stones;Gimme Shelter
-36;Moody Blues;Nights In White Satin
-37;CSNY;Suite: Judy Blue Eyes
-38;Aerosmith;Dream On
-39;Led Zeppelin;Rock And Roll
-40;The Beatles;Yesterday
-41;Ozzy Osbourne;Crazy Train
-42;Jimi Hendrix;Purple Haze
-43;Boston;More Than A Feeling
-44;Eric Clapton;Layla (Unplugged)
-45;Rolling Stones;Jumping Jack Flash
-46;Led Zeppelin;Black Dog
-47;Paul McCartney;Maybe I'm Amazed
-48;Grateful Dead;Truckin'
-49;Guns 'n' Roses;Sweet Child O' Mine
-50;The Beatles;With A Little Help From My Friends
-51;The Beatles;Something
-52;Rolling Stones;Honky Tonk Woman
-53;Blue Oyster Cult;Don't Fear The Reaper
-54;Pink Floyd;Money
-55;Bruce Springsteen;Born In The U.S.A.
-56;Meatloaf;Paradise By The Dashboard Light
-57;Billy Joel;Piano Man
-58;Lynyrd Skynyrd;Sweet Home Alabama
-59;Pink Floyd;Brain Damage
-60;Rush;Tom Sawyer
-61;Led Zeppelin;Over The Hills And Far Away
-62;Jethro Tull;Locomotive Breath
-63;The Beatles;While My Guitar Gently Weeps
-64;Deep Purple;Smoke On The Water
-65;Rolling Stones;Start Me Up
-66;Kiss;I Wanna Rock And Roll All Night
-67;Aerosmith;Walk This Way
-68;Billy Joel;Scenes From An Italian Restaurant
-69;Jefferson Airplane;White Rabbit
-70;Led Zeppelin;Dazed And Confused
-71;Pink Floyd;Time
-72;Janis Joplin;Me And Bobby McGee
-73;The Doors;Roadhouse Blues
-74;The Who;Pinball Wizard
-75;Elton John;Tiny Dancer
-76;Rolling Stones;Paint It Black
-77;Led Zeppelin;Ramble On
-78;Guns 'n' Roses;Paradise City
-79;Pink Floyd;Shine On, You Crazy Diamond (Parts 1-5)
-80;The Kinks;You Really Got Me
-81;Cream;White Room
-82;Eric Clapton;Cocaine
-83;The Beatles;In My Life
-84;Rolling Stones;You Can't Always Get What You Want
-85;The Who;My Generation
-86;Led Zeppelin;The Ocean
-87;The Beatles;Come Together
-88;Eric Clapton;Wonderful Tonight
-89;Bon Jovi;Wanted: Dead Or Alive
-90;The Who;Behind Blue Eyes
-91;Bob Dylan;Tangled Up In Blue
-92;Buffalo Springfield;For What It's Worth
-93;The Doors;Riders On The Storm
-94;Rolling Stones;Angie
-95;Genesis;The Lamb Lies Down On Broadway
-96;Jethro Tull;Thick As A Brick
-97;Steppenwolf;Born To Be Wild
-98;CSNY;Teach Your Children
-99;Fleetwood Mac;Rhiannon
-100;Jimi Hendrix;Hey Joe
-101;Allman Brothers Band;Blue Sky
-102;AC/DC;Highway To Hell
-103;The Beatles;Golden Slumbers Medley
-104;George Harrison;My Sweet Lord
-105;Elton John;Someone Saved  My Life Tonight
-106;The Doors;The End
-107;Cream;Crossroads
-108;Pink Floyd;Us And Them
-109;Led Zeppelin;Hey, Hey, What Can I Do
-110;Lynyrd Skynyrd;Gimme Three Steps
-111;The Beatles;Here Comes The Sun
-112;Rolling Stones;Doo Doo Doo Doo Doo (Heartbreaker)
-113;Allman Brothers Band;Ramblin' Man
-114;Meatloaf;Bat Out Of Hell
-115;Dire Straits;Sultan Of Swing
-116;Elton John;Your Song
-117;Styx;Renegade
-118;The Doors;Peace Frog
-119;The Beatles;I Want To Hold Your Hand
-120;Jethro Tull;Cross-Eyed Mary
-121;The Who;We're Not Going To Take It
-122;Yes;I've Seen All Good People
-123;Led Zeppelin;Going To California
-124;Pink Floyd;Hey You
-125;Elton John;Goodbye Yellow Brick Road
-126;Styx;Come Sail Away
-127;Grand Funk Railroad;Closer To Home
-128;Allman Brothers Band;Sweet Melissa
-129;The Beatles;Eleanor Rigby
-130;Grateful Dead;Casey Jones
-131;Cream;Sunshine Of Your Love
-132;Van Morrison;Brown Eyed Girl
-133;Emerson Lake & Palmer;Karn Evil #9
-134;Queen;Killer Queen
-135;Fleetwood Mac;Go Your Own Way
-136;Santana;Black magic Woman
-137;Grateful Dead;Touch Of Grey
-138;The Who;The Real Me
-139;The Beatles;Strawberry Fields Forever
-140;Billy Joel;Miami 2017
-141;Bruce Springsteen;Jersey Girl
-142;Allman Brothers Band;Whipping Post
-143;Animals;House Of The Rising Sun
-144;The Doors;Break On Through
-145;Kansas;Carry On, Wayward Son
-146;Led Zeppelin;Houses Of The Holy
-147;AC/DC;Back In Black
-148;REM;Man On The Moon
-149;Harry Chapin;Cats In The Cradle
-150;Grateful Dead;Sugar Magnolia
-151;Jimi Hendrix;Voodoo Child
-152;David Bowie;Suffragette City
-153;Yes;Roundabout
-154;The Beatles;I Am The Walrus
-155;Heart;Barracuda
-156;The Who;Gettin' In Tune
-157;Eric Clapton;Tears In Heaven
-158;Rolling Stones;Monkey Man
-159;Queen;Somebody To Love
-160;The Doors;The Soft Parade
-161;The Doors;20th Century Fox
-162;Rod Stewart;Maggie May
-163;Led Zeppelin;Immigrant Song
-164;Bob Dylan;The Hurricane
-165;Free;All Right Now
-166;Tom Petty;American Girl
-167;Aerosmith;Dude (Looks Like A Lady)
-168;U2;Beautiful Day
-169;Kinks;Lola
-170;Billy Joel;New York State Of Mind
-171;Janis Joplin;Piece Of My Heart
-172;Golden Earring;Radar Love
-173;Rolling Stones;Ruby Tuesday
-174;Grateful Dead;Box Of Rain
-175;Pink Floyd;Have A Cigar
-176;Paul McCartney & Wings;Band On The Run
-177;Black Sabbath;Iron Man
-178;Pat Benatar;Heart Breaker
-179;The Beatles;Revolution
-180;Bob Segar;Turn The Page
-181;Foghat;Slow Ride
-182;Led Zeppelin;Good Times Bad Times
-183;Bon Jovi;Living On A Prayer
-184;Van Halen;Ain't Talkin' 'bout Love
-185;Rolling Stones;Can't You Hear Me Knocking
-186;Allman Brothers Band;Jessica
-187;Jackson Browne;The Pretender
-188;Bruce Springsteen;Hungry Heart
-189;Eric Clapton;Let It Rain
-190;Neil Young;Like A Hurricane
-191;Moody Blues;The Question
-192;Grateful Dead;Friend Of The Devil
-193;The Beatles;Taxman
-194;Rolling Stones;Wild Horses
-195;Iron Butterfly ;In-A-Gadda-Da-Vida
-196;Aerosmith;What It Takes
-197;Guns 'n' Roses;Welcome To The Jungle
-198;Fleetwood Mac;The Chain
-199;David Bowie;Space Oddity
-200;Boston;Rock and Roll Band
-201;U2;In The Name Of Love
-202;Billy Joel;Angry Young Man
-203;Paul McCartney & Wings;Line And Let Die
-204;Jimi Hendrix;Foxy Lady
-205;Led Zeppelin;D'yer Ma'ker
-206;Peter Frampton;Do You Feel Like We Do (Live)
-207;CCR;Bad Moon Rising
-208;The Who;5:15
-209;Van Halen;Running With The Devil
-210;The Beatles;Back In The U.S.S.R.
-211;Pearl Jam;Jeremy
-212;Pure Prairie League;Amie
-213;Queen;We Will Rock You-We Are The Champions
-214;Neil Young;Southern Man
-215;Grateful Dead;Uncle John's Band
-216;Guns 'n' Roses;November Rain
-217;Procol Harum;A Whiter Shade Of Pale
-218;The Who;Love Reign O'er Me
-219;Led Zeppelin;Babe I'm Gonna Leave You
-220;CSNY;Wooden Ships
-221;Stevie Nicks;Edge Of Seventeen
-222;Eric Clapton;Bell Bottom Blues
-223;Elvis Costello;Alison
-224;Beach Boys;Good Vibrations
-225;U2;New Year's Day
-226;The Beatles;And Your Bird Can Sing
-227;Rolling Stones;Midnight Rambler
-228;Grateful Dead;Ripple
-229;Journey;Any Way You Want It
-230;Eagles;Peaceful Easy Feeling
-231;The Who;Magic Bus
-232;Bruce Springsteen;Darkness on the Edge of Town
-233;Queen;Another One Bites The Dust
-234;Led Zeppelin;When The Levee Breaks
-235;CSNY;Woodstock
-236;Emerson, Lake & Palmer;Lucky Man
-237;U2;Where The Streets Have No Name
-238;Foreigner;Urgent
-239;The Beatles;Get Back
-240;Rolling Stones;Shattered
-241;Moody Blues;Ride My See-Saw
-242;Lynyrd Skynyrd;Simple Man
-243;CCR;Who'll Stop The Rain
-244;Van Morrison;Into The Mystic
-245;Billy Idol;White Wedding
-246;Outlaws;Green Grass And High Tides
-247;ZZ Top;Tush
-248;Doors;Touch Me
-249;Bruce Springsteen;The Rising
-250;Rolling Stones;Under My Thumb
-251;Thw Who;Eminence Front
-252;Rush;Closer To The Heart
-253;Jethro Tull;Teacher
-254;Grateful Dead;China Cat Sunflower
-255;Eagles;Take It Easy
-256;Bad Company;Shooting Star
-257;Police;Roxanne
-258;Black Sabbath;Paranoid
-259;U2;I Still Haven't Found What I'm Looking For
-260;The Band;The Weight
-261;Jackson Browne;The Loadout-Stay
-262;Neil Young;Heart Of Gold
-263;Heart;Magic Man
-264;Boston;Foreplay/Long Time
-265;The Beatles;Hello, Goodbye
-266;Allman Brothers;Midnight Rider
-267;REM;Losing My Religion
-268;Tom Petty;Free Fallin'
-269;Traffic;The Low Spark Of High Heeled Boys
-270;Aerosmith;Janie's Got A Gun
-271;Billy Joel;The Ballad Of Billy The Kid
-272;Rolling Stones;Miss You
-273;George Thorogood;Bad To The Bone
-274;Van Morrison;Moondance
-275;Led Zeppelin;All My Love
-276;Kinks;All Day And All Of The Night
-277;The Beatles;Help!
-278;Manfred Mann's Earth Band;Blinded By The Light
-279;Pearl jam;Alive
-280;Rolling Stones;Mother's Little Helper
-281;Nirvana;Smells Like Teen Spirit
-282;Eagles;Already Gone
-283;Led Zeppelin;Dancing Days
-284;David Bowie;Heroes
-285;Harry Chapin;Taxi
-286;CCR;Proud Mary
-287;The Beatles;Eight Days A Week
-288;The Beatles;Day Tripper
-289;Blind Faith;Can't Find My Way Home
-290;Rolling Stones;Memory Motel
-291;Chambers Brothers;Time Has Come Today
-292;Ozzy Osbourne;Mama I'm Coming Home
-293;Deep Purple;Hush
-294;Kansas;Dust In The Wind
-295;Billy Joel;Summer, Highland Falls
-296;Pink Floyd;Dogs
-297;Chicago;25 Or 6 To 4
-298;U2;One
-299;Rolling Stones;Let It Bleed
-300;Bob Marley;Get Up, Stand Up
-301;Led Zeppelin;Thank You
-302;Aerosmith;Pink
-303;Eagles;Heartache Tonight
-304;Chuck Berry;Johnny B. Goode
-305;Nirvana;Come As You Are
-306;Elton John;Candle In The Wind
-307;The Beatles;She Loves You
-308;Steely Dan;Deacon Blues
-309;Van Halen;Panama
-310;CCR;Born On The Bayou
-311;Bruce Springsteen;Badlands
-312;Yes;Starship Trooper
-313;Allman Brothers Band;One Way Out
-314;Styx;Blue Collar Man (Long Nights)
-315;The Doors;Love Me Two Times
-316;Paul Simon;You Can Call Me Al
-317;War;Low Rider
-318;Cream;Badge
-319;Police;Every Breath You Take
-320;Emerson Lake & Palmer;Still You Turn Me On
-321;Rolling Stones;Beast Of Burden
-322;Rick Derringer;Rock And Roll Hootchie Koo
-323;Lou Reed;Take A Walk On The Wild Side
-324;James Taylor;Fire And Rain
-325;Lynyrd Skynyrd;That Smell
-326;Mountain;Theme From An Imaginary Western
-327;Elton John;Rocket man
-328;Fleetwood Mac;Landslide
-329;Bob Segar;Rock And Roll Never Forgets
-330;Traffic;Glad
-331;The Beatles;The Long And Winding Road
-332;Led Zeppelin;Ten Years Gone
-333;Steely Dan;Reeling In The Years
-334;Joe Walsh;Life's Been Good
-335;John Cougar Mellencamp;Pink Houses
-336;Rush;Limelight
-337;Stevie Rav Vaughan;Pride & Joy
-338;Peter Gabriel;In Your Eyes
-339;Bad Company;Feel Like Making Love
-340;Van Halen;Girl You Reall Got Me Now
-341;Mott The Hoople;All The Young Dudes
-342;Eric Clapton;After Midnight
-343;Kiss;Detroit Rock City
-344;George Thorogood;One Bourbon, One Scotch, One Beer
-345;Rolling Stones;Tumbling Dice
-346;Stealer's Wheel;Stuck In The Middle With You
-347;Steve Miller Band;Jet Airliner
-348;ELO;Fire On High
-349;Neil Young;Hey Hey My My
-350;Cheap Trick;I want You To Want Me
-351;Aerosmith;Train Kept A Rollin'
-352;Pink Floyd;Mother
-353;Tom Petty;Even The Loser
-354;Queen;Fat Bottomed Girls
-355;Foreigner;Hot Blooded
-356;Billy Joel;Captain Jack
-357;Blue Oyster Cult;Burnin' For You
-358;CSNY;Ohio
-359;U2;With Or Without You
-360;Thw Who;You Better You Bet
-361;David Bowie;Rebel Rebel
-362;Black Crowes;Hard To Handle
-363;Talking Heads;Burning Down The House
-364;The Kinks;Celluloid Heroes
-365;Fleetwood Mac;Dreams
-366;Rolling Stones;Street Fighting Man
-367;CSNY;Our House
-368;Neil Young & Crazyhorse;Powderfinger
-369;The Beatles;Penny Lane
-370;Ten Years After;I'd Love To Change The World
-371;Billy Joel;The Stranger
-372;Jethro Tull;Hymn 43
-373;AC/DC;Hell's Bells
-374;Little Feat;Dixie Chicken
-375;Bob Marley;Jammin'
-376;Rolling Stones;Bitch
-377;Led Zeppelin;Since I've Been Loving You
-378;Allman Brothers Band;Statesboro Blues
-379;Elton John;Levon
-380;CCR;Lodi
-381;John Cougar Mellencamp;Hurts So Good
-382;Jimi Hendrix;Little Wing
-383;Foghat;Fool For The City
-384;The Beatles;Helter Skelter
-385;Rolling Stones;All Down The Line
-386;Rush;Freewill
-387;Chicago;Saturday In The Park
-388;Bad Company;Rock And Roll Fantasy
-389;Boston;Hitch A Ride
-390;Eagles;One Of These Nights
-391;The Beatles;Hard Day's Night
-392;Queen;Crazy Little Thing Called Love
-393;Lynyrd Skynyrd;Tuesday's Gone
-394;Billy Joel;Movin' Out
-395;The Who;Summertime Blues
-396;Van Halen;Dance The Night Away
-397;U2;I Will Follow
-398;Def Leppard;Pour Some Sugar On Me
-399;Pretenders;Brass In Pocket
-400;Yes;And You And I
-401;Rolling Stones;Little T & A
-402;Neil Young;The Needle And The Damage Done
-403;The Ramones;I Wanna Be Sedated
-404;Guns 'N' Roses;Civil War
-405;Queen (W David Bowie);Under Pressure
-406;Eric Clapton;Before You Accuse Me
-407;Talking Heads;Take Me To The River
-408;Santana;Evil Ways
-409;Yes;Owner Of A Lonely Heart
-410;Steely Dan;Aja
-411;Jethro Tull;Living In The Past
-412;Grateful Dead;Shakedown Street
-413;Police;Message In A Bottle
-414;Heart;Crazy On You
-415;Jimmy Buffett;Margaritaville
-416;Jimi Hendrix;Castles Made Of Sand
-417;Rolling Stones;As Tears Go By
-418;Rush;2112
-419;The Beatles;Because
-420;CCR;Down On The Corner
-421;Bruce Springsteen;Tunnel Of Love
-422;Bob Dylan;Positively 4th Street
-423;Black Sabbath;War Pigs
-424;Foreigner;Feels Like The First Time
-425;David Bowie;Young Americans
-426;John Cougar Mellencamp;I Need A Lover
-427;The Beatles;I Saw Her Standing There
-428;Billy Joel;We Didn't Start The Fire
-429;Police;Walking On The Moon
-430;Rolling Stones;Dead Flowers
-431;Grand Funk Railroad;We're An American Band
-432;Led Zeppelin;Communications Breakdown
-433;Thin Lizzy;The Boys Are Back In Town
-434;Elton John;Crocodile Rock
-435;Alice Cooper;School's Out
-436;Jefferson Airplane;Volunteers
-437;Jackson Browne;Running On Empty
-438;Lou Reed;Sweet Jane
-439;Neil Young;Rockin' In The Free World
-440;The Who;Substitute
-441;Billy Idol;Rebel Yell
-442;The Beatles;Nowhere Man
-443;Santana;Oye Como Va
-444;Billy Joel;Only The Good Die Young
-445;Rush;Subdivisions
-446;Kingsmen;Louie, Louie
-447;U2;Mysterious Ways
-448;Allman Brothers Band;In Memory of Elizabeth Reed
-449;Paul Simon;Me And Julio Down By The Schoolyard
-450;Don Henley;New York Minute
-451;Steppenwolf;Magic Carpet Ride
-452;Van Halen;Hot For Teacher
-453;The Who;Long Live Rock
-454;Neil Young;After The Gold Rush
-455;Yes;Long Distance Runaround
-456;Eric Clapton;The Core
-457;Clash;London Calling
-458;Aerosmith;Back In The Saddle
-459;Vanilla Fudge;You Keep Me Hanging On
-460;Eagles;Life In The Fast Lane
-461;Tom Petty;The Last DJ
-462;REO Speedwagon;Take It On The Run
-463;Led Zeppelin;Fool In The Rain
-464;Rolling Stones;Saint Of Me
-465;Lynyrd Skynyrd;What's Your Name
-466;Mountain;Nantucket Sleigh Ride
-467;ZZ Top;La Grange
-468;Elvis Presley;Jailhouse Rock
-469;Edgar Winter;Frankenstein
-470;Fleetwood Mac;Silver Springs
-471;Jimi Hendrix;Fire
-472;Todd Rundgren;Hello It's Me
-473;Charlie Daniels Band;Devil Went Down To Georgia
-474;Steely Dan;Dr. Wu
-475;CSNY;Carry On
-476;Led Zeppelin;Custard Pie
-477;Pearl Jam;Black
-478;Marshall Tucker Band;Can't You See
-479;Cream;Strange Brew
-480;Doobie Brothers;Black Water
-481;Ace Frehley;New York Groove
-482;Bad Company;Bad Company
-483;Robin Trower;Bridge Of Sighs
-484;Guess Who;American Woman
-485;Moody Blues;Tuesday Afternoon
-486;The Doors;Alabama Song
-487;Bob Segar;Against The Wind
-488;Peter Gabriel;Solsbury Hill
-489;Rush;Distant Early Warning
-490;The Beatles;Magical Mystery Tour
-491;Joe Jackson;Is She Really Going Out With Him
-492;Bob Dylan;Knockin' On Heaven's Door
-493;Rod Stewart;Every Picture Tells A Story
-494;Warren Zevon;Werewolves Of London
-495;Van Halen;Jump
-496;Chicago;Feelin' Stronger Everyday
-497;George Harrison;What Is Life?
-498;Aretha Franklin;Respect
-499;J. Geils Band;Musta Got Lost
-500;Hollies;Long Cool Woman In A Black Dress
-501;Bruce Springsteen;Backstreets
-502;Steve Miller Band;The Joker
-503;Stevie Ray Vaughan;The Sky Is Crying
-504;Paul McCartney;Jet
-505;The Who;The Kids Are Alright
-506;Led Zeppelin;The Battle Of Evermore
-507;John Cougar Mellencamp;Jack And Diane
-508;Pat Benatar;Shadows Of The Night
-509;Van Halen;Right Now
-510;Ringo Starr;It Don't Come Easy
-511;Joan Jett And The Blackhearts;I Love Rock And Roll
-512;Rush;Red Barchetta
-513;Rolling Stones;Get Off Of My Cloud
-514;Talking Heads;Psycho Killer
-515;Jeff Beck With Rod Stewart;People Get Ready
-516;The Beatles;Ob La Di Ob La Da
-517;Neil Young;Old Man
-518;Elton John;Daniel
-519;Journey;Lovin', Touchin', Squeezin'
-520;America;A Horse With No Name
-521;Blondie;One Way Or Another
-522;Metallica;Enter Sandman
-523;Tom Petty;Don't Do Me Like That
-524;Crosby, Stills & Nash;Wasted On The Way
-525;Steely Dan;Dirty Work
-526;Def Leppard;Photograph
-527;CCR;Fortunate Son
-528;Traffic;Dear Mr. Fantasy
-529;Jimi Hendrix;The Wind Cries Mary
-530;Red Rider;Lunatic Fringe
-531;Joe Walsh;Rocky Mountain Way
-532;Billy Joel;Big Shot
-533;Bob Dylan;Just Like A Woman
-534;Pink Floyd;Welcome To The Machine
-535;Allman Brothers Band;Ain't Wasting Time No More
-536;Al Stewart;Year Of The Cat
-537;The Beatles;Across The Universe
-538;REM;It's The End Of The World As We Know It
-539;Squeeze;Pulling Mussels From A Shell
-540;Bruce Springsteen;Glory Days
-541;Ted Nugent;Stranglehold
-542;Supertramp;Give A Little Bit
-543;Billy Joel;Stiletto
-544;ELO;Do Ya
-545;Rolling Stones;She's A Rainbow
-546;Pearl Jam;Better Man
-547;Big Country;In A Big Country
-548;Bob Segar;Night Moves
-549;Eddie Money;Shakin'
-550;Simon & Garfunkel;Mrs. Robinson
-551;Badfinger;Baby Blue
-552;Foreigner;Jukebox Hero
-553;Peter Gabriel;Sledgehammer
-554;Bruce Springsteen;4th Of July Asbury Park (Sandy)
-555;Allman Brothers Band;Revival
-556;Bob Dylan;Rainy Day Women
-557;The Doors;Hello I Love You
-558;Tom Petty;You Don't Know How It Feels
-559;Police;Every Little Thing She Does Is Magic
-560;Santana;Why Don't You And I
-561;Beatles;All My Loving
-562;Dave Mason;We Just Disagree
-563;Pretenders;Middle Of The Road
-564;Van Halen;Unchained
-565;Moody Blues;The Voice
-566;Supertramp;The Logical Song
-567;Eagles;The Last Resort
-568;Meat Loaf;You Took The Words Right Out Of My Mouth
-569;Kansas;Point Of Know Return
-570;Police;Wrapped Around Your Finger
-571;U2;Sunday Bloody Sunday
-572;Neil Young;Sugar Mountain
-573;Lynyrd Skynyrd;Saturday Night Special
-574;Jethro Tull;Skating Away
-575;Rod Stewart;Hot Legs
-576;Rainbow;Street Of Dreams
-577;Phil Collins;In The Air Tonight
-578;Joe Cocker;Feelin' Alright
-579;Grateful Dead;Bertha
-580;Cream;Tales Of Brave Ulysses
-581;Bad Company;Can't Get Enough Of Your Love
-582;Bob Seger;Main Street
-583;Peter Frampton;Show Me The Way
-584;Eric Clapton;Further On Up The Road
-585;Boston;Peace Of Mind
-586;Allman Brothers Band;Dreams
-587;Doobie Brothers;China Grove
-588;Jimi Hendrix;Crosstown Traffic
-589;Genesis;No Reply At All
-590;Beatles;Blackbird
-591;Eric Clapton;Lay Down Sally
-592;Twisted Sister;We're Not Gonna Take It
-593;Don Henley;Sunset Grill
-594;Bruce Springsteen;Dancing In The Dark
-595;CCR;Have You Ever Seen The Rain
-596;KISS;Shout It Out Loud
-597;Led Zeppelin;Trampled Under Foot
-598;Elton John;All The Young Girls Love Alice
-599;Supertramp;Take The Long Way Home
-600;The Clash;Should I Stay Or Should I Go
-601;Frank Zappa;Joe's Garage
-602;Mountain;Mississippi Queen
-603;Alice Cooper;I'm Eighteen
-604;Billy Joel;Goodnight Saigon
-605;Beatles;Ticket To Ride
-606;Neil Young;Cinnamon Girl
-607;Rolling Stones;Time Is On My Side
-608;Gerry Rafferty;Baker Street
-609;Black Crowes;Jealous Again
-610;Steve Miller Band;Take The Money And Run
-611;Beatles;Octopus's Garden
-612;The Cars;Let The Good Times Roll
-613;Bruce Springsteen;Promised Land
-614;Santana;Smooth
-615;Van Halen;Why Can't This Be Love?
-616;Bad Company;Movin' On
-617;Tom Petty;Mary Jane's Last Dance
-618;Pat Benatar;Love Is A Battlefield
-619;Pete Townshend;Let My Love Open The Door
-620;Paul Simon;Kodachrome
-621;Commander Cody;Hot Rod Lincoln
-622;Stevie Ray Vaughan;If The House Is A-Rockin'
-623;Led Zeppelin;Heartbreaker/Livin' Lovin' Maid
-624;Traffic;Freedom Rider
-625;Police;Don't Stand So Close To Me
-626;Rush;Fly By Night
-627;David Bowie;Changes
-628;Gary Wright;Dream Weaver
-629;AC/DC;Dirty Deeds Done Dirt Cheap
-630;The Who;Dr. Jimmy
-631;Crosby, Stills & Nash;Southern Cross
-632;The Kinks;Destroyer
-633;Fleetwood Mac;Gold Dust Woman
-634;Ted Nugent;Cat Scratch Fever
-635;Doobie Brothers;Listen To The Music
-636;Meat Loaf;Two Out Of Three Ain't Bad
-637;The Doors;People Are Strange
-638;Beatles;Can't Buy Me Love
-639;Billy Idol;Mony Mony
-640;Cheap Trick;Dream Police
-641;Ramones;Blitzkrieg Bop
-642;The Band;Up On Cripple Creek
-643;Billy Joel;The Entertainer
-644;Patti Smith;Because The Night
-645;Metallica;Turn The Page
-646;Donnie Iris;Ah! Leah
-647;Pink Floyd;Pigs On The Wing
-648;Moody Blues;The Story In Your Eyes
-649;ZZ Top;Legs
-650;Supertramp;Goodbye Stranger
-651;Led Zeppelin;The Song Remains The Same
-652;Deep Purple;Perfect Strangers
-653;Talking Heads;And She Was
-654;Elton John;Madman Across The Water
-655;Billy Joel;A Matter Of Trust
-656;Yes;Close To The Edge
-657;Police;Synchronicity II
-658;CCR;Up Around The Bend
-659;Neil Young;Let's Roll
-660;Pretenders;Back On The Chain Gang
-661;Eagles;Take It To The Limit
-662;CCR;Susie Q
-663;Jimi Hendrix;Angel
-664;Deep Purple;Woman From Tokyo
-665;Def Leppard;Rock Of Ages
-666;David Bowie;Golden Years
-667;Bob Marley;One Love
-668;Joe Cocker;With A Little Help From My Friends
-669;Van Morrison;Tupelo Honey
-670;Police;Driven To Tears
-671;Bruce Springsteen;I'm On Fire
-672;George Thorogood;Who Do You Love
-673;Bryan Adams;Cuts Like A Knife
-674;Beatles;We Can Work It Out
-675;John Lennon;Watching The Wheels
-676;James Gang;Walk Away
-677;Red Hot Chili Peppers;Under The Bridge
-678;The Who;The Punk Meets The Godfather
-679;REM;The One I Love
-680;Elton John;The Bitch Is Back
-681;Bruce Springsteen;Tenth Avenue Freeze-Out
-682;Grateful Dead;St. Stephen
-683;Police;Spirits In The Material World
-684;Eric Burdon/War;Spill The Wine
-685;Pink Floyd;Speak To Me-Breathe
-686;Robert Cray;Smoking Gun
-687;Steely Dan;Peg
-688;Warren Zevon;Poor Poor Pitiful Me
-689;John Cougar Mellencamp;Small Town
-690;Fleetwood Mac;Say You Love Me
-691;Tom Petty;Running Down A Dream
-692;Guns 'N' Roses;Patience
-693;Stone Temple Pilots;Plush
-694;John Lennon;Mind Games
-695;The Doors;Gloria
-696;Nazareth;Hair Of The Dog
-697;Talking Heads;Once In A Lifetime
-698;KISS;Deuce
-699;Tom Petty;Don't Come Around Here No More
-700;Rolling Stones;Nineteenth Nervous Breakdown
-701;Van Halen;Beautiful Girls
-702;Dire Straits;Money For Nothing
-703;Eagles;Desperado
-704;David Bowie;Modern Love
-705;Bruce Springsteen;She's The One
-706;Genesis;Misunderstanding
-707;Chicago;Questions # 67 & 68
-708;Brewer And Shipley;One Toke Over The Line
-709;Led Zeppelin;Misty Mountain Hop
-710;Aerosmith;Mama Kin
-711;The Beatles;Lucy In The Sky With Diamonds
-712;Rolling Stones;It's All Over Now
-713;Stephen Stills;Love The One You're With
-714;The Doors;Love Her Madly
-715;Journey;Separate Ways (Worlds Apart)
-716;Doobie Brothers;Long Train Running
-717;Billy Joel;It's Still Rock And Roll To Me
-718;Cream;SWLABR
-719;Grateful Dead;Scarlet Begonias
-720;Dire Straits;Romeo And Juliet
-721;Greg Allman;I'm No Angel
-722;Janis Joplin;Down On Me
-723;Bob Segar;Hollywood Nights
-724;Lou Reed;Rock And Roll
-725;Toto;Hold The Line
-726;U2;Bad
-727;Lenny Kravitz;Are You Gonna Go My Way?
-728;Pat Benatar;Hit Me With Your Best Shot
-729;The Beatles;I Want You (She's So Heavy)
-730;Rascals;Good Lovin'
-731;Animals;We Gotta Get Out Of This Place
-732;Bob Dylan;Subterranean Homesick Blues
-733;Procol Harum;Conquistador
-734;Derek & The Dominoes;Why Does Love Got To Be So Sad
-735;Bob Segar;We've Got Tonight
-736;The Who;Going Mobile
-737;Led Zeppelin;Wanton Song
-738;Golden Earring;Twilight Zone
-739;Spencer Davis Group;Gimme Some Lovin'
-740;Rod Stewart;Tonight's The Night
-741;Small Faces;Stay With Me
-742;Peter Gabriel;Shock The Monkey
-743;Eagles;Tequila Sunrise
-744;John Cougar Mellencamp;Rain On The Scarecrow
-745;Steve Miller Band;Fly Like An eagle
-746;J Geils Band;Love Stinks
-747;Dobie Gray;Drift Away
-748;Eddie Money;I Think I'm In Love
-749;Simple Minds;Don't You (Forget About Me)
-750;Simon & Garfunkel;I Am A Rock
-751;Jackson Browne;Doctor My Eyes
-752;Joni Mitchell;Help Me
-753;Foreigner;Cold As Ice
-754;Molly Hatchet;Flirtin' With Disaster
-755;Motley Crue;Girls! Girls! Girls!
-756;Melissa Etheridge;Come To My Window
-757;J Geils Band;Centerfold
-758;Supertramp;Breakfast In America
-759;Jeff Beck;Freeway Jam
-760;Elton John;Bennie And The Jets
-761;Bruce Springsteen;Candy's Room
-762;The Beatles;I'm Looking Through You
-763;ELO;Turn To Stone
-764;King Crimson;The Court Of The Crimson King
-765;Robert Palmer;Bad Case Of Loving You
-766;Don Henley;The Boys Of Summer
-767;Robert Plant;Tall Cool One
-768;ELO;Don't Bring Me Down
-769;Bad Company;Silver Blue And Gold
-770;Queensryche;Silent Lucidity
-771;Boston;Don't Look Back
-772;Ramones;Rockaway Beach
-773;Clash;Rock The Casbah
-774;The Who;Squeeze Box
-775;Pink Floyd;On The Turning Away
-776;Rolling Stones;It's Only Rock And Roll
-777;Moody Blues;I'm Just A Singer (In A Rock And Roll Band)
-778;Led Zeppelin;How Many More Times
-779;Guess Who;No Time
-780;Steely Dan;Do It Again
-781;Stevie Nicks & Tom Petty;Stop Draggin' My Heart Around
-782;The Beatles;Getting Better
-783;Tom Petty;Refugee
-784;Simon & Garfunkel;Cecilia
-785;Van Halen;Dancing In The Streets
-786;Scorpions;No One Like You
-787;Whitesnake;Here I Go Again
-788;Steely Dan;Hey Nineteen
-789;Monroes;What Do All The People Know?
-790;Pat Benatar;Hell Is For Children
-791;Squeeze;Tempted
-792;Sweet;Fox On The Run
-793;Tesla;Signs
-794;Blues Traveler;Runaround
-795;Van Morrison;Have I Told You Lately
-796;Billy Squier;Lonely Is The Night
-797;Steely Dan;FM
-798;Neil Young;Harvest
-799;Beatles;Dear Prudence
-800;The Who;Join Together
-801;Eric Johnson;Cliffs Of Dover
-802;Van Halen;Jamie's Cryin'
-803;Jethro Tull;Bouree
-804;ZZ Top;Gimme All Your Lovin'
-805;Rush;A Passage To Bangkok
-806;Joe Jackson;Steppin' Out
-807;Jimi Hendrix;Are You Experienced?
-808;Elton John;Philadelphia Freedom
-809;Bruce Springsteen;The River
-810;Rolling Stones;Let's Spend The Night Together
-811;Traffic;Empty Pages
-812;Stevie Ray Vaughan;Couldn't Stand The Weather
-813;John Fogerty;Centerfield
-814;Tom Petty;The Waiting
-815;Aerosmith;Toys In The Attic
-816;Billy Joel;You May Be Right
-817;Stone Temple Pilots;Interstate Love Songs
-818;Steve Miller Band;Jungle Love
-819;Sugarloaf;Green-Eyed Lady
-820;Sting;Fields Of Gold
-821;Steppenwolf;The Pusher
-822;BTO;Takin' Care Of Business
-823;Collective Soul;Shine
-824;Lee Michaels;Do You Know What I Mean?
-825;John Lennon;Working Class Hero
-826;Neil Young;My My Hey Hey
-827;The Beatles;Love Me Do
-828;Steely Dan;Josie
-829;Doors;Five To One
-830;Billy Idol;Dancing With Myself
-831;Santana;Soul Sacrifice
-832;Bruce Springsteen;Cadillac Ranch
-833;Boston;Smokin'
-834;Led Zeppelin;In My Time Of Dying
-835;Bon Jovi;Everyday
-836;Todd Rundgren;I Saw The Light
-837;Pearl Jam;Daughter
-838;Simon & Garfunkel;Bridge Over Troubled Waters
-839;Stories;Brother Louie
-840;Kenny Wayne Shepard;Blue On Black
-841;The Who;Bargain
-842;Judas Priest;You've Got Another Thing Coming
-843;Rod Stewart;You Wear It Well
-844;Led Zeppelin;What Is And What Should Never Be
-845;Romantics;What I Like About You
-846;Lynyrd Skynyrd;Ballad Of Curtis Lowe
-847;Cheap Trick;Surrender
-848;Norman Greenbaum;Spirit In The Sky
-849;Beatles;All You Need Is Love
-850;Elvis Costello;Pump It Up
-851;Alice Cooper;No More Mr. Nice Guy
-852;INXS;Need You Tonight
-853;Crosby Stills & Nash;Long Time Gone
-854;Wilson Pickett;Mustang Sally
-855;Journey;Lights
-856;George Thorogood;Move It On Over
-857;John Lennon;Instant Karma
-858;ZZ Top;Cheap Sunglasses
-859;Phil Collins;I Don't Care Anymore
-860;CCR;Travelin' Band
-861;Youngbloods;Get Together
-862;Argent;Hold Your Head Up
-863;Jefferson Airplane;Somebody To Love
-864;Jimmy Buffett;Fins
-865;Neil Young;Harvest Moon
-866;Led Zeppelin;Rain Song
-867;Elton John;Don't Let The Sun Go Down On Me
-868;John Cougar Mellencamp;Crumblin' Down
-869;Edgar Winter Group;Free Ride
-870;Nirvana;All Apologies
-871;Van Halen;Everybody Wants Some
-872;Lenny Kravitz;Fly Away
-873;Rolling Stones;Ain't Too Proud To Beg
-874;Nazareth;Love Hurts
-875;Jimi Hendrix;Stone Free
-876;Paul Simon;50 Ways To Leave Your Lover
-877;Steve Winwood;While You See A Chance
-878;Boz Scaggs;Lido Shuffle
-879;ZZ Top;Sharp Dressed Man
-880;T. Rex;Bang A Gong
-881;Clash;Train In Vain
-882;Steely Dan;Rikki Don't Lose That Number
-883;.38 Special;Caught Up In You
-884;Queen;You're My Best Friend
-885;Split Enz;I Got You
-886;Jethro Tull;Bungle In The Jungle
-887;Journey;Wheel In The Sky
-888;Jackson Browne;Boulevard
-889;Bruce Springsteen;The Promised Land
-890;Rod Stewart;Reason To Believe
-891;Beatles;Fool On The Hill
-892;Beatles;Lady Madonna
-893;Pink Floyd;Echoes
-894;Bon Jovi;You Give Love A Bad Name
-895;Stevie Ray Vaughan;Crossfire
-896;John Lennon;Whatever Gets You Through The Night
-897;Tom Petty;I Won't Back Down
-898;Todd Rundgren;Bang The Drum All Day
-899;Paul McCartney;Venus & Mars/Rock Show
-900;Genesis;Abacab
-901;Van Halen;(Oh) Pretty Woman
-902;U2;Two Hearts Beat As One
-903;Rolling Stones;She's So Cold
-904;Grand Funk Railroad;Some Kind Of Wonderful
-905;Five Man Electrical Band;Signs
-906;Pete Townshend;Rough Boys
-907;Santana;No One To Depend On
-908;Modern English;I Melt With You
-909;Peter Frampton;Baby I Love Your Way
-910;Elton John;Mona Lisas And Mad Hatters
-911;Steve Miller;Rockin' Me
-912;James Gang;Funk #49
-913;Bruce Springsteen;My Hometown
-914;Eric Clapton;Forever Man
-915;Stevie Ray Vaughan;Look At Little Sister
-916;Fleetwood Mac;World Turning
-917;Talking Heads;Life During Wartime
-918;Georgia Satellites;Keep Your Hands To Yourself
-919;Foghat;I Just Want To Make Love To You
-920;Rolling Stones;When The Whip Comes Down
-921;James Brown;I Got You (I Feel Good)
-922;The Beatles;Paperback Writer
-923;Def Leppard;Foolin'
-924;ELO;Evil Woman
-925;Dire Straits;Walk Of Life
-926;Foreigner;Double Vision
-927;Eagles;The Long Run
-928;Boston;Something About You
-929;The Doors;The Wasp (Texas Radio And The Big Beat)
-930;America;Sister Golden Hair
-931;Motley Crue;Smokin' In The Boy's Room
-932;Yardbirds;For Your Love
-933;Stray Cats;Rock This Town
-934;Warren Zevon;Excitable Boy
-935;Jimmy Buffett;Cheeseburger In Paradise
-936;Black Crowes;She Talks To Angels
-937;Van Morrison;Domino
-938;Eddie Money;Baby Hold On
-939;Van Halen;And The Cradle Will Rock
-940;Elton John;Saturday Night's Alright For Fighting
-941;Bruce Springsteen;Spirits In The Night
-942;Humble Pie;30 Days In The Hole
-943;Pink Floyd;Run Like Hell
-944;Zebra;Tell Me What You Want
-945;David Essex;Rock On
-946;Grateful Dead;Playing In The Band
-947;Bruce Springsteen;Growin' Up
-948;Guns 'n' Roses;Knockin' On Heaven's Door
-949;The Doors;Soul Kitchen
-950;Van Halen;Where Have All the Good Times Gone
-951;John Lennon;Nobody Told Me
-952;Dire Straits;Skateaway
-953;Aerosmith;Love In An Elevator
-954;Allman Brothers band;No One To Run With
-955;Cars;Just What I needed
-956;Bob Seger;Old-Time Rock And Roll
-957;Van Halen;Little Guitars
-958;Paul Simon;Late In The Evening
-959;ZZ Top;I Thank You
-960;Beatles;Glass Onion
-961;Tom Petty;You Got Lucky
-962;Byrds;Eight Miles High
-963;AC/DC;T.N.T.
-964;Pretenders;Don't Get Me Wrong
-965;Doobie Brothers;Rockin' Down The Highway
-966;Cars;My Best Friend's Girl
-967;Rare Earth;I Just Want To Celebrate
-968;Eagles;Lyin' Eyes
-969;.38 Special;Hold On Loosely
-970;David Bowie;Let's Dance
-971;Knack;My Sharona
-972;Fleetwood Mac;You Make Lovin' Fun
-973;Elvis Presley;Hound Dog
-974;BTO;You Ain't Seen Nothing Yet
-975;Police;Can't Stand Losing You
-976;Bruce Hornsby;The Way It Is
-977;Lynyrd Skynyrd;Call Me The Breeze
-978;Steve Miller Band;Swingtown
-979;Beach Boys;California Girls
-980;Police;De Do Do Do De Da Da Da
-981;Elton John;Burn Down The Mission
-982;John Cougar Mellencamp;Authority Song
-983;Sting;We'll Be Together
-984;The Beatles;Birthday
-985;Squeeze;Another Nail For My Heart
-986;The Who;Slip Kid
-987;Tom Petty;Breakdown
-988;Aerosmith;Big Ten Inch Record
-989;Billy Joel;Allentown
-990;Bryan Adams;Summer Of 69
-991;George Harrison;All Those Years Ago
-992;James Taylor;You've Got A Friend
-993;David Bowie;Fame
-994;Blue Oyster Cult;Godzilla
-995;Aerosmith;Rag Doll
-996;George Thorogood;I Drink Alone
-997;The Who;I Can See For Miles
-998;Van Morrison;And It Stoned Me
-999;Jimi Hendrix;Star Spangled Banner
-1000;Kinks;Low Budget
-1001;Emerson Lake & Palmer;From The Beginning
-1002;Cars;Candy-O
-1003;Beatles;Ballad Of John And Yoko
-1004;Badfinger;Come And Get It
-1005;Eddie Money;Two Tickets To Paradise
-1006;Bob Seger;Katmandu
-1007;Aerosmith;Same Old Song And Dance
-1008;Animals;Don't Bring Me Down
-1009;Robert Plant;In The Mood
-1010;Steely Dan;My Old School
-1011;Chicago;Beginnings
-1012;Gary Glitter;Pock And Roll Part 2
-1013;Elvis Costello;Accidents Will Happen
-1014;Bon Jovi;Runaway
-1015;David Bowie;TVC 15
-1016;Genesis;Turn It On Again
-1017;Focus;Hocus Pocus
-1018;Beatles;Rocky Raccoon
-1019;Beatles;I've Just Seen A Face
-1020;Eric Clapton;I Shot The Sheriff
-1021;Joe Walsh;All Night Long
-1022;Led Zeppelin;Your Time Is Gonna Come
-1023;Steve Winwood;Higher Love
-1024;Southside Johnny;Havin' A Party
-1025;Zombies;Time Of The Season
-1026;Rainbow;Stone Cold
-1027;Dave Edmunds;I Hear You Knockin'
-1028;Cream;I Feel Free
-1029;Deep Purple;Highway Star
-1030;Beatles;Good Day Sunshine
-1031;Don Henley;Dirty Laundry
-1032;The Who;Boris The Spider
-1033;The Band;The Night They Drove Old Dixie Down
-1034;John Cougar Mellencamp;R.O.C.K. In The U.S.A.
-1035;Sweet;Ballroom Blitz
-1036;Firm;Radioactive
-1037;Sammy Hagar;I Can't Drive 55
-1038;Dave Mason;Only You Know And I Know
-1039;Bruce Springsteen;Prove It All Night
-1040;Bob Dylan;Maggie's Farm
-1041;Eagles;In The City
-1042;Genesis;Mama
-1043;Beatles;Rock And Roll Music
+Group;Song
+Led Zeppelin;Stairway to Heaven
+Derek & The Dominos;Layla
+Lynyrd Skynyrd;Free Bird
+The Who;Baba O'Riley
+Bruce Springsteen;Born To Run
+The Beatles;Hey Jude
+Rolling Stones;Satisfaction
+The Who;Won't Get Fooled Again
+Eagles;Hotel California
+Rolling Stones;Sympathy For The Devil
+Pink Floyd;Comfortably Numb
+The Doors;Light My Fire
+The Beatles;A Day In The Life
+Bruce Springsteen;Thunder Road
+The Beatles;Let It Be
+Queen;Bohemian Rhapsody
+Pink Floyd;Wish You Were Here
+John Lennon;Imagine
+Jimi Hendrix;All Along The Watchtower
+Led Zeppelin;Kashmir
+Bruce Springsteen;Jungleland
+Bob Dylan;Like A Rolling Stone
+The Doors;LA Woman
+Don McLean;American Pie
+Aerosmith;Sweet Emotion
+AC/DC;You Shook Me All Night Long
+Rolling Stones;Brown Sugar
+Jethro Tull;Aqualung
+Rush;The Spirit Of Radio
+The Who;Who Are You
+Pink Floyd;Another Brick In The Wall (Part 2)
+Elton John;Funeral For A Friend (Love Lies Bleeding)
+Led Zeppelin;Whole Lotta Love
+Bruce Springsteen;Rosalita
+Rolling Stones;Gimme Shelter
+Moody Blues;Nights In White Satin
+CSNY;Suite: Judy Blue Eyes
+Aerosmith;Dream On
+Led Zeppelin;Rock And Roll
+The Beatles;Yesterday
+Ozzy Osbourne;Crazy Train
+Jimi Hendrix;Purple Haze
+Boston;More Than A Feeling
+Eric Clapton;Layla (Unplugged)
+Rolling Stones;Jumping Jack Flash
+Led Zeppelin;Black Dog
+Paul McCartney;Maybe I'm Amazed
+Grateful Dead;Truckin'
+Guns 'n' Roses;Sweet Child O' Mine
+The Beatles;With A Little Help From My Friends
+The Beatles;Something
+Rolling Stones;Honky Tonk Woman
+Blue Oyster Cult;Don't Fear The Reaper
+Pink Floyd;Money
+Bruce Springsteen;Born In The U.S.A.
+Meatloaf;Paradise By The Dashboard Light
+Billy Joel;Piano Man
+Lynyrd Skynyrd;Sweet Home Alabama
+Pink Floyd;Brain Damage
+Rush;Tom Sawyer
+Led Zeppelin;Over The Hills And Far Away
+Jethro Tull;Locomotive Breath
+The Beatles;While My Guitar Gently Weeps
+Deep Purple;Smoke On The Water
+Rolling Stones;Start Me Up
+Kiss;I Wanna Rock And Roll All Night
+Aerosmith;Walk This Way
+Billy Joel;Scenes From An Italian Restaurant
+Jefferson Airplane;White Rabbit
+Led Zeppelin;Dazed And Confused
+Pink Floyd;Time
+Janis Joplin;Me And Bobby McGee
+The Doors;Roadhouse Blues
+The Who;Pinball Wizard
+Elton John;Tiny Dancer
+Rolling Stones;Paint It Black
+Led Zeppelin;Ramble On
+Guns 'n' Roses;Paradise City
+Pink Floyd;Shine On, You Crazy Diamond (Parts 1-5)
+The Kinks;You Really Got Me
+Cream;White Room
+Eric Clapton;Cocaine
+The Beatles;In My Life
+Rolling Stones;You Can't Always Get What You Want
+The Who;My Generation
+Led Zeppelin;The Ocean
+The Beatles;Come Together
+Eric Clapton;Wonderful Tonight
+Bon Jovi;Wanted: Dead Or Alive
+The Who;Behind Blue Eyes
+Bob Dylan;Tangled Up In Blue
+Buffalo Springfield;For What It's Worth
+The Doors;Riders On The Storm
+Rolling Stones;Angie
+Genesis;The Lamb Lies Down On Broadway
+Jethro Tull;Thick As A Brick
+Steppenwolf;Born To Be Wild
+CSNY;Teach Your Children
+Fleetwood Mac;Rhiannon
+Jimi Hendrix;Hey Joe
+Allman Brothers Band;Blue Sky
+AC/DC;Highway To Hell
+The Beatles;Golden Slumbers Medley
+George Harrison;My Sweet Lord
+Elton John;Someone Saved  My Life Tonight
+The Doors;The End
+Cream;Crossroads
+Pink Floyd;Us And Them
+Led Zeppelin;Hey, Hey, What Can I Do
+Lynyrd Skynyrd;Gimme Three Steps
+The Beatles;Here Comes The Sun
+Rolling Stones;Doo Doo Doo Doo Doo (Heartbreaker)
+Allman Brothers Band;Ramblin' Man
+Meatloaf;Bat Out Of Hell
+Dire Straits;Sultan Of Swing
+Elton John;Your Song
+Styx;Renegade
+The Doors;Peace Frog
+The Beatles;I Want To Hold Your Hand
+Jethro Tull;Cross-Eyed Mary
+The Who;We're Not Going To Take It
+Yes;I've Seen All Good People
+Led Zeppelin;Going To California
+Pink Floyd;Hey You
+Elton John;Goodbye Yellow Brick Road
+Styx;Come Sail Away
+Grand Funk Railroad;Closer To Home
+Allman Brothers Band;Sweet Melissa
+The Beatles;Eleanor Rigby
+Grateful Dead;Casey Jones
+Cream;Sunshine Of Your Love
+Van Morrison;Brown Eyed Girl
+Emerson Lake & Palmer;Karn Evil #9
+Queen;Killer Queen
+Fleetwood Mac;Go Your Own Way
+Santana;Black magic Woman
+Grateful Dead;Touch Of Grey
+The Who;The Real Me
+The Beatles;Strawberry Fields Forever
+Billy Joel;Miami 2017
+Bruce Springsteen;Jersey Girl
+Allman Brothers Band;Whipping Post
+Animals;House Of The Rising Sun
+The Doors;Break On Through
+Kansas;Carry On, Wayward Son
+Led Zeppelin;Houses Of The Holy
+AC/DC;Back In Black
+REM;Man On The Moon
+Harry Chapin;Cats In The Cradle
+Grateful Dead;Sugar Magnolia
+Jimi Hendrix;Voodoo Child
+David Bowie;Suffragette City
+Yes;Roundabout
+The Beatles;I Am The Walrus
+Heart;Barracuda
+The Who;Gettin' In Tune
+Eric Clapton;Tears In Heaven
+Rolling Stones;Monkey Man
+Queen;Somebody To Love
+The Doors;The Soft Parade
+The Doors;20th Century Fox
+Rod Stewart;Maggie May
+Led Zeppelin;Immigrant Song
+Bob Dylan;The Hurricane
+Free;All Right Now
+Tom Petty;American Girl
+Aerosmith;Dude (Looks Like A Lady)
+UBeautiful Day
+Kinks;Lola
+Billy Joel;New York State Of Mind
+Janis Joplin;Piece Of My Heart
+Golden Earring;Radar Love
+Rolling Stones;Ruby Tuesday
+Grateful Dead;Box Of Rain
+Pink Floyd;Have A Cigar
+Paul McCartney & Wings;Band On The Run
+Black Sabbath;Iron Man
+Pat Benatar;Heart Breaker
+The Beatles;Revolution
+Bob Segar;Turn The Page
+Foghat;Slow Ride
+Led Zeppelin;Good Times Bad Times
+Bon Jovi;Living On A Prayer
+Van Halen;Ain't Talkin' 'bout Love
+Rolling Stones;Can't You Hear Me Knocking
+Allman Brothers Band;Jessica
+Jackson Browne;The Pretender
+Bruce Springsteen;Hungry Heart
+Eric Clapton;Let It Rain
+Neil Young;Like A Hurricane
+Moody Blues;The Question
+Grateful Dead;Friend Of The Devil
+The Beatles;Taxman
+Rolling Stones;Wild Horses
+Iron Butterfly ;In-A-Gadda-Da-Vida
+Aerosmith;What It Takes
+Guns 'n' Roses;Welcome To The Jungle
+Fleetwood Mac;The Chain
+David Bowie;Space Oddity
+Boston;Rock and Roll Band
+UIn The Name Of Love
+Billy Joel;Angry Young Man
+Paul McCartney & Wings;Line And Let Die
+Jimi Hendrix;Foxy Lady
+Led Zeppelin;D'yer Ma'ker
+Peter Frampton;Do You Feel Like We Do (Live)
+CCR;Bad Moon Rising
+The Who;5:15
+Van Halen;Running With The Devil
+The Beatles;Back In The U.S.S.R.
+Pearl Jam;Jeremy
+Pure Prairie League;Amie
+Queen;We Will Rock You-We Are The Champions
+Neil Young;Southern Man
+Grateful Dead;Uncle John's Band
+Guns 'n' Roses;November Rain
+Procol Harum;A Whiter Shade Of Pale
+The Who;Love Reign O'er Me
+Led Zeppelin;Babe I'm Gonna Leave You
+CSNY;Wooden Ships
+Stevie Nicks;Edge Of Seventeen
+Eric Clapton;Bell Bottom Blues
+Elvis Costello;Alison
+Beach Boys;Good Vibrations
+UNew Year's Day
+The Beatles;And Your Bird Can Sing
+Rolling Stones;Midnight Rambler
+Grateful Dead;Ripple
+Journey;Any Way You Want It
+Eagles;Peaceful Easy Feeling
+The Who;Magic Bus
+Bruce Springsteen;Darkness on the Edge of Town
+Queen;Another One Bites The Dust
+Led Zeppelin;When The Levee Breaks
+CSNY;Woodstock
+Emerson, Lake & Palmer;Lucky Man
+UWhere The Streets Have No Name
+Foreigner;Urgent
+The Beatles;Get Back
+Rolling Stones;Shattered
+Moody Blues;Ride My See-Saw
+Lynyrd Skynyrd;Simple Man
+CCR;Who'll Stop The Rain
+Van Morrison;Into The Mystic
+Billy Idol;White Wedding
+Outlaws;Green Grass And High Tides
+ZZ Top;Tush
+Doors;Touch Me
+Bruce Springsteen;The Rising
+Rolling Stones;Under My Thumb
+Thw Who;Eminence Front
+Rush;Closer To The Heart
+Jethro Tull;Teacher
+Grateful Dead;China Cat Sunflower
+Eagles;Take It Easy
+Bad Company;Shooting Star
+Police;Roxanne
+Black Sabbath;Paranoid
+UI Still Haven't Found What I'm Looking For
+The Band;The Weight
+Jackson Browne;The Loadout-Stay
+Neil Young;Heart Of Gold
+Heart;Magic Man
+Boston;Foreplay/Long Time
+The Beatles;Hello, Goodbye
+Allman Brothers;Midnight Rider
+REM;Losing My Religion
+Tom Petty;Free Fallin'
+Traffic;The Low Spark Of High Heeled Boys
+Aerosmith;Janie's Got A Gun
+Billy Joel;The Ballad Of Billy The Kid
+Rolling Stones;Miss You
+George Thorogood;Bad To The Bone
+Van Morrison;Moondance
+Led Zeppelin;All My Love
+Kinks;All Day And All Of The Night
+The Beatles;Help!
+Manfred Mann's Earth Band;Blinded By The Light
+Pearl jam;Alive
+Rolling Stones;Mother's Little Helper
+Nirvana;Smells Like Teen Spirit
+Eagles;Already Gone
+Led Zeppelin;Dancing Days
+David Bowie;Heroes
+Harry Chapin;Taxi
+CCR;Proud Mary
+The Beatles;Eight Days A Week
+The Beatles;Day Tripper
+Blind Faith;Can't Find My Way Home
+Rolling Stones;Memory Motel
+Chambers Brothers;Time Has Come Today
+Ozzy Osbourne;Mama I'm Coming Home
+Deep Purple;Hush
+Kansas;Dust In The Wind
+Billy Joel;Summer, Highland Falls
+Pink Floyd;Dogs
+Chicago;25 Or 6 To 4
+UOne
+Rolling Stones;Let It Bleed
+Bob Marley;Get Up, Stand Up
+Led Zeppelin;Thank You
+Aerosmith;Pink
+Eagles;Heartache Tonight
+Chuck Berry;Johnny B. Goode
+Nirvana;Come As You Are
+Elton John;Candle In The Wind
+The Beatles;She Loves You
+Steely Dan;Deacon Blues
+Van Halen;Panama
+CCR;Born On The Bayou
+Bruce Springsteen;Badlands
+Yes;Starship Trooper
+Allman Brothers Band;One Way Out
+Styx;Blue Collar Man (Long Nights)
+The Doors;Love Me Two Times
+Paul Simon;You Can Call Me Al
+War;Low Rider
+Cream;Badge
+Police;Every Breath You Take
+Emerson Lake & Palmer;Still You Turn Me On
+Rolling Stones;Beast Of Burden
+Rick Derringer;Rock And Roll Hootchie Koo
+Lou Reed;Take A Walk On The Wild Side
+James Taylor;Fire And Rain
+Lynyrd Skynyrd;That Smell
+Mountain;Theme From An Imaginary Western
+Elton John;Rocket man
+Fleetwood Mac;Landslide
+Bob Segar;Rock And Roll Never Forgets
+Traffic;Glad
+The Beatles;The Long And Winding Road
+Led Zeppelin;Ten Years Gone
+Steely Dan;Reeling In The Years
+Joe Walsh;Life's Been Good
+John Cougar Mellencamp;Pink Houses
+Rush;Limelight
+Stevie Rav Vaughan;Pride & Joy
+Peter Gabriel;In Your Eyes
+Bad Company;Feel Like Making Love
+Van Halen;Girl You Reall Got Me Now
+Mott The Hoople;All The Young Dudes
+Eric Clapton;After Midnight
+Kiss;Detroit Rock City
+George Thorogood;One Bourbon, One Scotch, One Beer
+Rolling Stones;Tumbling Dice
+Stealer's Wheel;Stuck In The Middle With You
+Steve Miller Band;Jet Airliner
+ELO;Fire On High
+Neil Young;Hey Hey My My
+Cheap Trick;I want You To Want Me
+Aerosmith;Train Kept A Rollin'
+Pink Floyd;Mother
+Tom Petty;Even The Loser
+Queen;Fat Bottomed Girls
+Foreigner;Hot Blooded
+Billy Joel;Captain Jack
+Blue Oyster Cult;Burnin' For You
+CSNY;Ohio
+UWith Or Without You
+Thw Who;You Better You Bet
+David Bowie;Rebel Rebel
+Black Crowes;Hard To Handle
+Talking Heads;Burning Down The House
+The Kinks;Celluloid Heroes
+Fleetwood Mac;Dreams
+Rolling Stones;Street Fighting Man
+CSNY;Our House
+Neil Young & Crazyhorse;Powderfinger
+The Beatles;Penny Lane
+Ten Years After;I'd Love To Change The World
+Billy Joel;The Stranger
+Jethro Tull;Hymn 43
+AC/DC;Hell's Bells
+Little Feat;Dixie Chicken
+Bob Marley;Jammin'
+Rolling Stones;Bitch
+Led Zeppelin;Since I've Been Loving You
+Allman Brothers Band;Statesboro Blues
+Elton John;Levon
+CCR;Lodi
+John Cougar Mellencamp;Hurts So Good
+Jimi Hendrix;Little Wing
+Foghat;Fool For The City
+The Beatles;Helter Skelter
+Rolling Stones;All Down The Line
+Rush;Freewill
+Chicago;Saturday In The Park
+Bad Company;Rock And Roll Fantasy
+Boston;Hitch A Ride
+Eagles;One Of These Nights
+The Beatles;Hard Day's Night
+Queen;Crazy Little Thing Called Love
+Lynyrd Skynyrd;Tuesday's Gone
+Billy Joel;Movin' Out
+The Who;Summertime Blues
+Van Halen;Dance The Night Away
+UI Will Follow
+Def Leppard;Pour Some Sugar On Me
+Pretenders;Brass In Pocket
+Yes;And You And I
+Rolling Stones;Little T & A
+Neil Young;The Needle And The Damage Done
+The Ramones;I Wanna Be Sedated
+Guns 'N' Roses;Civil War
+Queen (W David Bowie);Under Pressure
+Eric Clapton;Before You Accuse Me
+Talking Heads;Take Me To The River
+Santana;Evil Ways
+Yes;Owner Of A Lonely Heart
+Steely Dan;Aja
+Jethro Tull;Living In The Past
+Grateful Dead;Shakedown Street
+Police;Message In A Bottle
+Heart;Crazy On You
+Jimmy Buffett;Margaritaville
+Jimi Hendrix;Castles Made Of Sand
+Rolling Stones;As Tears Go By
+Rush;2112
+The Beatles;Because
+CCR;Down On The Corner
+Bruce Springsteen;Tunnel Of Love
+Bob Dylan;Positively 4th Street
+Black Sabbath;War Pigs
+Foreigner;Feels Like The First Time
+David Bowie;Young Americans
+John Cougar Mellencamp;I Need A Lover
+The Beatles;I Saw Her Standing There
+Billy Joel;We Didn't Start The Fire
+Police;Walking On The Moon
+Rolling Stones;Dead Flowers
+Grand Funk Railroad;We're An American Band
+Led Zeppelin;Communications Breakdown
+Thin Lizzy;The Boys Are Back In Town
+Elton John;Crocodile Rock
+Alice Cooper;School's Out
+Jefferson Airplane;Volunteers
+Jackson Browne;Running On Empty
+Lou Reed;Sweet Jane
+Neil Young;Rockin' In The Free World
+The Who;Substitute
+Billy Idol;Rebel Yell
+The Beatles;Nowhere Man
+Santana;Oye Como Va
+Billy Joel;Only The Good Die Young
+Rush;Subdivisions
+Kingsmen;Louie, Louie
+UMysterious Ways
+Allman Brothers Band;In Memory of Elizabeth Reed
+Paul Simon;Me And Julio Down By The Schoolyard
+Don Henley;New York Minute
+Steppenwolf;Magic Carpet Ride
+Van Halen;Hot For Teacher
+The Who;Long Live Rock
+Neil Young;After The Gold Rush
+Yes;Long Distance Runaround
+Eric Clapton;The Core
+Clash;London Calling
+Aerosmith;Back In The Saddle
+Vanilla Fudge;You Keep Me Hanging On
+Eagles;Life In The Fast Lane
+Tom Petty;The Last DJ
+REO Speedwagon;Take It On The Run
+Led Zeppelin;Fool In The Rain
+Rolling Stones;Saint Of Me
+Lynyrd Skynyrd;What's Your Name
+Mountain;Nantucket Sleigh Ride
+ZZ Top;La Grange
+Elvis Presley;Jailhouse Rock
+Edgar Winter;Frankenstein
+Fleetwood Mac;Silver Springs
+Jimi Hendrix;Fire
+Todd Rundgren;Hello It's Me
+Charlie Daniels Band;Devil Went Down To Georgia
+Steely Dan;Dr. Wu
+CSNY;Carry On
+Led Zeppelin;Custard Pie
+Pearl Jam;Black
+Marshall Tucker Band;Can't You See
+Cream;Strange Brew
+Doobie Brothers;Black Water
+Ace Frehley;New York Groove
+Bad Company;Bad Company
+Robin Trower;Bridge Of Sighs
+Guess Who;American Woman
+Moody Blues;Tuesday Afternoon
+The Doors;Alabama Song
+Bob Segar;Against The Wind
+Peter Gabriel;Solsbury Hill
+Rush;Distant Early Warning
+The Beatles;Magical Mystery Tour
+Joe Jackson;Is She Really Going Out With Him
+Bob Dylan;Knockin' On Heaven's Door
+Rod Stewart;Every Picture Tells A Story
+Warren Zevon;Werewolves Of London
+Van Halen;Jump
+Chicago;Feelin' Stronger Everyday
+George Harrison;What Is Life?
+Aretha Franklin;Respect
+J. Geils Band;Musta Got Lost
+Hollies;Long Cool Woman In A Black Dress
+Bruce Springsteen;Backstreets
+Steve Miller Band;The Joker
+Stevie Ray Vaughan;The Sky Is Crying
+Paul McCartney;Jet
+The Who;The Kids Are Alright
+Led Zeppelin;The Battle Of Evermore
+John Cougar Mellencamp;Jack And Diane
+Pat Benatar;Shadows Of The Night
+Van Halen;Right Now
+Ringo Starr;It Don't Come Easy
+Joan Jett And The Blackhearts;I Love Rock And Roll
+Rush;Red Barchetta
+Rolling Stones;Get Off Of My Cloud
+Talking Heads;Psycho Killer
+Jeff Beck With Rod Stewart;People Get Ready
+The Beatles;Ob La Di Ob La Da
+Neil Young;Old Man
+Elton John;Daniel
+Journey;Lovin', Touchin', Squeezin'
+America;A Horse With No Name
+Blondie;One Way Or Another
+Metallica;Enter Sandman
+Tom Petty;Don't Do Me Like That
+Crosby, Stills & Nash;Wasted On The Way
+Steely Dan;Dirty Work
+Def Leppard;Photograph
+CCR;Fortunate Son
+Traffic;Dear Mr. Fantasy
+Jimi Hendrix;The Wind Cries Mary
+Red Rider;Lunatic Fringe
+Joe Walsh;Rocky Mountain Way
+Billy Joel;Big Shot
+Bob Dylan;Just Like A Woman
+Pink Floyd;Welcome To The Machine
+Allman Brothers Band;Ain't Wasting Time No More
+Al Stewart;Year Of The Cat
+The Beatles;Across The Universe
+REM;It's The End Of The World As We Know It
+Squeeze;Pulling Mussels From A Shell
+Bruce Springsteen;Glory Days
+Ted Nugent;Stranglehold
+Supertramp;Give A Little Bit
+Billy Joel;Stiletto
+ELO;Do Ya
+Rolling Stones;She's A Rainbow
+Pearl Jam;Better Man
+Big Country;In A Big Country
+Bob Segar;Night Moves
+Eddie Money;Shakin'
+Simon & Garfunkel;Mrs. Robinson
+Badfinger;Baby Blue
+Foreigner;Jukebox Hero
+Peter Gabriel;Sledgehammer
+Bruce Springsteen;4th Of July Asbury Park (Sandy)
+Allman Brothers Band;Revival
+Bob Dylan;Rainy Day Women
+The Doors;Hello I Love You
+Tom Petty;You Don't Know How It Feels
+Police;Every Little Thing She Does Is Magic
+Santana;Why Don't You And I
+Beatles;All My Loving
+Dave Mason;We Just Disagree
+Pretenders;Middle Of The Road
+Van Halen;Unchained
+Moody Blues;The Voice
+Supertramp;The Logical Song
+Eagles;The Last Resort
+Meat Loaf;You Took The Words Right Out Of My Mouth
+Kansas;Point Of Know Return
+Police;Wrapped Around Your Finger
+USunday Bloody Sunday
+Neil Young;Sugar Mountain
+Lynyrd Skynyrd;Saturday Night Special
+Jethro Tull;Skating Away
+Rod Stewart;Hot Legs
+Rainbow;Street Of Dreams
+Phil Collins;In The Air Tonight
+Joe Cocker;Feelin' Alright
+Grateful Dead;Bertha
+Cream;Tales Of Brave Ulysses
+Bad Company;Can't Get Enough Of Your Love
+Bob Seger;Main Street
+Peter Frampton;Show Me The Way
+Eric Clapton;Further On Up The Road
+Boston;Peace Of Mind
+Allman Brothers Band;Dreams
+Doobie Brothers;China Grove
+Jimi Hendrix;Crosstown Traffic
+Genesis;No Reply At All
+Beatles;Blackbird
+Eric Clapton;Lay Down Sally
+Twisted Sister;We're Not Gonna Take It
+Don Henley;Sunset Grill
+Bruce Springsteen;Dancing In The Dark
+CCR;Have You Ever Seen The Rain
+KISS;Shout It Out Loud
+Led Zeppelin;Trampled Under Foot
+Elton John;All The Young Girls Love Alice
+Supertramp;Take The Long Way Home
+The Clash;Should I Stay Or Should I Go
+Frank Zappa;Joe's Garage
+Mountain;Mississippi Queen
+Alice Cooper;I'm Eighteen
+Billy Joel;Goodnight Saigon
+Beatles;Ticket To Ride
+Neil Young;Cinnamon Girl
+Rolling Stones;Time Is On My Side
+Gerry Rafferty;Baker Street
+Black Crowes;Jealous Again
+Steve Miller Band;Take The Money And Run
+Beatles;Octopus's Garden
+The Cars;Let The Good Times Roll
+Bruce Springsteen;Promised Land
+Santana;Smooth
+Van Halen;Why Can't This Be Love?
+Bad Company;Movin' On
+Tom Petty;Mary Jane's Last Dance
+Pat Benatar;Love Is A Battlefield
+Pete Townshend;Let My Love Open The Door
+Paul Simon;Kodachrome
+Commander Cody;Hot Rod Lincoln
+Stevie Ray Vaughan;If The House Is A-Rockin'
+Led Zeppelin;Heartbreaker/Livin' Lovin' Maid
+Traffic;Freedom Rider
+Police;Don't Stand So Close To Me
+Rush;Fly By Night
+David Bowie;Changes
+Gary Wright;Dream Weaver
+AC/DC;Dirty Deeds Done Dirt Cheap
+The Who;Dr. Jimmy
+Crosby, Stills & Nash;Southern Cross
+The Kinks;Destroyer
+Fleetwood Mac;Gold Dust Woman
+Ted Nugent;Cat Scratch Fever
+Doobie Brothers;Listen To The Music
+Meat Loaf;Two Out Of Three Ain't Bad
+The Doors;People Are Strange
+Beatles;Can't Buy Me Love
+Billy Idol;Mony Mony
+Cheap Trick;Dream Police
+Ramones;Blitzkrieg Bop
+The Band;Up On Cripple Creek
+Billy Joel;The Entertainer
+Patti Smith;Because The Night
+Metallica;Turn The Page
+Donnie Iris;Ah! Leah
+Pink Floyd;Pigs On The Wing
+Moody Blues;The Story In Your Eyes
+ZZ Top;Legs
+Supertramp;Goodbye Stranger
+Led Zeppelin;The Song Remains The Same
+Deep Purple;Perfect Strangers
+Talking Heads;And She Was
+Elton John;Madman Across The Water
+Billy Joel;A Matter Of Trust
+Yes;Close To The Edge
+Police;Synchronicity II
+CCR;Up Around The Bend
+Neil Young;Let's Roll
+Pretenders;Back On The Chain Gang
+Eagles;Take It To The Limit
+CCR;Susie Q
+Jimi Hendrix;Angel
+Deep Purple;Woman From Tokyo
+Def Leppard;Rock Of Ages
+David Bowie;Golden Years
+Bob Marley;One Love
+Joe Cocker;With A Little Help From My Friends
+Van Morrison;Tupelo Honey
+Police;Driven To Tears
+Bruce Springsteen;I'm On Fire
+George Thorogood;Who Do You Love
+Bryan Adams;Cuts Like A Knife
+Beatles;We Can Work It Out
+John Lennon;Watching The Wheels
+James Gang;Walk Away
+Red Hot Chili Peppers;Under The Bridge
+The Who;The Punk Meets The Godfather
+REM;The One I Love
+Elton John;The Bitch Is Back
+Bruce Springsteen;Tenth Avenue Freeze-Out
+Grateful Dead;St. Stephen
+Police;Spirits In The Material World
+Eric Burdon/War;Spill The Wine
+Pink Floyd;Speak To Me-Breathe
+Robert Cray;Smoking Gun
+Steely Dan;Peg
+Warren Zevon;Poor Poor Pitiful Me
+John Cougar Mellencamp;Small Town
+Fleetwood Mac;Say You Love Me
+Tom Petty;Running Down A Dream
+Guns 'N' Roses;Patience
+Stone Temple Pilots;Plush
+John Lennon;Mind Games
+The Doors;Gloria
+Nazareth;Hair Of The Dog
+Talking Heads;Once In A Lifetime
+KISS;Deuce
+Tom Petty;Don't Come Around Here No More
+Rolling Stones;Nineteenth Nervous Breakdown
+Van Halen;Beautiful Girls
+Dire Straits;Money For Nothing
+Eagles;Desperado
+David Bowie;Modern Love
+Bruce Springsteen;She's The One
+Genesis;Misunderstanding
+Chicago;Questions # 67 & 68
+Brewer And Shipley;One Toke Over The Line
+Led Zeppelin;Misty Mountain Hop
+Aerosmith;Mama Kin
+The Beatles;Lucy In The Sky With Diamonds
+Rolling Stones;It's All Over Now
+Stephen Stills;Love The One You're With
+The Doors;Love Her Madly
+Journey;Separate Ways (Worlds Apart)
+Doobie Brothers;Long Train Running
+Billy Joel;It's Still Rock And Roll To Me
+Cream;SWLABR
+Grateful Dead;Scarlet Begonias
+Dire Straits;Romeo And Juliet
+Greg Allman;I'm No Angel
+Janis Joplin;Down On Me
+Bob Segar;Hollywood Nights
+Lou Reed;Rock And Roll
+Toto;Hold The Line
+UBad
+Lenny Kravitz;Are You Gonna Go My Way?
+Pat Benatar;Hit Me With Your Best Shot
+The Beatles;I Want You (She's So Heavy)
+Rascals;Good Lovin'
+Animals;We Gotta Get Out Of This Place
+Bob Dylan;Subterranean Homesick Blues
+Procol Harum;Conquistador
+Derek & The Dominoes;Why Does Love Got To Be So Sad
+Bob Segar;We've Got Tonight
+The Who;Going Mobile
+Led Zeppelin;Wanton Song
+Golden Earring;Twilight Zone
+Spencer Davis Group;Gimme Some Lovin'
+Rod Stewart;Tonight's The Night
+Small Faces;Stay With Me
+Peter Gabriel;Shock The Monkey
+Eagles;Tequila Sunrise
+John Cougar Mellencamp;Rain On The Scarecrow
+Steve Miller Band;Fly Like An eagle
+J Geils Band;Love Stinks
+Dobie Gray;Drift Away
+Eddie Money;I Think I'm In Love
+Simple Minds;Don't You (Forget About Me)
+Simon & Garfunkel;I Am A Rock
+Jackson Browne;Doctor My Eyes
+Joni Mitchell;Help Me
+Foreigner;Cold As Ice
+Molly Hatchet;Flirtin' With Disaster
+Motley Crue;Girls! Girls! Girls!
+Melissa Etheridge;Come To My Window
+J Geils Band;Centerfold
+Supertramp;Breakfast In America
+Jeff Beck;Freeway Jam
+Elton John;Bennie And The Jets
+Bruce Springsteen;Candy's Room
+The Beatles;I'm Looking Through You
+ELO;Turn To Stone
+King Crimson;The Court Of The Crimson King
+Robert Palmer;Bad Case Of Loving You
+Don Henley;The Boys Of Summer
+Robert Plant;Tall Cool One
+ELO;Don't Bring Me Down
+Bad Company;Silver Blue And Gold
+Queensryche;Silent Lucidity
+Boston;Don't Look Back
+Ramones;Rockaway Beach
+Clash;Rock The Casbah
+The Who;Squeeze Box
+Pink Floyd;On The Turning Away
+Rolling Stones;It's Only Rock And Roll
+Moody Blues;I'm Just A Singer (In A Rock And Roll Band)
+Led Zeppelin;How Many More Times
+Guess Who;No Time
+Steely Dan;Do It Again
+Stevie Nicks & Tom Petty;Stop Draggin' My Heart Around
+The Beatles;Getting Better
+Tom Petty;Refugee
+Simon & Garfunkel;Cecilia
+Van Halen;Dancing In The Streets
+Scorpions;No One Like You
+Whitesnake;Here I Go Again
+Steely Dan;Hey Nineteen
+Monroes;What Do All The People Know?
+Pat Benatar;Hell Is For Children
+Squeeze;Tempted
+Sweet;Fox On The Run
+Tesla;Signs
+Blues Traveler;Runaround
+Van Morrison;Have I Told You Lately
+Billy Squier;Lonely Is The Night
+Steely Dan;FM
+Neil Young;Harvest
+Beatles;Dear Prudence
+The Who;Join Together
+Eric Johnson;Cliffs Of Dover
+Van Halen;Jamie's Cryin'
+Jethro Tull;Bouree
+ZZ Top;Gimme All Your Lovin'
+Rush;A Passage To Bangkok
+Joe Jackson;Steppin' Out
+Jimi Hendrix;Are You Experienced?
+Elton John;Philadelphia Freedom
+Bruce Springsteen;The River
+Rolling Stones;Let's Spend The Night Together
+Traffic;Empty Pages
+Stevie Ray Vaughan;Couldn't Stand The Weather
+John Fogerty;Centerfield
+Tom Petty;The Waiting
+Aerosmith;Toys In The Attic
+Billy Joel;You May Be Right
+Stone Temple Pilots;Interstate Love Songs
+Steve Miller Band;Jungle Love
+Sugarloaf;Green-Eyed Lady
+Sting;Fields Of Gold
+Steppenwolf;The Pusher
+BTO;Takin' Care Of Business
+Collective Soul;Shine
+Lee Michaels;Do You Know What I Mean?
+John Lennon;Working Class Hero
+Neil Young;My My Hey Hey
+The Beatles;Love Me Do
+Steely Dan;Josie
+Doors;Five To One
+Billy Idol;Dancing With Myself
+Santana;Soul Sacrifice
+Bruce Springsteen;Cadillac Ranch
+Boston;Smokin'
+Led Zeppelin;In My Time Of Dying
+Bon Jovi;Everyday
+Todd Rundgren;I Saw The Light
+Pearl Jam;Daughter
+Simon & Garfunkel;Bridge Over Troubled Waters
+Stories;Brother Louie
+Kenny Wayne Shepard;Blue On Black
+The Who;Bargain
+Judas Priest;You've Got Another Thing Coming
+Rod Stewart;You Wear It Well
+Led Zeppelin;What Is And What Should Never Be
+Romantics;What I Like About You
+Lynyrd Skynyrd;Ballad Of Curtis Lowe
+Cheap Trick;Surrender
+Norman Greenbaum;Spirit In The Sky
+Beatles;All You Need Is Love
+Elvis Costello;Pump It Up
+Alice Cooper;No More Mr. Nice Guy
+INXS;Need You Tonight
+Crosby Stills & Nash;Long Time Gone
+Wilson Pickett;Mustang Sally
+Journey;Lights
+George Thorogood;Move It On Over
+John Lennon;Instant Karma
+ZZ Top;Cheap Sunglasses
+Phil Collins;I Don't Care Anymore
+CCR;Travelin' Band
+Youngbloods;Get Together
+Argent;Hold Your Head Up
+Jefferson Airplane;Somebody To Love
+Jimmy Buffett;Fins
+Neil Young;Harvest Moon
+Led Zeppelin;Rain Song
+Elton John;Don't Let The Sun Go Down On Me
+John Cougar Mellencamp;Crumblin' Down
+Edgar Winter Group;Free Ride
+Nirvana;All Apologies
+Van Halen;Everybody Wants Some
+Lenny Kravitz;Fly Away
+Rolling Stones;Ain't Too Proud To Beg
+Nazareth;Love Hurts
+Jimi Hendrix;Stone Free
+Paul Simon;50 Ways To Leave Your Lover
+Steve Winwood;While You See A Chance
+Boz Scaggs;Lido Shuffle
+ZZ Top;Sharp Dressed Man
+T. Rex;Bang A Gong
+Clash;Train In Vain
+Steely Dan;Rikki Don't Lose That Number
+.38 Special;Caught Up In You
+Queen;You're My Best Friend
+Split Enz;I Got You
+Jethro Tull;Bungle In The Jungle
+Journey;Wheel In The Sky
+Jackson Browne;Boulevard
+Bruce Springsteen;The Promised Land
+Rod Stewart;Reason To Believe
+Beatles;Fool On The Hill
+Beatles;Lady Madonna
+Pink Floyd;Echoes
+Bon Jovi;You Give Love A Bad Name
+Stevie Ray Vaughan;Crossfire
+John Lennon;Whatever Gets You Through The Night
+Tom Petty;I Won't Back Down
+Todd Rundgren;Bang The Drum All Day
+Paul McCartney;Venus & Mars/Rock Show
+Genesis;Abacab
+Van Halen;(Oh) Pretty Woman
+UTwo Hearts Beat As One
+Rolling Stones;She's So Cold
+Grand Funk Railroad;Some Kind Of Wonderful
+Five Man Electrical Band;Signs
+Pete Townshend;Rough Boys
+Santana;No One To Depend On
+Modern English;I Melt With You
+Peter Frampton;Baby I Love Your Way
+Elton John;Mona Lisas And Mad Hatters
+Steve Miller;Rockin' Me
+James Gang;Funk #49
+Bruce Springsteen;My Hometown
+Eric Clapton;Forever Man
+Stevie Ray Vaughan;Look At Little Sister
+Fleetwood Mac;World Turning
+Talking Heads;Life During Wartime
+Georgia Satellites;Keep Your Hands To Yourself
+Foghat;I Just Want To Make Love To You
+Rolling Stones;When The Whip Comes Down
+James Brown;I Got You (I Feel Good)
+The Beatles;Paperback Writer
+Def Leppard;Foolin'
+ELO;Evil Woman
+Dire Straits;Walk Of Life
+Foreigner;Double Vision
+Eagles;The Long Run
+Boston;Something About You
+The Doors;The Wasp (Texas Radio And The Big Beat)
+America;Sister Golden Hair
+Motley Crue;Smokin' In The Boy's Room
+Yardbirds;For Your Love
+Stray Cats;Rock This Town
+Warren Zevon;Excitable Boy
+Jimmy Buffett;Cheeseburger In Paradise
+Black Crowes;She Talks To Angels
+Van Morrison;Domino
+Eddie Money;Baby Hold On
+Van Halen;And The Cradle Will Rock
+Elton John;Saturday Night's Alright For Fighting
+Bruce Springsteen;Spirits In The Night
+Humble Pie;30 Days In The Hole
+Pink Floyd;Run Like Hell
+Zebra;Tell Me What You Want
+David Essex;Rock On
+Grateful Dead;Playing In The Band
+Bruce Springsteen;Growin' Up
+Guns 'n' Roses;Knockin' On Heaven's Door
+The Doors;Soul Kitchen
+Van Halen;Where Have All the Good Times Gone
+John Lennon;Nobody Told Me
+Dire Straits;Skateaway
+Aerosmith;Love In An Elevator
+Allman Brothers band;No One To Run With
+Cars;Just What I needed
+Bob Seger;Old-Time Rock And Roll
+Van Halen;Little Guitars
+Paul Simon;Late In The Evening
+ZZ Top;I Thank You
+Beatles;Glass Onion
+Tom Petty;You Got Lucky
+Byrds;Eight Miles High
+AC/DC;T.N.T.
+Pretenders;Don't Get Me Wrong
+Doobie Brothers;Rockin' Down The Highway
+Cars;My Best Friend's Girl
+Rare Earth;I Just Want To Celebrate
+Eagles;Lyin' Eyes
+.38 Special;Hold On Loosely
+David Bowie;Let's Dance
+Knack;My Sharona
+Fleetwood Mac;You Make Lovin' Fun
+Elvis Presley;Hound Dog
+BTO;You Ain't Seen Nothing Yet
+Police;Can't Stand Losing You
+Bruce Hornsby;The Way It Is
+Lynyrd Skynyrd;Call Me The Breeze
+Steve Miller Band;Swingtown
+Beach Boys;California Girls
+Police;De Do Do Do De Da Da Da
+Elton John;Burn Down The Mission
+John Cougar Mellencamp;Authority Song
+Sting;We'll Be Together
+The Beatles;Birthday
+Squeeze;Another Nail For My Heart
+The Who;Slip Kid
+Tom Petty;Breakdown
+Aerosmith;Big Ten Inch Record
+Billy Joel;Allentown
+Bryan Adams;Summer Of 69
+George Harrison;All Those Years Ago
+James Taylor;You've Got A Friend
+David Bowie;Fame
+Blue Oyster Cult;Godzilla
+Aerosmith;Rag Doll
+George Thorogood;I Drink Alone
+The Who;I Can See For Miles
+Van Morrison;And It Stoned Me
+Jimi Hendrix;Star Spangled Banner
+Kinks;Low Budget
+Emerson Lake & Palmer;From The Beginning
+Cars;Candy-O
+Beatles;Ballad Of John And Yoko
+Badfinger;Come And Get It
+Eddie Money;Two Tickets To Paradise
+Bob Seger;Katmandu
+Aerosmith;Same Old Song And Dance
+Animals;Don't Bring Me Down
+Robert Plant;In The Mood
+Steely Dan;My Old School
+Chicago;Beginnings
+Gary Glitter;Pock And Roll Part 2
+Elvis Costello;Accidents Will Happen
+Bon Jovi;Runaway
+David Bowie;TVC 15
+Genesis;Turn It On Again
+Focus;Hocus Pocus
+Beatles;Rocky Raccoon
+Beatles;I've Just Seen A Face
+Eric Clapton;I Shot The Sheriff
+Joe Walsh;All Night Long
+Led Zeppelin;Your Time Is Gonna Come
+Steve Winwood;Higher Love
+Southside Johnny;Havin' A Party
+Zombies;Time Of The Season
+Rainbow;Stone Cold
+Dave Edmunds;I Hear You Knockin'
+Cream;I Feel Free
+Deep Purple;Highway Star
+Beatles;Good Day Sunshine
+Don Henley;Dirty Laundry
+The Who;Boris The Spider
+The Band;The Night They Drove Old Dixie Down
+John Cougar Mellencamp;R.O.C.K. In The U.S.A.
+Sweet;Ballroom Blitz
+Firm;Radioactive
+Sammy Hagar;I Can't Drive 55
+Dave Mason;Only You Know And I Know
+Bruce Springsteen;Prove It All Night
+Bob Dylan;Maggie's Farm
+Eagles;In The City
+Genesis;Mama
+Beatles;Rock And Roll Music
