@@ -1,0 +1,122 @@
+[
+  {
+    "Marca": "Fiat",
+    "Modello": "Punto",
+    "Cilindrata (cc)": "1200",
+    "Prezzo (€)": "9500"
+  },
+  {
+    "Marca": "Ford",
+    "Modello": "Focus",
+    "Cilindrata (cc)": "1600",
+    "Prezzo (€)": "18000"
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modello": "Golf",
+    "Cilindrata (cc)": "2000",
+    "Prezzo (€)": "24000"
+  },
+  {
+    "Marca": "Toyota",
+    "Modello": "Yaris",
+    "Cilindrata (cc)": "1500",
+    "Prezzo (€)": "17000"
+  },
+  {
+    "Marca": "BMW",
+    "Modello": "Serie 3",
+    "Cilindrata (cc)": "2000",
+    "Prezzo (€)": "35000"
+  },
+  {
+    "Marca": "Audi",
+    "Modello": "A4",
+    "Cilindrata (cc)": "2500",
+    "Prezzo (€)": "42000"
+  },
+  {
+    "Marca": "Mercedes",
+    "Modello": "Classe A",
+    "Cilindrata (cc)": "1600",
+    "Prezzo (€)": "33000"
+  },
+  {
+    "Marca": "Peugeot",
+    "Modello": "208",
+    "Cilindrata (cc)": "1200",
+    "Prezzo (€)": "14500"
+  },
+  {
+    "Marca": "Renault",
+    "Modello": "Clio",
+    "Cilindrata (cc)": "1400",
+    "Prezzo (€)": "15500"
+  },
+  {
+    "Marca": "Hyundai",
+    "Modello": "i20",
+    "Cilindrata (cc)": "1400",
+    "Prezzo (€)": "16000"
+  },
+  {
+    "Marca": "Honda",
+    "Modello": "Civic",
+    "Cilindrata (cc)": "1800",
+    "Prezzo (€)": "22000"
+  },
+  {
+    "Marca": "Skoda",
+    "Modello": "Octavia",
+    "Cilindrata (cc)": "1600",
+    "Prezzo (€)": "21000"
+  },
+  {
+    "Marca": "Opel",
+    "Modello": "Corsa",
+    "Cilindrata (cc)": "1300",
+    "Prezzo (€)": "14000"
+  },
+  {
+    "Marca": "Tesla",
+    "Modello": "Model 3",
+    "Cilindrata (cc)": "0 (elettrica)",
+    "Prezzo (€)": "48000"
+  },
+  {
+    "Marca": "Nissan",
+    "Modello": "Qashqai",
+    "Cilindrata (cc)": "1600",
+    "Prezzo (€)": "25000"
+  },
+  {
+    "Marca": "Jeep",
+    "Modello": "Renegade",
+    "Cilindrata (cc)": "1400",
+    "Prezzo (€)": "26000"
+  },
+  {
+    "Marca": "Alfa Romeo",
+    "Modello": "Giulia",
+    "Cilindrata (cc)": "2000",
+    "Prezzo (€)": "40000"
+  },
+  {
+    "Marca": "Citroen",
+    "Modello": "C3",
+    "Cilindrata (cc)": "1200",
+    "Prezzo (€)": "13500"
+  },
+  {
+    "Marca": "Kia",
+    "Modello": "Sportage",
+    "Cilindrata (cc)": "1600",
+    "Prezzo (€)": "23000"
+  },
+  {
+    "Marca": "Subaru",
+    "Modello": "Impreza",
+    "Cilindrata (cc)": "2000",
+    "Prezzo (€)": "27000"
+  }
+]

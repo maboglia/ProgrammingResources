@@ -1,0 +1,122 @@
+[
+  {
+    "Nome": "Notebook Pro 15",
+    "Descrizione Breve": "Laptop ad alte prestazioni con display Retina",
+    "Prezzo": "1299.99",
+    "Quantità": "15"
+  },
+  {
+    "Nome": "Smartphone Max",
+    "Descrizione Breve": "Smartphone con tripla fotocamera e memoria espandibile",
+    "Prezzo": "799.99",
+    "Quantità": "50"
+  },
+  {
+    "Nome": "Cuffie Wireless",
+    "Descrizione Breve": "Cuffie Bluetooth con cancellazione del rumore",
+    "Prezzo": "149.99",
+    "Quantità": "100"
+  },
+  {
+    "Nome": "Sedia Ergonomica",
+    "Descrizione Breve": "Sedia da ufficio con supporto lombare regolabile",
+    "Prezzo": "199.99",
+    "Quantità": "30"
+  },
+  {
+    "Nome": "Monitor UltraWide 34",
+    "Descrizione Breve": "Monitor curvo UltraWide da 34 pollici",
+    "Prezzo": "499.99",
+    "Quantità": "20"
+  },
+  {
+    "Nome": "Tablet 10 Pro",
+    "Descrizione Breve": "Tablet con schermo da 10 pollici e 64GB di memoria",
+    "Prezzo": "299.99",
+    "Quantità": "75"
+  },
+  {
+    "Nome": "Smartwatch Fit",
+    "Descrizione Breve": "Orologio intelligente con funzioni fitness avanzate",
+    "Prezzo": "199.99",
+    "Quantità": "40"
+  },
+  {
+    "Nome": "Televisore 4K 55\\\",TV Ultra HD 4K con supporto HDR e smart apps\"",
+    "Descrizione Breve": "699.99",
+    "Prezzo": "25",
+    "Quantità": null
+  },
+  {
+    "Nome": "Frullatore PowerMix",
+    "Descrizione Breve": "Frullatore con diverse velocità e funzione pulse",
+    "Prezzo": "79.99",
+    "Quantità": "120"
+  },
+  {
+    "Nome": "Aspirapolvere Senza Fili",
+    "Descrizione Breve": "Aspirapolvere cordless con lunga autonomia",
+    "Prezzo": "249.99",
+    "Quantità": "35"
+  },
+  {
+    "Nome": "Macchina del Caffè Espresso",
+    "Descrizione Breve": "Macchina per caffè espresso automatica",
+    "Prezzo": "349.99",
+    "Quantità": "60"
+  },
+  {
+    "Nome": "Lampada da Tavolo LED",
+    "Descrizione Breve": "Lampada LED con luminosità regolabile",
+    "Prezzo": "29.99",
+    "Quantità": "200"
+  },
+  {
+    "Nome": "Borraccia Termica 500ml",
+    "Descrizione Breve": "Borraccia in acciaio inox a doppia parete",
+    "Prezzo": "19.99",
+    "Quantità": "150"
+  },
+  {
+    "Nome": "Zaino da Viaggio",
+    "Descrizione Breve": "Zaino spazioso e resistente per il viaggio",
+    "Prezzo": "59.99",
+    "Quantità": "80"
+  },
+  {
+    "Nome": "Fotocamera Digitale 20MP",
+    "Descrizione Breve": "Fotocamera compatta con zoom ottico 10x",
+    "Prezzo": "249.99",
+    "Quantità": "45"
+  },
+  {
+    "Nome": "Power Bank 10000mAh",
+    "Descrizione Breve": "Batteria portatile compatta con doppia porta USB",
+    "Prezzo": "24.99",
+    "Quantità": "300"
+  },
+  {
+    "Nome": "Router WiFi 6",
+    "Descrizione Breve": "Router wireless di ultima generazione per alta velocità",
+    "Prezzo": "129.99",
+    "Quantità": "50"
+  },
+  {
+    "Nome": "Disco SSD 1TB",
+    "Descrizione Breve": "Unità SSD con velocità di trasferimento rapida",
+    "Prezzo": "99.99",
+    "Quantità": "100"
+  },
+  {
+    "Nome": "Smart Speaker",
+    "Descrizione Breve": "Altoparlante intelligente con assistente vocale",
+    "Prezzo": "89.99",
+    "Quantità": "60"
+  },
+  {
+    "Nome": "Occhiali da Sole UV400",
+    "Descrizione Breve": "Occhiali da sole con protezione UV400",
+    "Prezzo": "39.99",
+    "Quantità": "150"
+  }
+]

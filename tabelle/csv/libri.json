@@ -1,0 +1,142 @@
+[
+  {
+    "Titolo": "L'ombra del vento",
+    "Autore": "Carlos Ruiz Zafón",
+    "Pagine": "567",
+    "Editore": "Mondadori",
+    "Prezzo": "15.99"
+  },
+  {
+    "Titolo": "Il nome della rosa",
+    "Autore": "Umberto Eco",
+    "Pagine": "512",
+    "Editore": "Bompiani",
+    "Prezzo": "12.50"
+  },
+  {
+    "Titolo": "1984",
+    "Autore": "George Orwell",
+    "Pagine": "328",
+    "Editore": "Feltrinelli",
+    "Prezzo": "10.90"
+  },
+  {
+    "Titolo": "Il piccolo principe",
+    "Autore": "Antoine de Saint-Exupéry",
+    "Pagine": "96",
+    "Editore": "Bompiani",
+    "Prezzo": "8.99"
+  },
+  {
+    "Titolo": "Orgoglio e pregiudizio",
+    "Autore": "Jane Austen",
+    "Pagine": "352",
+    "Editore": "Einaudi",
+    "Prezzo": "11.99"
+  },
+  {
+    "Titolo": "Harry Potter e la pietra filosofale",
+    "Autore": "J.K. Rowling",
+    "Pagine": "309",
+    "Editore": "Salani",
+    "Prezzo": "14.50"
+  },
+  {
+    "Titolo": "Il grande Gatsby",
+    "Autore": "F. Scott Fitzgerald",
+    "Pagine": "180",
+    "Editore": "Mondadori",
+    "Prezzo": "9.99"
+  },
+  {
+    "Titolo": "Il ritratto di Dorian Gray",
+    "Autore": "Oscar Wilde",
+    "Pagine": "256",
+    "Editore": "Newton Compton",
+    "Prezzo": "6.90"
+  },
+  {
+    "Titolo": "Il signore degli anelli",
+    "Autore": "J.R.R. Tolkien",
+    "Pagine": "1248",
+    "Editore": "Bompiani",
+    "Prezzo": "35.00"
+  },
+  {
+    "Titolo": "La casa degli spiriti",
+    "Autore": "Isabel Allende",
+    "Pagine": "448",
+    "Editore": "Feltrinelli",
+    "Prezzo": "13.99"
+  },
+  {
+    "Titolo": "Cent'anni di solitudine",
+    "Autore": "Gabriel Garcia Marquez",
+    "Pagine": "432",
+    "Editore": "Mondadori",
+    "Prezzo": "14.00"
+  },
+  {
+    "Titolo": "La solitudine dei numeri primi",
+    "Autore": "Paolo Giordano",
+    "Pagine": "304",
+    "Editore": "Mondadori",
+    "Prezzo": "10.50"
+  },
+  {
+    "Titolo": "Anna Karenina",
+    "Autore": "Lev Tolstoj",
+    "Pagine": "864",
+    "Editore": "Einaudi",
+    "Prezzo": "16.99"
+  },
+  {
+    "Titolo": "Il cacciatore di aquiloni",
+    "Autore": "Khaled Hosseini",
+    "Pagine": "391",
+    "Editore": "Piemme",
+    "Prezzo": "13.49"
+  },
+  {
+    "Titolo": "Don Chisciotte della Mancia",
+    "Autore": "Miguel de Cervantes",
+    "Pagine": "928",
+    "Editore": "Einaudi",
+    "Prezzo": "19.90"
+  },
+  {
+    "Titolo": "La fattoria degli animali",
+    "Autore": "George Orwell",
+    "Pagine": "141",
+    "Editore": "Mondadori",
+    "Prezzo": "8.49"
+  },
+  {
+    "Titolo": "Dracula",
+    "Autore": "Bram Stoker",
+    "Pagine": "488",
+    "Editore": "Newton Compton",
+    "Prezzo": "7.90"
+  },
+  {
+    "Titolo": "Viaggio al centro della Terra",
+    "Autore": "Jules Verne",
+    "Pagine": "284",
+    "Editore": "Feltrinelli",
+    "Prezzo": "9.99"
+  },
+  {
+    "Titolo": "Moby Dick",
+    "Autore": "Herman Melville",
+    "Pagine": "720",
+    "Editore": "Einaudi",
+    "Prezzo": "15.50"
+  },
+  {
+    "Titolo": "I promessi sposi",
+    "Autore": "Alessandro Manzoni",
+    "Pagine": "712",
+    "Editore": "Mondadori",
+    "Prezzo": "12.99"
+  }
+]
